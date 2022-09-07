@@ -1,0 +1,3 @@
+if background_color 80,80,80; then
+  clear
+fi
