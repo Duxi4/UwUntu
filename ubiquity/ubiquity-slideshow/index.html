@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<title>ubiquity-slideshow-ubuntu-budgie</title>
+
+		<link href="link/base.css" rel="stylesheet" type="text/css" />
+
+		<base target="_blank" />
+
+		<script type="text/javascript" src="link-core/jquery.js"></script>
+		<script type="text/javascript" src="link-core/jquery.cycle.all.js"></script>
+
+		<script type="text/javascript" src="link-core/base.js"></script>
+
+		<script type="text/javascript">
+			SLIDESHOW_OPTIONS = {
+				timeout:50000,
+				speed:600,
+			}
+		</script>
+
+		<script type="text/javascript" src="link/twitter.js"></script>
+
+		<script type="text/javascript" src="link-core/slideshow.js"></script>
+	</head>
+
+	<body>
+		<div id="wrapper">
+			<div id="slideshow">
+				<div><a href="01_welcome.html"></a></div>
+				<div><a href="02_desktop.html"></a></div>
+				<div><a href="03_browse.html"></a></div>
+				<div><a href="04_office.html"></a></div>
+				<div><a href="05_media.html"></a></div>
+				<div><a href="06_photos.html"></a></div>
+				<div><a href="07_software.html"></a></div>
+				<div><a href="08_gethelp.html"></a></div>
+			</div>
+
+			<div id="controls">
+				<a class="control-arrow" id="prev-slide" style="display:none;"></a>
+				<a class="control-arrow" id="next-slide"></a>
+				<input type="hidden" id="current-slide" />
+			</div>
+		</div>
+	</body>
+</html>
