@@ -296,7 +296,7 @@ start-with-sidebar=true
 
 [org/solus-project/budgie-panel/instance/budgie-menu/{7691ab29-2e9d-11ed-bd77-65a65d6e70cf}]
 enable-menu-label=false
-menu-icon='/usr/share/discord_logo.png'
+menu-icon='/usr/share/rounded-logo.png'
 
 [org/ubuntubudgie/plugins/budgie-appmenu]
 category-spacing=6
