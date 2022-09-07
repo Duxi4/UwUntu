@@ -1,6 +1,6 @@
 #!/bin/bash
 #Note: No guarantee that this theme will be seen correctly at all screen resolutions available
-#execute only from within the meadow folder!
+#execute only from within the uwuntu-plymouth folder!
 
 sudo mkdir /usr/share/plymouth/themes/uwuntu-plymouth
 clear
