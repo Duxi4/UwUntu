@@ -12,6 +12,7 @@ window-width=540
 
 [com/gexperts/Tilix]
 prompt-on-close=false
+prompt-on-close-process=false
 quake-specific-monitor=0
 terminal-title-show-when-single=false
 terminal-title-style='small'
@@ -24,6 +25,7 @@ visible-name='Default'
 
 [com/solus-project/budgie-panel]
 builtin-theme=false
+confirm-remove-applet=false
 layout='redmond'
 migration-level=1
 panels=['7691ab28-2e9d-11ed-bd77-65a65d6e70cf']
@@ -133,19 +135,19 @@ preload-engines=['xkb:es::spa']
 version='1.5.26'
 
 [net/launchpad/plank/docks/dock1]
-alignment='center'
+alignment='end'
 auto-pinning=true
 current-workspace-only=false
-dock-items=['budgie-welcome.dockitem', 'org.gnome.Software.dockitem', 'rhythmbox.dockitem', 'libreoffice-writer.dockitem', 'libreoffice-calc.dockitem', 'firefox_firefox.dockitem', 'nemo.dockitem', 'ubuntu-budgie-welcome_budgie-themes.dockitem']
+dock-items=['org.gnome.Software.dockitem', 'rhythmbox.dockitem', 'libreoffice-writer.dockitem', 'libreoffice-calc.dockitem', 'firefox_firefox.dockitem', 'nemo.dockitem', 'desktop.dockitem']
 hide-delay=500
-hide-mode='window-dodge'
-icon-size=32
+hide-mode='dodge-maximized'
+icon-size=24
 items-alignment='center'
 lock-items=false
-monitor=''
+monitor='Virtual1'
 offset=0
 pinned-only=false
-position='bottom'
+position='top'
 pressure-reveal=false
 show-dock-item=false
 theme='Transparent'
@@ -183,7 +185,7 @@ translate=true
 [org/gnome/desktop/background]
 color-shading-type='solid'
 picture-options='zoom'
-picture-uri='file:///usr/share/backgrounds/budgie/cut_tree_by_jacob.jpg'
+picture-uri='file:///usr/share/backgrounds/Wall15.jpg'
 primary-color='#000000'
 secondary-color='#000000'
 
@@ -203,7 +205,7 @@ numlock-state=true
 [org/gnome/desktop/screensaver]
 color-shading-type='solid'
 picture-options='zoom'
-picture-uri='file:///usr/share/backgrounds/budgie/cut_tree_by_jacob.jpg'
+picture-uri='file:///usr/share/backgrounds/Wall15.jpg'
 primary-color='#000000'
 secondary-color='#000000'
 
@@ -227,7 +229,7 @@ active-plugins=['docinfo', 'modelines', 'filebrowser', 'openlinks', 'spell', 'so
 [org/gnome/gedit/plugins/filebrowser]
 root='file:///'
 tree-view=true
-virtual-root='file:///home/strix'
+virtual-root='file:///home/strix/Desktop'
 
 [org/gnome/gedit/preferences/ui]
 show-tabs-mode='auto'
@@ -238,6 +240,26 @@ side-panel-active-page='GeditWindowDocumentsPanel'
 side-panel-size=200
 size=(900, 700)
 state=87168
+
+[org/gnome/gthumb/browser]
+fullscreen-sidebar='hidden'
+fullscreen-thumbnails-visible=false
+maximized=false
+sidebar-sections=['GthFileProperties:expanded', 'GthFileComment:expanded', 'GthFileDetails:expanded', 'GthImageHistogram:expanded']
+sidebar-visible=true
+sort-inverse=false
+sort-type='file::mtime'
+startup-current-file='file:///usr/share/backgrounds/Xplo_by_Hugo_Cliff.png'
+startup-location='file:///usr/share/backgrounds'
+statusbar-visible=true
+thumbnail-list-visible=true
+viewer-sidebar='hidden'
+
+[org/gnome/gthumb/data-migration]
+catalogs-2-10=true
+
+[org/gnome/gthumb/general]
+active-extensions=['23hq', 'bookmarks', 'burn_disc', 'catalogs', 'change_date', 'comments', 'contact_sheet', 'convert_format', 'desktop_background', 'edit_metadata', 'exiv2_tools', 'file_manager', 'find_duplicates', 'flicker', 'gstreamer_tools', 'gstreamer_utils', 'image_print', 'image_rotation', 'importer', 'jpeg_utils', 'list_tools', 'oauth', 'photo_importer', 'raw_files', 'red_eye_removal', 'rename_series', 'resize_images', 'search', 'selections', 'slideshow', 'terminal', 'webalbums']
 
 [org/gnome/settings-daemon/plugins/media-keys]
 custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/budgie-show-desktop/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/budgie-show-files-test/']
@@ -274,7 +296,7 @@ sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(23, 0)
+window-position=(258, 0)
 window-size=(1203, 836)
 
 [org/nemo/desktop]
@@ -296,13 +318,13 @@ start-with-sidebar=true
 
 [org/solus-project/budgie-panel/instance/budgie-menu/{7691ab29-2e9d-11ed-bd77-65a65d6e70cf}]
 enable-menu-label=false
-menu-icon='/usr/share/rounded-logo.png'
+menu-icon='/usr/share/discord_logo.png'
 
 [org/ubuntubudgie/plugins/budgie-appmenu]
 category-spacing=6
 enable-powerstrip=true
 rows=3
-use-category=true
+use-category=false
 
 [org/ubuntubudgie/plugins/budgie-dropby]
 popup-corner=4
