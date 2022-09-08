@@ -1,5 +1,6 @@
 sudo snap install discord
 sudo snap install chromium
+sudo snap install spotify
 sudo apt remove plank
 sudo apt install calibre
 sudo apt install dconf-editor
@@ -13,10 +14,10 @@ curl -L https://github.com/oh-my-fish/oh-my-fish/raw/master/bin/install > instal
 fish install
 omf install lambda
 omf theme lambda 
-# /home/.local/omf/themes/lambda/functions/fish_prompt.fish
+# /home/.local/share/omf/themes/lambda/functions/fish_prompt.fish
 
 
-
+/* ESTO HAY QUE HACERLO CADA VEZ QUE SE CREA UN USUARIO
 #Neofetch 
 mv neofetch.conf /neofetch/config.cong
 neofetch  --ascii Desktop/ascii.txt  --colors 13 3 3 13 13 7
@@ -24,6 +25,8 @@ neofetch  --ascii Desktop/ascii.txt  --colors 13 3 3 13 13 7
 #FISH
 mv config.fish a su sitio
 
-
-
 sudo load / < visual-backup
+
+/* HASTA AQUI
+
+
