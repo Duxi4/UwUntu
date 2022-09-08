@@ -1,0 +1,29 @@
+sudo snap install discord
+sudo snap install chromium
+sudo apt remove plank
+sudo apt install calibre
+sudo apt install dconf-editor
+sudo apt install vlc
+sudo apt install qbittorrent
+sudo apt install neofetch
+#neofetch | lolcat -F 0.0000001 -S 83000000 
+sudo apt install fish
+sudo apt install git
+curl -L https://github.com/oh-my-fish/oh-my-fish/raw/master/bin/install > install
+fish install
+omf install lambda
+omf theme lambda 
+# /home/.local/omf/themes/lambda/functions/fish_prompt.fish
+
+
+
+#Neofetch 
+mv neofetch.conf /neofetch/config.cong
+neofetch  --ascii Desktop/ascii.txt  --colors 13 3 3 13 13 7
+
+#FISH
+mv config.fish a su sitio
+
+
+
+sudo load / < visual-backup
