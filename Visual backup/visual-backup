@@ -23,6 +23,22 @@ window-style='disable-csd'
 [com/gexperts/Tilix/profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
 visible-name='Default'
 
+[com/github/maoschanz/drawing]
+last-active-tool='pencil'
+last-version='0.8.5'
+maximized=false
+
+[com/github/maoschanz/drawing/tools-options]
+last-active-shape='polygon'
+last-delete-replace='alpha'
+last-font-name='Sans'
+last-left-rgba=['0.8', '0.0', '0.0', '1.0']
+last-right-rgba=['1.0', '1.0', '0.0', '0.5']
+last-shape-filling='empty'
+last-size=5
+last-text-background='outline'
+use-antialiasing=true
+
 [com/solus-project/budgie-panel]
 builtin-theme=false
 confirm-remove-applet=false
@@ -157,7 +173,7 @@ zoom-enabled=true
 zoom-percent=150
 
 [org/buddiesofbudgie/control-center]
-last-panel='background'
+last-panel='user-accounts'
 
 [org/gnome/2048]
 window-height=604
@@ -238,7 +254,7 @@ show-tabs-mode='auto'
 bottom-panel-size=140
 side-panel-active-page='GeditWindowDocumentsPanel'
 side-panel-size=200
-size=(900, 700)
+size=(991, 536)
 state=87168
 
 [org/gnome/gthumb/browser]
@@ -285,6 +301,10 @@ overrides={'Gtk/ShellShowsAppMenu': <0>, 'Gtk/DecorationLayout': <'menu:minimize
 [org/gnome/software]
 first-run=false
 
+[org/gtk/settings/color-chooser]
+custom-colors=[(0.80000000000000004, 0.0, 0.0, 1.0), (1.0, 1.0, 0.0, 0.5)]
+selected-color=(true, 0.80000000000000004, 0.0, 0.0, 1.0)
+
 [org/gtk/settings/file-chooser]
 date-format='regular'
 location-mode='path-bar'
@@ -296,7 +316,7 @@ sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(258, 0)
+window-position=(23, 0)
 window-size=(1203, 836)
 
 [org/nemo/desktop]
@@ -310,7 +330,7 @@ disable-menu-warning=false
 show-hidden-files=true
 
 [org/nemo/window-state]
-geometry='800x550+58+99'
+geometry='800x439+100+100'
 maximized=false
 sidebar-bookmark-breakpoint=5
 start-with-menu-bar=false
@@ -318,7 +338,10 @@ start-with-sidebar=true
 
 [org/solus-project/budgie-panel/instance/budgie-menu/{7691ab29-2e9d-11ed-bd77-65a65d6e70cf}]
 enable-menu-label=false
-menu-icon='/usr/share/discord_logo.png'
+menu-icon='/usr/share/icons/rounded-logo.png'
+
+[org/ubuntubudgie/armconfig]
+runarmconfig=false
 
 [org/ubuntubudgie/plugins/budgie-appmenu]
 category-spacing=6
