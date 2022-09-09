@@ -7,6 +7,7 @@ sudo apt install dconf-editor
 sudo apt install vlc
 sudo apt install qbittorrent
 sudo apt install neofetch
+sudo apt install gnome-cards-data
 #neofetch | lolcat -F 0.0000001 -S 83000000 
 sudo apt install fish
 sudo apt install git
