@@ -18,7 +18,7 @@ omf theme lambda
 # /home/.local/share/omf/themes/lambda/functions/fish_prompt.fish
 
 
-/* ESTO HAY QUE HACERLO CADA VEZ QUE SE CREA UN USUARIO
+### ESTO HAY QUE HACERLO CADA VEZ QUE SE CREA UN USUARIO ###
 #Neofetch 
 mv neofetch.conf /neofetch/config.cong
 neofetch  --ascii Desktop/ascii.txt  --colors 13 3 3 13 13 7
@@ -27,7 +27,6 @@ neofetch  --ascii Desktop/ascii.txt  --colors 13 3 3 13 13 7
 mv config.fish a su sitio
 
 sudo load / < visual-backup
-
-/* HASTA AQUI
+### HASTA AQUI ###
 
 

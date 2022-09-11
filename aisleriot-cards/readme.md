@@ -1,3 +1,12 @@
+HOW TO CREATE THE SVG FILE:
+Make sure the modified (or new) vectors are inside of each card (if you place a figure on the 10 of clubs, move the vectors inside the 10 of clubs).
+
+If you use Adobe Illustrator, use File > Export as > svg instead of File > Save as. If you save instead of export, the vectors will move down the card.
+
+################################################################################
+
+HOW TO CREATE THE SVGZ FILE:
+
 Download the aisleriot git (or use the downloaded repository)
 https://gitlab.gnome.org/GNOME/aisleriot
 
@@ -16,7 +25,8 @@ If there is not that directory, install the package gnome-cards-data
 
 ############################################################################
 
-How to create the svg file:
-Make sure the modified (or new) vectors are inside of each card (if you place a figure on the 10 of clubs, move the vectors inside the 10 of clubs).
+AUDIO FOLDER:
 
-If you use Adobe Illustrator, use File > Export as > svg instead of File > Save as. If you save instead of export, the vectors will move down the card.
+The sounds location is /usr/share/aisleriot/sounds
+
+Move the content of audio to /usr/share/aisleriot/sounds
