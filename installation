@@ -20,7 +20,7 @@ omf theme lambda
 
 ### ESTO HAY QUE HACERLO CADA VEZ QUE SE CREA UN USUARIO ###
 #Neofetch 
-mv neofetch.conf /neofetch/config.cong
+mv neofetch.conf /neofetch/config.conf
 neofetch  --ascii Desktop/ascii.txt  --colors 13 3 3 13 13 7
 
 #FISH

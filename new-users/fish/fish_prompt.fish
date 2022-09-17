@@ -9,7 +9,7 @@ function fish_prompt
   if not set -q __fish_prompt_char
     switch (id -u)
       case 0
-        set -g __fish_prompt_char 'SUwU'
+        set -g __fish_prompt_char 'S-UwU'
       case '*'
         set -g __fish_prompt_char 'UwU'
     end
@@ -25,6 +25,9 @@ function fish_prompt
   set -l blue (set_color blue)
   set -l limegreen (set_color 87ff00)
   set -l purple (set_color af5fff)
+  set -l uwupink (set_color F74780)
+  set -l uwudarkpink (set_color FFAAF5)
+  set -l uwulightpink (set_color 850087)
 
   # Configure __fish_git_prompt
   set -g __fish_git_prompt_char_stateseparator ' '
@@ -42,14 +45,14 @@ function fish_prompt
   ##
   ## Line 1
   ##
-  echo -n $hostcolor'╭─'$hotpink$current_user$white' at '$orange$__fish_prompt_hostname$white' in '$limegreen(pwd|sed "s=$HOME=⌁=")$turquoise
+  echo -n $uwudarkpink'╭─'$uwulightpink $current_user$uwudarkpink' at '$uwulightpink$__fish_prompt_hostname$uwudarkpink' in '$uwulightpink(pwd|sed "s=$HOME=⌁=")$turquoise
   __fish_git_prompt " (%s)"
   echo
 
   ##
   ## Line 2
   ##
-  echo -n $hostcolor'╰'
+  echo -n $uwudarkpink'╰'
 
   # Disable virtualenv's default prompt
   set -g VIRTUAL_ENV_DISABLE_PROMPT true
@@ -94,6 +97,6 @@ function fish_prompt
   ##
   ## Rest of the prompt
   ##
-  echo -n $hostcolor'─'$white$__fish_prompt_char $normal
+  echo -n $uwudarkpink'─ '$uwupink$__fish_prompt_char $normal
 end
 
