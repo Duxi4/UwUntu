@@ -1,0 +1,5 @@
+[x.dm.slick-greeter]
+font-name='Ubuntu 11'
+background='/usr/share/backgrounds/Wall15.jpg'
+draw-grid=false
+theme-name='Pocillo-dark'
