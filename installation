@@ -11,6 +11,7 @@ sudo apt install gnome-cards-data
 #neofetch | lolcat -F 0.0000001 -S 83000000 
 sudo apt install fish
 sudo apt install git
+sudo apt install gnome-nibbles
 curl -L https://github.com/oh-my-fish/oh-my-fish/raw/master/bin/install > install
 fish install
 omf install lambda
@@ -21,7 +22,7 @@ omf theme lambda
 /* ESTO HAY QUE HACERLO CADA VEZ QUE SE CREA UN USUARIO
 #Neofetch 
 mv neofetch.conf /neofetch/config.cong
-neofetch  --ascii Desktop/ascii.txt  --colors 13 3 3 13 13 7
+neofetch  --backend kitty --source rounded-logo.png --colors 13 3 3 13 13 7
 
 #FISH
 mv config.fish a su sitio

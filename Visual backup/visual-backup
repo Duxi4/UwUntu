@@ -42,6 +42,7 @@ use-antialiasing=true
 [com/solus-project/budgie-panel]
 builtin-theme=false
 confirm-remove-applet=false
+dark-theme=true
 layout='redmond'
 migration-level=1
 panels=['7691ab28-2e9d-11ed-bd77-65a65d6e70cf']
@@ -144,7 +145,7 @@ show-date=false
 use-custom-timezone=false
 
 [com/ubuntu/update-notifier]
-release-check-time=uint32 1662548726
+release-check-time=uint32 1664215174
 
 [desktop/ibus/general]
 preload-engines=['xkb:es::spa']
@@ -173,7 +174,7 @@ zoom-enabled=true
 zoom-percent=150
 
 [org/buddiesofbudgie/control-center]
-last-panel='user-accounts'
+last-panel='background'
 
 [org/gnome/2048]
 window-height=604
@@ -212,8 +213,8 @@ sources=[('xkb', 'es')]
 [org/gnome/desktop/interface]
 color-scheme='prefer-dark'
 cursor-theme='DMZ-White'
-gtk-theme='QogirBudgie-dark'
-icon-theme='Pocillo'
+gtk-theme='vimix-dark-beryl'
+icon-theme='Marwaita-Dark'
 
 [org/gnome/desktop/peripherals/keyboard]
 numlock-state=true
@@ -238,6 +239,9 @@ num-workspaces=1
 [org/gnome/evolution-data-server]
 migrated=true
 network-monitor-gio-name=''
+
+[org/gnome/file-roller/listing]
+show-path=false
 
 [org/gnome/gedit/plugins]
 active-plugins=['docinfo', 'modelines', 'filebrowser', 'openlinks', 'spell', 'sort']
@@ -330,8 +334,8 @@ disable-menu-warning=false
 show-hidden-files=true
 
 [org/nemo/window-state]
-geometry='800x439+100+100'
-maximized=false
+geometry='799x445+50+50'
+maximized=true
 sidebar-bookmark-breakpoint=5
 start-with-menu-bar=false
 start-with-sidebar=true
