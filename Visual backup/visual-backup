@@ -1,7 +1,7 @@
 [apps/update-manager]
 first-run=false
-launch-count=1
-launch-time=int64 1662548733
+launch-count=2
+launch-time=int64 1664216267
 
 [ca/desrt/dconf-editor]
 saved-pathbar-path='/com/solus-project/budgie-panel/panels/{7691ab28-2e9d-11ed-bd77-65a65d6e70cf}/'
@@ -117,7 +117,7 @@ grouping=true
 lock-icons=false
 middle-click-launch-new-instance=false
 only-pinned=false
-pinned-launchers=['com.gexperts.Tilix.desktop', 'firefox_firefox.desktop', 'nemo.desktop', 'discord_discord.desktop']
+pinned-launchers=['kitty.desktop', 'firefox_firefox.desktop', 'nemo.desktop', 'discord_discord.desktop']
 require-double-click-to-launch=false
 restrict-to-workspace=false
 show-all-windows-on-click=true

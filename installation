@@ -23,11 +23,11 @@ omf theme lambda
 #Neofetch 
 <<<<<<< HEAD
 mv neofetch.conf /neofetch/config.cong
-neofetch  --backend kitty --source rounded-logo.png --colors 13 3 3 13 13 7
+neofetch  --backend kitty --source roundelogo_256.png --colors 13 3 3 13 13 7
 =======
 mv neofetch.conf /neofetch/config.conf
 neofetch  --ascii Desktop/ascii.txt  --colors 13 3 3 13 13 7
->>>>>>> 0734b31aad92a3fe17c6215d8fa19a919ef1296d
+
 
 #FISH
 mv config.fish a su sitio
