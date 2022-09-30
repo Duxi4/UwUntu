@@ -1,0 +1,105 @@
+# 
+# Translators:
+# abuyop <abuyop@gmail.com>, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: abuyop <abuyop@gmail.com>, 2022\n"
+"Language-Team: Malay (Malaysia) (https://www.transifex.com/ubuntu-budgie/teams/72251/ms_MY/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ms_MY\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: index.html:14
+msgid "Main Menu"
+msgstr "Menu Utama"
+
+#: index.html:24
+msgid "Choose an option to discover your new operating system."
+msgstr "Pilih satu pilihan untuk menjelajah sistem pengoperasian baharu anda."
+
+#: index.html:36
+msgid "Introduction"
+msgstr "Pengenalan"
+
+#: index.html:42
+msgid "Features"
+msgstr "Fitur"
+
+#: index.html:48
+msgid "Getting Started"
+msgstr "Membiasakan Diri"
+
+#: index.html:54
+msgid "Installation Help"
+msgstr "Bantuan Pemasangan"
+
+#: index.html60, 117
+msgid "Recommendations"
+msgstr "Saranan"
+
+#: index.html:78
+msgid "Online Store"
+msgstr "Kedai Dalam Talian"
+
+#: index.html:84
+msgid "Community"
+msgstr "Komuniti"
+
+#: index.html:90
+msgid "Get Involved"
+msgstr "Jom Sertai"
+
+#: index.html:96
+msgid "Donate"
+msgstr "Mari Menderma"
+
+#: index.html:106
+msgid "Install Now"
+msgstr "Pasang Sekarang"
+
+#: index.html:113
+msgid "Install Software"
+msgstr "Pasang Perisian"
+
+#: index.html:115
+msgid "Budgie Extras"
+msgstr "Ekstra Budgie"
+
+#: index.html:118
+msgid "Software Center"
+msgstr "Pusat Perisian"
+
+#: index.html:119
+msgid "Snap Apps"
+msgstr "Apl Snap"
+
+#: index.html:121
+msgid "Flatpak Apps"
+msgstr "Apl Flatpak"
+
+#: index.html:123
+msgid "Gaming"
+msgstr "Permainan Digital"
+
+#: index.html:129
+msgid "Themes & Layouts"
+msgstr "Tema & Bentangan"
+
+#: index.html:139
+msgid "Get Support:"
+msgstr "Dapatkan Sokongan:"
+
+#: index.html:151
+msgid "Facebook Group"
+msgstr "Kumpulan Facebook"
+
+#: index.html:154
+msgid "Facebook Page"
+msgstr "Laman Facebook"

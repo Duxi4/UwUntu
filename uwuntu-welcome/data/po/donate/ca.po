@@ -1,0 +1,74 @@
+# 
+# Translators:
+# Davidmp <medipas@gmail.com>, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: Davidmp <medipas@gmail.com>, 2022\n"
+"Language-Team: Catalan (https://www.transifex.com/ubuntu-budgie/teams/72251/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: donate.html:13
+msgid "Donate"
+msgstr "Feu una donació"
+
+#: donate.html:17
+msgid ""
+"<strong>Ubuntu Budgie</strong> is a community driven GNU/Linux distribution "
+"that combines the powerful Ubuntu base with the beautiful Budgie Desktop to "
+"provide a user friendly, modern desktop operating system."
+msgstr ""
+"<strong>Ubuntu Budgie</strong> és una comunitat de GNU/Linux que combina la "
+"potència de la base d'Ubuntu amb el bonic escriptori Budgie per proporcionar"
+" un sistema operatiu modern i fàcil d'usar."
+
+#: donate.html:21
+msgid ""
+"The goal of Ubuntu Budgie is to provide a stable operating system that "
+"offers a familiar user experience, and usable for both newbies and advanced "
+"users alike. We are part of the official Ubuntu community, which provides "
+"for you better visibility and support. However we don't get any funding from"
+" Canonical (the company that pays for Ubuntu up-keep and development)."
+msgstr ""
+"L'objectiu de l'Ubuntu Budgie és proporcionar un sistema operatiu estable "
+"que ofereixi una experiència familiar, que puguin fer servir tant usuaris "
+"inexperts com avançats. Formem part de la comunitat oficial d'Ubuntu, fet "
+"que proporciona més visibilitat i suport. Ara bé, no rebem cap fons de "
+"Canonical (l'empresa que paga el manteniment i el desenvolupament de "
+"l'Ubuntu)."
+
+#: donate.html:26
+msgid ""
+"Ubuntu Budgie is an open source project and any money raised will be used to"
+" meet maintenance costs of the project, support the project and give back to"
+" all projects that make up Ubuntu Budgie. Every contributor will be "
+"displayed proudly on our website. How your money is spent is displayed so "
+"you can be assured your contributions are being used wisely. Patreon "
+"donations will be made visible on confirmation of the donation received at "
+"the beginning of the next month. Paypal donations will appear ASAP after the"
+" donation is received."
+msgstr ""
+"L'Ubuntu Budgie és un projecte de codi obert i qualssevol diners que "
+"s'aconsegueixin es destinaran als costos de manteniment i suport de tots els"
+" projectes que el fan. Cada col·laborador es mostrarà amb orgull al nostre "
+"lloc web. També hi mostrem com es gasten els vostres diners per tal que "
+"pugueu estar segurs que la contribució s'usa de manera assenyada. Les "
+"donacions de Patreon es faran visibles amb la confirmació de la donació "
+"rebuda a principis del mes següent. Les donacions de PayPal apareixeran "
+"després de rebre la donació."
+
+#: donate.html:34
+msgid ""
+"If you believe that our cause is worthy and it is something that needs to go"
+" on without any barriers, then please consider contributing to the project."
+msgstr ""
+"Si creieu que la nostra causa és digna i que cal continuar sense obstacles, "
+"considereu la possibilitat de contribuir al projecte."

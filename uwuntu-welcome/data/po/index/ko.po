@@ -1,0 +1,106 @@
+# 
+# Translators:
+# SDSK <sdsk@sdsk.one>, 2017
+# Kwon.Yongchan <ruvyn@naver.com>, 2021
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: Kwon.Yongchan <ruvyn@naver.com>, 2021\n"
+"Language-Team: Korean (https://www.transifex.com/ubuntu-budgie/teams/72251/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: index.html:14
+msgid "Main Menu"
+msgstr "주 메뉴"
+
+#: index.html:24
+msgid "Choose an option to discover your new operating system."
+msgstr "옵션을 선택하여 새로운 운영체제의 기능을 확인해 보세요."
+
+#: index.html:36
+msgid "Introduction"
+msgstr "소개"
+
+#: index.html:42
+msgid "Features"
+msgstr "기능"
+
+#: index.html:48
+msgid "Getting Started"
+msgstr "시작하기"
+
+#: index.html:54
+msgid "Installation Help"
+msgstr "설치 도움말"
+
+#: index.html60, 117
+msgid "Recommendations"
+msgstr "추천"
+
+#: index.html:78
+msgid "Online Store"
+msgstr "온라인 상점"
+
+#: index.html:84
+msgid "Community"
+msgstr "커뮤니티"
+
+#: index.html:90
+msgid "Get Involved"
+msgstr "기여하기"
+
+#: index.html:96
+msgid "Donate"
+msgstr "기부"
+
+#: index.html:106
+msgid "Install Now"
+msgstr "지금 설치하기"
+
+#: index.html:113
+msgid "Install Software"
+msgstr "소프트웨어 설치하기"
+
+#: index.html:115
+msgid "Budgie Extras"
+msgstr "Budgie 엑스트라"
+
+#: index.html:118
+msgid "Software Center"
+msgstr "소프트웨어 센터"
+
+#: index.html:119
+msgid "Snap Apps"
+msgstr "Snap 앱"
+
+#: index.html:121
+msgid "Flatpak Apps"
+msgstr "Flatpak 앱"
+
+#: index.html:123
+msgid "Gaming"
+msgstr "게임 관리"
+
+#: index.html:129
+msgid "Themes & Layouts"
+msgstr "테마 & 레이아웃"
+
+#: index.html:139
+msgid "Get Support:"
+msgstr "지원 받기:"
+
+#: index.html:151
+msgid "Facebook Group"
+msgstr "페이스북 그룹"
+
+#: index.html:154
+msgid "Facebook Page"
+msgstr "페이스북 페이지"

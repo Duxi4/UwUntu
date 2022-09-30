@@ -1,0 +1,20 @@
+#!/bin/bash
+
+if [ -f "/etc/apt/preferences.d/corectrl" ]; then
+echo "Repository pinning file already exists, skipping"
+
+else
+sh -c "cat > /etc/apt/preferences.d/corectrl << \"EOF\"
+# Never prefer packages from the ernstp repository
+Package: *
+Pin: release o=LP-PPA-ernstp-mesarc
+Pin-Priority: 1
+
+# Allow upgrading only corectrl from LP-PPA-ernstp-mesarc
+Package: corectrl
+Pin: release o=LP-PPA-ernstp-mesarc
+Pin-Priority: 500
+EOF
+"
+
+fi

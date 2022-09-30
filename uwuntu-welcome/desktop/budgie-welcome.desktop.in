@@ -1,0 +1,12 @@
+[Desktop Entry]
+Terminal=false
+Type=Application
+Categories=Utility;GNOME;GTK;
+StartupNotify=false
+Name=Budgie Welcome
+Exec=budgie-welcome
+Icon=distributor-logo-ubuntu-budgie
+Comment=Find out about your operating system
+Keywords=desktop;preferences;
+OnlyShowIn=Budgie;
+StartupWMClass=budgie-welcome

@@ -1,0 +1,106 @@
+# 
+# Translators:
+# Illia Volochii <illia.volochii@gmail.com>, 2018
+# zubr139, 2021
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: zubr139, 2021\n"
+"Language-Team: Ukrainian (https://www.transifex.com/ubuntu-budgie/teams/72251/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: index.html:14
+msgid "Main Menu"
+msgstr "Головне Меню"
+
+#: index.html:24
+msgid "Choose an option to discover your new operating system."
+msgstr "Виберіть з чого почати відкриття Вашої нової операційної системи."
+
+#: index.html:36
+msgid "Introduction"
+msgstr "Вступ"
+
+#: index.html:42
+msgid "Features"
+msgstr "Особливості"
+
+#: index.html:48
+msgid "Getting Started"
+msgstr "Початок Роботи"
+
+#: index.html:54
+msgid "Installation Help"
+msgstr "Довідка щодо Встановлення"
+
+#: index.html60, 117
+msgid "Recommendations"
+msgstr "Поради"
+
+#: index.html:78
+msgid "Online Store"
+msgstr "Онлайн-магазин"
+
+#: index.html:84
+msgid "Community"
+msgstr "Спільнота"
+
+#: index.html:90
+msgid "Get Involved"
+msgstr "Долучитися"
+
+#: index.html:96
+msgid "Donate"
+msgstr "Пожертвувати"
+
+#: index.html:106
+msgid "Install Now"
+msgstr "Встановити Зараз"
+
+#: index.html:113
+msgid "Install Software"
+msgstr "Встановити ПЗ"
+
+#: index.html:115
+msgid "Budgie Extras"
+msgstr ""
+
+#: index.html:118
+msgid "Software Center"
+msgstr "Центр ПЗ"
+
+#: index.html:119
+msgid "Snap Apps"
+msgstr "Додатки Snap"
+
+#: index.html:121
+msgid "Flatpak Apps"
+msgstr "Додатки Flatpak"
+
+#: index.html:123
+msgid "Gaming"
+msgstr "Ігри"
+
+#: index.html:129
+msgid "Themes & Layouts"
+msgstr "Теми та макети"
+
+#: index.html:139
+msgid "Get Support:"
+msgstr "Отримати Підтримку:"
+
+#: index.html:151
+msgid "Facebook Group"
+msgstr "Facebook-група"
+
+#: index.html:154
+msgid "Facebook Page"
+msgstr "Facebook-сторінка"

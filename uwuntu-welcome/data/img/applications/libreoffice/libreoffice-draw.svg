@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient4256" x1="417" gradientUnits="userSpaceOnUse" y1="148" gradientTransform="matrix(0,-1,1,0,-140,432)" x2="431" y2="148">
+   <stop stop-color="#c29600" offset="0"/>
+   <stop stop-color="#ecc53f" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Sam Hewitt</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:source/>
+    <cc:license rdf:resource=""/>
+    <dc:title/>
+    <dc:subject>
+     <rdf:Bag/>
+    </dc:subject>
+    <dc:date/>
+    <dc:rights>
+     <cc:Agent>
+      <dc:title/>
+     </cc:Agent>
+    </dc:rights>
+    <dc:publisher>
+     <cc:Agent>
+      <dc:title/>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:identifier/>
+    <dc:relation/>
+    <dc:language/>
+    <dc:coverage/>
+    <dc:description/>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title/>
+     </cc:Agent>
+    </dc:contributor>
+   </cc:Work>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path opacity=".1" style="color:#bebebe;enable-background:accumulate" d="m3 0c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3v-10c0-1.662-1.338-3-3-3z"/>
+ <path style="color:#bebebe;enable-background:accumulate" fill="url(#linearGradient4256)" d="m3 0.5c-1.38 0-2.5 1.12-2.5 2.5v10c0 1.38 1.12 2.5 2.5 2.5h10c1.38 0 2.5-1.12 2.5-2.5v-10c0-1.38-1.12-2.5-2.5-2.5h-10z"/>
+ <path opacity=".2" d="m12 7h-2.0312c-0.2401-1.699-1.7035-3-3.4688-3-1.933 0-3.5 1.567-3.5 3.5 0 1.4002 0.81317 2.5713 2 3.125l-1.4062 2.0938-0.4375 0.65625 0.78125 0.125 7 1 0.875 0.125-0.34375-0.8125-0.35-0.81h1.875v-6zm-5.5-2c1.2081 0 2.2044 0.8608 2.4375 2h-0.375l-0.0937-0.1875-0.375-0.8437-0.5 0.75-0.19 0.28h-0.41v0.625l-1.4688 2.1875c-0.9-0.38-1.53-1.27-1.53-2.31 0-1.3807 1.1193-2.5 2.5-2.5zm2.4688 3h1 2.0312v4h-1.3125zm-1.0625 0.0312 0.0937 0.2188l1.5938 3.75 0.28125 0.625 0.15625 0.375 0.15625 0.375-2.69-0.38-0.5-0.0625-2.1562-0.3125 1.125-1.6875 0.62-0.94 0.41-0.62z" style="enable-background:new"/>
+ <path d="m12 6h-2.0312c-0.2401-1.699-1.7035-3-3.4688-3-1.933 0-3.5 1.567-3.5 3.5 0 1.4002 0.8132 2.5713 2 3.125l-1.4062 2.0938-0.4375 0.65625 0.78125 0.125 7 1 0.875 0.125-0.34375-0.8125-0.35-0.81h1.875v-6zm-5.5-2c1.2081 0 2.2044 0.8608 2.4375 2h-0.375l-0.0937-0.1875-0.375-0.8437-0.5 0.75-0.19 0.28h-0.41v0.625l-1.4688 2.1875c-0.9-0.38-1.53-1.27-1.53-2.31 0-1.3807 1.1193-2.5 2.5-2.5zm2.4688 3h1 2.0312v4h-1.3125zm-1.0625 0.0312 0.0937 0.2188l1.5938 3.75 0.28125 0.625 0.15625 0.375 0.15625 0.375-2.69-0.38-0.5-0.0625-2.1562-0.3125 1.125-1.6875 0.62-0.94 0.41-0.62z" style="enable-background:new" fill="#fff"/>
+ <path opacity="0.13" style="color:#bebebe;enable-background:accumulate" d="m3 1c-1.1253 0-2 0.8747-2 2v1c0-1.1253 0.8747-2 2-2h10c1.1253 0 2 0.8747 2 2v-1c0-1.1253-0.875-2-2-2h-10z" fill="#fff"/>
+ <path opacity=".3" d="m13 16c1.1253 0 2-0.8747 2-2v-1c0 1.1253-0.8747 2-2 2h-10c-1.1253 0-2-0.875-2-2v1c0 1.1253 0.8747 2 2 2h10z" style="color:#bebebe;enable-background:accumulate"/>
+ <path opacity=".1" style="color:#bebebe;enable-background:accumulate" d="m3 14.5c-1.1253 0-2-0.8747-2-2v-1c0 1.1253 0.8747 2 2 2h10c1.1253 0 2-0.8747 2-2v1c0 1.1253-0.8747 2-2 2h-10z" fill="#fff"/>
+ <path opacity="0.41" style="color:#bebebe;enable-background:accumulate" d="m3 0c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3v-10c0-1.662-1.338-3-3-3h-10zm0 1h10c1.1253 0 2 0.8747 2 2v10c0 1.1253-0.8747 2-2 2h-10c-1.1253 0-2-0.875-2-2v-10c0-1.1253 0.8747-2 2-2z"/>
+</svg>

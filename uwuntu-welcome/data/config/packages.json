@@ -1,0 +1,1787 @@
+{
+	"budgie-applets": {
+		"haste-applet": {
+			"packages": [
+				"budgie-haste-applet"
+			],
+			"repos": {
+				"focal": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"screenshot-applet": {
+			"packages": [
+				"budgie-screenshot-applet"
+			],
+			"repos": {
+				"focal": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"lightpad-applet": {
+			"packages": [
+				"budgie-lightpad-applet"
+			],
+			"repos": {
+				"focal": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"clipboard-applet": {
+			"packages": [
+				"budgie-clipboard-applet"
+			],
+			"repos": {
+				"focal": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"calendar-applet": {
+			"packages": [
+				"budgie-calendar-applet"
+			],
+			"repos": {
+				"focal": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"brightness-controller-applet": {
+			"packages": [
+				"budgie-brightness-controller-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"pixel-applet": {
+			"packages": [
+				"budgie-pixel-saver-applet"
+			],
+			"repos": {
+				"focal": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"appmenu-applet": {
+			"packages": [
+				"budgie-appmenu-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"sysmonitor-applet": {
+			"packages": [
+				"budgie-sysmonitor-applet"
+			],
+			"repos": {
+				"focal": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"hotcorners-applet": {
+			"packages": [
+				"budgie-hotcorners-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"quicknote-applet": {
+			"packages": [
+				"budgie-quicknote-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"previewsapp-applet": {
+			"packages": [
+				"budgie-previews"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"workspace-overview-applet": {
+			"packages": [
+				"budgie-workspace-overview-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				]
+			}
+		},
+		"workspace-wallpaper-applet": {
+			"packages": [
+				"budgie-workspace-wallpaper-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"window-mover-applet": {
+			"packages": [
+				"budgie-window-mover-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				]
+			}
+		},
+		"showtime-applet": {
+			"packages": [
+				"budgie-showtime-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"countdown-applet": {
+			"packages": [
+				"budgie-countdown-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"keyboard-language-applet": {
+			"packages": [
+				"budgie-keyboard-autoswitch-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"rotation-lock-applet": {
+			"packages": [
+				"budgie-rotation-lock-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"clockworks-applet": {
+			"packages": [
+				"budgie-clockworks-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"dropby-window-applet": {
+			"packages": [
+				"budgie-dropby-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"browser-profile-launcher-applet": {
+			"packages": [
+				"budgie-browser-profile-launcher"
+			],
+			"repos": {
+				"focal": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"performance-gauge-applet": {
+			"packages": [
+				"budgie-performance-gauge-applet"
+			],
+			"repos": {
+				"focal": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"kangaroo-applet": {
+			"packages": [
+				"budgie-kangaroo-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"weathershow-applet": {
+			"packages": [
+				"budgie-weathershow-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"recentlyused-applet": {
+			"packages": [
+				"budgie-recentlyused-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"trash-applet": {
+			"packages": [
+				"budgie-trash-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"applauncher-applet": {
+			"packages": [
+				"budgie-app-launcher-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"network-manager-applet": {
+			"packages": [
+				"budgie-network-manager-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"cpufreq-applet": {
+			"packages": [
+				"budgie-cpufreq-applet"
+			],
+			"repos": {
+				"focal": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"sys-monitor-applet": {
+			"packages": [
+				"budgie-sys-monitor-applet"
+			],
+			"repos": {
+				"focal": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"takeabreak-applet": {
+			"packages": [
+				"budgie-takeabreak-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"fuzzyclock-applet": {
+			"packages": [
+				"budgie-fuzzyclock-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"workspace-stopwatch-applet": {
+			"packages": [
+				"budgie-workspace-stopwatch-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"quickchar": {
+			"packages": [
+				"budgie-quickchar"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"sntray-applet": {
+			"packages": [
+				"budgie-sntray-plugin"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"applications-menu-applet": {
+			"packages": [
+				"budgie-applications-menu-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"wallstreet": {
+			"packages": [
+				"budgie-wallstreet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"window-shuffler": {
+			"packages": [
+				"budgie-window-shuffler"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"visualspace-applet": {
+			"packages": [
+				"budgie-visualspace-applet"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"analogue-clock-applet": {
+			"packages": [
+				"budgie-analogue-clock-applet"
+			],
+			"repos": {
+				"focal": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		}
+	},
+	"default": {
+		"ubuntubudgie-layout": {
+			"packages": [
+				"budgie-applications-menu-applet",
+				"budgie-indicator-applet",
+				"budgie-dropby-applet",
+				"budgie-network-manager-applet",
+				"budgie-showtime-applet",
+				"budgie-visualspace-applet",
+				"budgie-quicknote-applet"
+			],
+			"repos": {
+				"all": [
+					"universe"
+				]
+			}
+		},
+		"classicubuntubudgie-layout": {
+			"packages": [
+				"budgie-indicator-applet",
+				"budgie-dropby-applet",
+				"budgie-showtime-applet",
+				"budgie-quicknote-applet"
+			],
+			"repos": {
+				"all": [
+					"universe"
+				]
+			}
+		},
+		"redmond-layout": {
+			"packages": [
+				"budgie-applications-menu-applet",
+				"budgie-indicator-applet",
+				"budgie-dropby-applet",
+				"budgie-network-manager-applet"
+			],
+			"repos": {
+				"all": [
+					"universe"
+				]
+			}
+		},
+		"eleven-layout": {
+			"packages": [
+				"budgie-applications-menu-applet",
+				"budgie-indicator-applet",
+				"budgie-dropby-applet",
+				"budgie-network-manager-applet"
+			],
+			"repos": {
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"chrome-layout": {
+			"packages": [
+				"budgie-lightpad-applet",
+				"budgie-indicator-applet",
+				"budgie-dropby-applet",
+				"budgie-network-manager-applet"
+			],
+			"repos": {
+				"jammy": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"cupertino-layout": {
+			"packages": [
+				"budgie-applications-menu-applet",
+				"budgie-appmenu-applet",
+				"budgie-indicator-applet",
+				"budgie-dropby-applet",
+				"budgie-network-manager-applet"
+			],
+			"repos": {
+				"all": [
+					"universe"
+				]
+			}
+		},
+		"theone-layout": {
+			"packages": [
+				"budgie-applications-menu-applet",
+				"budgie-appmenu-applet",
+				"budgie-indicator-applet",
+				"budgie-dropby-applet",
+				"budgie-network-manager-applet",
+				"budgie-trash-applet",
+				"budgie-recentlyused-applet"
+			],
+			"repos": {
+				"all": [
+					"universe"
+				]
+			}
+		},
+		"traditional-layout": {
+			"packages": [
+				"budgie-indicator-applet",
+				"budgie-dropby-applet",
+				"budgie-network-manager-applet"
+			],
+			"repos": {
+				"all": [
+					"universe"
+				]
+			}
+		},
+		"pocillo-theme": {
+			"packages": [
+				"ubuntu-budgie-themes",
+				"pocillo-icon-theme"
+			],
+			"size": 60
+		},
+		"arc-theme": {
+			"packages": [
+				"arc-theme",
+				"pocillo-icon-theme"
+			],
+			"size": 60
+		},
+		"qogirbudgie-theme": {
+			"packages": [
+				"ubuntu-budgie-themes",
+				"pocillo-icon-theme"
+			],
+			"size": 60
+		},
+		"material-theme": {
+			"packages": [
+				"adapta-gtk-theme",
+				"breeze-cursor-theme",
+				"papirus-icon-theme",
+				"fonts-noto"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				]
+			}
+		},
+		"material-vimix-theme": {
+			"packages": [
+				"vimix-gtk-themes",
+				"paper-icon-theme",
+				"fonts-noto"
+			],
+			"repos": {
+				"focal": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"material-materia2-theme": {
+			"packages": [
+				"materia-gtk-theme",
+				"numix-icon-theme-circle",
+				"fonts-noto"
+			],
+			"repos": {
+				"focal": [
+					"universe",
+					"ppa:numix/ppa"
+				],
+				"hirsute": [
+					"universe",
+					"ppa:numix/ppa"
+				],
+				"impish": [
+					"universe",
+					"ppa:numix/ppa"
+				],
+				"jammy": [
+					"universe",
+					"ppa:numix/ppa"
+				],
+				"kinetic": [
+					"universe",
+					"ppa:numix/ppa"
+				]
+			}
+		},
+		"evopop-theme": {
+			"packages": [
+				"evopop-gtk-theme",
+				"paper-icon-theme",
+				"fonts-noto"
+			],
+			"repos": {
+				"focal": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"ant-theme": {
+			"packages": [
+				"ant-theme",
+				"breeze-cursor-theme",
+				"papirus-icon-theme"
+			],
+			"repos": {
+				"focal": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"plata-theme": {
+			"packages": [
+				"plata-theme",
+				"breeze-cursor-theme",
+				"papirus-icon-theme"
+			],
+			"repos": {
+				"focal": [
+					"universe",
+					"ppa:tista/plata-theme"
+				],
+				"hirsute": [
+					"universe",
+					"ppa:tista/plata-theme"
+				]
+			}
+		},
+		"mojave-theme": {
+			"packages": [
+				"mojave-gtk-theme",
+				"mcmojave-circle",
+				"fonts-roboto"
+			],
+			"repos": {
+				"focal": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"whitesur-theme": {
+			"packages": [
+				"whitesur-gtk-theme",
+				"whitesur-icon-theme",
+				"fonts-roboto"
+			],
+			"repos": {
+				"focal": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"orchis-theme": {
+			"packages": [
+				"orchis-gtk-theme",
+				"tela-circle-icon-theme",
+				"fonts-roboto",
+				"vimix-cursors"
+			],
+			"repos": {
+				"focal": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"universe",
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		}
+	},
+	"gettingstarted": {
+		"restricted-extras": {
+			"packages": [
+				"ubuntu-restricted-extras"
+			],
+			"excludes": [
+				"ttf-mscorefonts-installer"
+			],
+			"repos": {
+				"all": [
+					"multiverse"
+				]
+			}
+		},
+		"ibus": {
+			"packages": [
+				"ibus"
+			],
+			"excludes": [
+				"fcitx"
+			],
+			"post-install": "ibus-setup"
+		},
+		"fcitx": {
+			"packages": [
+				"fcitx"
+			],
+			"excludes": [
+				"ibus"
+			],
+			"post-install": "fcitx-setup"
+		},
+		"ibus-setup": {
+			"script": "ibus-setup"
+		},
+		"fcitx-setup": {
+			"script": "fcitx-setup"
+		},
+		"keyboard-chinese": {
+			"packages": [
+				"ibus-pinyin"
+			]
+		},
+		"keyboard-japanese": {
+			"packages": [
+				"ibus-anthy"
+			]
+		},
+		"keyboard-korean": {
+			"packages": [
+				"ibus-hangul"
+			]
+		},
+		"backup": {
+			"packages": [
+				"deja-dup"
+			]
+		},
+		"firewall": {
+			"packages": [
+				"gufw",
+				"net-tools"
+			]
+		},
+		"firefox": {
+			"packages": [
+				"firefox"
+			]
+		},
+		"firefox-esr": {
+			"packages": [
+				"firefox-esr"
+			],
+			"repos": {
+				"all": [
+					"ppa:mozillateam/ppa"
+				]
+			}
+		},
+		"chromium": {
+			"packages": [
+				"chromium-browser"
+			]
+		},
+		"chrome": {
+			"packages": [
+				"google-chrome-stable"
+			],
+			"arch": [
+				"amd64"
+			],
+			"repos": {
+				"all": [
+					"deb [arch=amd64] https://dl.google.com/linux/chrome/deb/ stable main"
+				]
+			},
+			"key-commands": [
+				"wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | apt-key --keyring /etc/apt/trusted.gpg.d/chrome-browser.gpg add -"
+			]
+		},
+		"edge": {
+			"packages": [
+				"microsoft-edge-stable"
+			],
+			"arch": [
+				"amd64"
+			],
+			"repos": {
+				"all": [
+					"deb [arch=amd64] https://packages.microsoft.com/repos/edge stable main"
+				]
+			},
+			"key-commands": [
+				"wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key --keyring /etc/apt/trusted.gpg.d/edge-browser.gpg add -"
+			]
+		},
+		"opera": {
+			"snap": [
+				"opera"
+			],
+			"arch": [
+				"amd64"
+			]
+		},
+		"midori": {
+			"snap": [
+				"midori"
+			]
+		},
+		"gnomeweb": {
+			"snap": [
+				"epiphany"
+			]
+		},
+		"chromium-snap": {
+			"snap": [
+				"chromium"
+			]
+		},
+		"chromiumeoan-snap": {
+			"snap": [
+				"chromium"
+			]
+		},
+		"firefox-snap": {
+			"snap": [
+				"firefox"
+			],
+			"arch": [
+				"amd64"
+			]
+		},
+		"brave-snap": {
+			"snap": [
+				"brave"
+			],
+			"arch": [
+				"amd64"
+			]
+		},
+		"brave": {
+			"packages": [
+				"brave-browser"
+			],
+			"arch": [
+				"amd64"
+			],
+			"repos": {
+				"all": [
+					"deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main"
+				]
+			},
+			"key-commands": [
+				"curl -s https://brave-browser-apt-release.s3.brave.com/brave-core.asc | sudo apt-key --keyring /etc/apt/trusted.gpg.d/brave-browser-release.gpg add -"
+			]
+		},
+		"vivaldi": {
+			"packages": [
+				"vivaldi-stable"
+			],
+			"arch": [
+				"amd64"
+			],
+			"repos": {
+				"all": [
+					"deb [arch=amd64] http://repo.vivaldi.com/stable/deb/ stable main"
+				]
+			},
+			"key-commands": [
+				"curl http://repo.vivaldi.com/stable/linux_signing_key.pub | sudo apt-key --keyring /etc/apt/trusted.gpg.d/vivaldi-browser.gpg add -",
+				"apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 1397BC53640DB551"
+			]
+		},
+		"nvidia": {
+			"repos": {
+				"all": [
+					"ppa:graphics-drivers/ppa"
+				]
+			}
+		}
+	},
+	"recommendations": {
+		"snap": {
+			"packages": [
+				"snapd"
+			]
+		},
+		"flatpak": {
+			"packages": [
+				"flatpak",
+				"xdg-desktop-portal-gtk",
+				"gnome-software-plugin-flatpak"
+			],
+			"repos": {
+				"all": [
+					"universe"
+				]
+			},
+			"post-install": "flatpak-setup"
+		},
+		"flatpak-setup": {
+			"script": "flatpak-remote"
+		},
+		"steam": {
+			"packages": [
+				"steam:i386"
+			],
+			"repos": {
+				"all": [
+					"multiverse"
+				]
+			}
+		},
+		"backport": {
+			"repos": {
+				"focal": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"dropbox": {
+			"packages": [
+				"nautilus-dropbox"
+			],
+			"repos": {
+				"all": [
+					"multiverse"
+				]
+			}
+		},
+		"nemodropbox": {
+			"packages": [
+				"nemo-dropbox"
+			],
+			"repos": {
+				"focal": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"nemoshare": {
+			"packages": [
+				"nemo-share"
+			],
+			"repos": {
+				"focal": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"nemopreview": {
+			"packages": [
+				"nemo-preview"
+			],
+			"repos": {
+				"focal": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"hirsute": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"impish": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"jammy": [
+					"ppa:ubuntubudgie/backports"
+				],
+				"kinetic": [
+					"ppa:ubuntubudgie/backports"
+				]
+			}
+		},
+		"gutenprint": {
+			"packages": [
+				"printer-driver-gutenprint"
+			],
+			"repos": {
+				"all": [
+					"main"
+				]
+			}
+		}
+	},
+	"gaming": {
+		"lutris": {
+			"packages": [
+				"lutris"
+			],
+			"repos": {
+				"focal": [
+					"ppa:lutris-team/lutris"
+				],
+				"hirsute": [
+					"multiverse"
+				],
+				"impish": [
+					"multiverse"
+				],
+				"jammy": [
+					"multiverse"
+				],
+				"kinetic": [
+					"multiverse"
+				]
+			}
+		},
+		"steam": {
+			"packages": [
+				"steam:i386"
+			],
+			"repos": {
+				"all": [
+					"multiverse"
+				]
+			}
+		},
+		"retroarch": {
+			"snap": [
+				"retroarch"
+			]
+		},
+		"minigalaxy": {
+			"packages": [
+				"minigalaxy"
+			],
+			"repos": {
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"openrbg": {
+			"packages": [
+				"openrgb"
+			],
+			"repos": {
+				"all": [
+					"ppa:thopiekar/openrgb"
+				]
+			}
+		},
+		"polychromatic": {
+			"packages": [
+				"polychromatic", "openrazer-meta"
+			],
+			"repos": {
+				"all": [
+					"ppa:polychromatic/stable", "ppa:openrazer/stable"
+				]
+			},
+			"post-install": "openrazer-setup"
+		},
+		"openrazer-setup": {
+			"script": "openrazer-setup",
+			"root" : "ignored_parameter"
+		},
+		"discord": {
+			"snap": [
+				"discord"
+			]
+		},
+		"obs-studio": {
+			"snap": [
+				"obs-studio"
+			]
+		},
+		"mangohud": {
+			"packages": [
+				"mangohud", "goverlay"
+			],
+			"repos": {
+				"focal": [
+					"ppa:flexiondotorg/mangohud"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"corectrl": {
+			"packages": [
+				"corectrl"
+			],
+			"repos": {
+				"all": [
+					"ppa:ernstp/mesarc"
+				]
+			},
+			"post-install": "pin-corectrl"
+		},
+		"pin-corectrl": {
+			"script": "pin_corectrl",
+			"root" : "ignored_parameter"
+		},
+		"piper": {
+			"packages": [
+				"piper"
+			],
+			"repos": {
+				"focal": [
+					"universe"
+				],
+				"hirsute": [
+					"universe"
+				],
+				"impish": [
+					"universe"
+				],
+				"jammy": [
+					"universe"
+				],
+				"kinetic": [
+					"universe"
+				]
+			}
+		},
+		"xonotic": {
+			"snap": ["xonotic"]
+		},
+		"valheim": {
+			"packages": [
+				"steam:i386"
+			],
+			"repos": {
+				"all": [
+					"multiverse"
+				]
+			}
+		},
+		"loop-hero": {
+			"packages": [
+				"steam:i386"
+			],
+			"repos": {
+				"all": [
+					"multiverse"
+				]
+			}
+		},
+		"no-longer-home": {
+			"packages": [
+				"steam:i386"
+			],
+			"repos": {
+				"all": [
+					"multiverse"
+				]
+			}
+		},
+		"boyfriend-dungeon": {
+			"packages": [
+				"steam:i386"
+			],
+			"repos": {
+				"all": [
+					"multiverse"
+				]
+			}
+		},
+		"binding-of-isaac": {
+			"packages": [
+				"steam:i386"
+			],
+			"repos": {
+				"all": [
+					"multiverse"
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,108 @@
+# 
+# Translators:
+# Ronald van Zuijlen, 2017
+# eduardo.heuvel, 2017
+# Machiel Heinen, 2018
+# Jacob Vlijm <vlijm@planet.nl>, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: Jacob Vlijm <vlijm@planet.nl>, 2022\n"
+"Language-Team: Dutch (Netherlands) (https://www.transifex.com/ubuntu-budgie/teams/72251/nl_NL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: index.html:14
+msgid "Main Menu"
+msgstr "Hoofdmenu"
+
+#: index.html:24
+msgid "Choose an option to discover your new operating system."
+msgstr "Kies een optie om je nieuwe besturingssysteem te ontdekken."
+
+#: index.html:36
+msgid "Introduction"
+msgstr "Introductie"
+
+#: index.html:42
+msgid "Features"
+msgstr "Kenmerken"
+
+#: index.html:48
+msgid "Getting Started"
+msgstr "Hoe te starten"
+
+#: index.html:54
+msgid "Installation Help"
+msgstr "Hulp bij installatie"
+
+#: index.html60, 117
+msgid "Recommendations"
+msgstr "Aanbevelingen"
+
+#: index.html:78
+msgid "Online Store"
+msgstr "Online Winkel"
+
+#: index.html:84
+msgid "Community"
+msgstr "Community"
+
+#: index.html:90
+msgid "Get Involved"
+msgstr "Help mee"
+
+#: index.html:96
+msgid "Donate"
+msgstr "Doneer"
+
+#: index.html:106
+msgid "Install Now"
+msgstr "Installeer nu"
+
+#: index.html:113
+msgid "Install Software"
+msgstr "Installeer software"
+
+#: index.html:115
+msgid "Budgie Extras"
+msgstr "Budgie Extras"
+
+#: index.html:118
+msgid "Software Center"
+msgstr "Software Centrum"
+
+#: index.html:119
+msgid "Snap Apps"
+msgstr "Snap Apps"
+
+#: index.html:121
+msgid "Flatpak Apps"
+msgstr "Flatpak Apps"
+
+#: index.html:123
+msgid "Gaming"
+msgstr ""
+
+#: index.html:129
+msgid "Themes & Layouts"
+msgstr ""
+
+#: index.html:139
+msgid "Get Support:"
+msgstr "Krijg ondersteuning:"
+
+#: index.html:151
+msgid "Facebook Group"
+msgstr "Facebook groep"
+
+#: index.html:154
+msgid "Facebook Page"
+msgstr "Facebook pagina"

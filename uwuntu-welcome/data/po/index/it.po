@@ -1,0 +1,105 @@
+# 
+# Translators:
+# Nicola Gentile <nikkognt@gmail.com>, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: Nicola Gentile <nikkognt@gmail.com>, 2022\n"
+"Language-Team: Italian (https://www.transifex.com/ubuntu-budgie/teams/72251/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: index.html:14
+msgid "Main Menu"
+msgstr "Menu principale"
+
+#: index.html:24
+msgid "Choose an option to discover your new operating system."
+msgstr "Scegli un'opzione per scoprire il tuo nuovo sistema operativo."
+
+#: index.html:36
+msgid "Introduction"
+msgstr "Introduzione"
+
+#: index.html:42
+msgid "Features"
+msgstr "Caratteristiche"
+
+#: index.html:48
+msgid "Getting Started"
+msgstr "Guida introduttiva"
+
+#: index.html:54
+msgid "Installation Help"
+msgstr "Aiuto Installazione"
+
+#: index.html60, 117
+msgid "Recommendations"
+msgstr "Raccomantazioni"
+
+#: index.html:78
+msgid "Online Store"
+msgstr "Negozio Online"
+
+#: index.html:84
+msgid "Community"
+msgstr "Comunità"
+
+#: index.html:90
+msgid "Get Involved"
+msgstr "Partecipa"
+
+#: index.html:96
+msgid "Donate"
+msgstr "Donare"
+
+#: index.html:106
+msgid "Install Now"
+msgstr "Installa ora"
+
+#: index.html:113
+msgid "Install Software"
+msgstr "Installa Software"
+
+#: index.html:115
+msgid "Budgie Extras"
+msgstr "Budgie Extras"
+
+#: index.html:118
+msgid "Software Center"
+msgstr "Software Center"
+
+#: index.html:119
+msgid "Snap Apps"
+msgstr "Snap Apps"
+
+#: index.html:121
+msgid "Flatpak Apps"
+msgstr "Flatpak Apps"
+
+#: index.html:123
+msgid "Gaming"
+msgstr "Gioco"
+
+#: index.html:129
+msgid "Themes & Layouts"
+msgstr "Temi & Layouts"
+
+#: index.html:139
+msgid "Get Support:"
+msgstr "Chiedere Supporto:"
+
+#: index.html:151
+msgid "Facebook Group"
+msgstr "Gruppo Facebook"
+
+#: index.html:154
+msgid "Facebook Page"
+msgstr "Pagina Facebook"

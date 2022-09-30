@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient4256" x1="417" gradientUnits="userSpaceOnUse" y1="148" gradientTransform="matrix(0,-1,1,0,-140,432)" x2="431" y2="148">
+   <stop stop-color="#179e03" offset="0"/>
+   <stop stop-color="#45d630" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Sam Hewitt</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:source/>
+    <cc:license rdf:resource=""/>
+    <dc:title/>
+    <dc:subject>
+     <rdf:Bag/>
+    </dc:subject>
+    <dc:date/>
+    <dc:rights>
+     <cc:Agent>
+      <dc:title/>
+     </cc:Agent>
+    </dc:rights>
+    <dc:publisher>
+     <cc:Agent>
+      <dc:title/>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:identifier/>
+    <dc:relation/>
+    <dc:language/>
+    <dc:coverage/>
+    <dc:description/>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title/>
+     </cc:Agent>
+    </dc:contributor>
+   </cc:Work>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-416,-140)" display="none">
+  <text id="context" font-size="18px" xml:space="preserve" style="enable-background:new" y="19.745117" x="15.006836" font-family="&apos;DejaVu Sans&apos;" display="inline" fill="#000000"><tspan y="19.745117" x="15.006836" font-family="&apos;DejaVu Sans&apos;">apps</tspan></text>
+  <text id="icon-name" font-size="18px" line-height="125%" font-family="&apos;DejaVu Sans&apos;" style="enable-background:new" display="inline" y="19.745117" x="122.48828" font-weight="bold" xml:space="preserve" fill="#000000"><tspan font-family="&apos;DejaVu Sans&apos;" font-size="18px" y="19.745117" x="122.48828" font-weight="bold">libreoffice-calc</tspan></text>
+  <rect style="enable-background:accumulate" display="inline" height="16" width="16" y="140" x="416" fill="#eeeeec"/>
+  <rect style="enable-background:accumulate" display="inline" height="24" width="24" y="100" x="416" fill="#d4d4d4"/>
+  <g fill="#eeeeec">
+   <rect style="enable-background:accumulate" display="inline" height="32" width="32" y="52" x="416"/>
+   <rect style="enable-background:accumulate" display="inline" height="22" width="22" y="101" x="417"/>
+   <rect style="enable-background:accumulate" display="inline" height="48" width="48" y="220" x="288"/>
+   <rect style="enable-background:accumulate" display="inline" height="256" width="256" y="28" x="16"/>
+   <rect style="enable-background:accumulate" display="inline" height="64" width="64" y="140" x="288"/>
+   <rect style="enable-background:accumulate" display="inline" height="96" width="96" y="28" x="288"/>
+  </g>
+ </g>
+ <path opacity=".1" style="color:#bebebe;enable-background:accumulate" d="m3 0c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3v-10c0-1.662-1.338-3-3-3z"/>
+ <path style="color:#bebebe;enable-background:accumulate" fill="url(#linearGradient4256)" d="m3 0.5c-1.38 0-2.5 1.12-2.5 2.5v10c0 1.38 1.12 2.5 2.5 2.5h10c1.38 0 2.5-1.12 2.5-2.5v-10c0-1.38-1.12-2.5-2.5-2.5h-10z"/>
+ <path opacity=".2" style="color:#000000;enable-background:new" d="m3 5v7h10v-7zm1 1h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm-6 3h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2z"/>
+ <path style="color:#000000;enable-background:new" fill="#fff" d="m3 4v7h10v-7zm1 1h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm-6 3h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2z"/>
+ <path opacity="0.13" style="color:#bebebe;enable-background:accumulate" d="m3 1c-1.1253 0-2 0.8747-2 2v1c0-1.1253 0.8747-2 2-2h10c1.1253 0 2 0.8747 2 2v-1c0-1.1253-0.875-2-2-2h-10z" fill="#fff"/>
+ <path opacity=".3" d="m13 16c1.1253 0 2-0.8747 2-2v-1c0 1.1253-0.8747 2-2 2h-10c-1.1253 0-2-0.875-2-2v1c0 1.1253 0.8747 2 2 2h10z" style="color:#bebebe;enable-background:accumulate"/>
+ <path opacity=".1" style="color:#bebebe;enable-background:accumulate" d="m3 14.5c-1.1253 0-2-0.8747-2-2v-1c0 1.1253 0.8747 2 2 2h10c1.1253 0 2-0.8747 2-2v1c0 1.1253-0.8747 2-2 2h-10z" fill="#fff"/>
+ <path opacity="0.41" style="color:#bebebe;enable-background:accumulate" d="m3 0c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3v-10c0-1.662-1.338-3-3-3h-10zm0 1h10c1.1253 0 2 0.8747 2 2v10c0 1.1253-0.8747 2-2 2h-10c-1.1253 0-2-0.875-2-2v-10c0-1.1253 0.8747-2 2-2z"/>
+</svg>

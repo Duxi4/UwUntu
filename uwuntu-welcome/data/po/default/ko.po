@@ -1,0 +1,118 @@
+# 
+# Translators:
+# SDSK <sdsk@sdsk.one>, 2020
+# Kwon.Yongchan <ruvyn@naver.com>, 2021
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-22 21:33+0000\n"
+"Last-Translator: Kwon.Yongchan <ruvyn@naver.com>, 2021\n"
+"Language-Team: Korean (https://www.transifex.com/ubuntu-budgie/teams/72251/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: default.html:14
+msgid "Budgie Themes & Layouts"
+msgstr "Budgie 테마 & 레이아웃"
+
+#: default.html18, 29
+msgid "Switch Appearance"
+msgstr "모양 변경"
+
+#: default.html21, 467
+msgid "Desktop Layout"
+msgstr "데스크톱 레이아웃"
+
+#: default.html:30
+msgid ""
+"There are several additional Budgie Desktop compatible themes available. "
+"Budgie Welcome provides a simple method to switch your desktop appearance "
+"(theme, fonts, icons, desktop wallpaper)."
+msgstr ""
+"Budgie 데스크톱과 호환되는 추가 테마 패키지를 사용할 수 있습니다. Budgie 환영에서는 데스크톱의 모양(테마, 글꼴, 아이콘, "
+"배경화면 등)을 바꿀 수 있는 간단한 기능을 제공합니다."
+
+#: default.html45, 80, 114, 148, 182, 219, 253, 289, 324, 360, 397, 433
+msgid "Install"
+msgstr "설치"
+
+#: default.html51, 58, 85, 92, 119, 126, 153, 160, 187, 194, 224, 231, 259,
+#: 266, 294, 301, 330, 337, 366, 373, 403, 410, 439, 446
+msgid "Apply makeover"
+msgstr "변경 사항 적용"
+
+#: default.html60, 94, 128, 162, 196, 233, 268, 303, 339, 375, 412, 448
+msgid "Apply theme"
+msgstr "테마 적용"
+
+#: default.html61, 95, 129, 163, 197, 234, 269, 304, 340, 376, 413, 449
+msgid "Apply fonts"
+msgstr "글꼴 적용"
+
+#: default.html62, 96, 130, 164, 198, 235, 270, 305, 341, 377, 414, 450
+msgid "Apply icons"
+msgstr "아이콘 적용"
+
+#: default.html63, 97, 131, 165, 199, 236, 271, 306, 342, 378, 415, 451
+msgid "Make desktop changes"
+msgstr "데스크톱 변경"
+
+#: default.html69, 103, 137, 171, 205, 242, 278, 313, 349, 385, 422, 458, 491,
+#: 511, 531, 551, 571, 591, 611, 631, 649
+msgid "Applying Changes..."
+msgstr "변경 사항 적용 중..."
+
+#: default.html:211
+msgid "Arc Design"
+msgstr "Arc 디자인"
+
+#: default.html:247
+msgid "Material Design (Adapta)"
+msgstr "머티리얼 디자인 (Adapta)"
+
+#: default.html:283
+msgid "Material Design (Vimix)"
+msgstr "머티리얼 디자인 (Vimix)"
+
+#: default.html:318
+msgid "Material Design (Materia)"
+msgstr "머티리얼 디자인 (Materia)"
+
+#: default.html:468
+msgid "Switch the layout of your desktop to suit your workflow."
+msgstr "사용자의 워크플로우에 맞게 데스크톱의 레이아웃을 전환합니다."
+
+#: default.html482, 502, 522, 542, 562, 582, 602, 622
+msgid "Install layout"
+msgstr "레이아웃 설치"
+
+#: default.html486, 506, 526, 546, 566, 586, 606, 626
+msgid "Apply layout"
+msgstr "레이아웃 적용"
+
+#: default.html:642
+msgid "Restore panels"
+msgstr "패널 복구"
+
+#: default.html:643
+msgid ""
+"Lost your panels while playing with Ubuntu Budgie? Unhappy with your changes"
+" to the panel layout? Don't worry. We can help you to restore your panels "
+"with a single click!"
+msgstr ""
+
+#: default.html:646
+msgid ""
+"This will undo all changes that you have made on any panel and will reset "
+"back to the initial default panel layout configuration."
+msgstr "이 작업은 모든 패널에 적용된 모든 변경 사항을 기본값으로 초기화합니다."
+
+#: default.html:650
+msgid "Reset Budgie Panel"
+msgstr "Budgie 패널 복구"

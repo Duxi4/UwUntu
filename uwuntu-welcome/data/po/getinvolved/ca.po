@@ -1,0 +1,216 @@
+# 
+# Translators:
+# Miquel Escarrà <quelet@gmail.com>, 2018
+# Davidmp <medipas@gmail.com>, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: Davidmp <medipas@gmail.com>, 2022\n"
+"Language-Team: Catalan (https://www.transifex.com/ubuntu-budgie/teams/72251/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: getinvolved.html:13
+msgid "Get Involved"
+msgstr "Involucreu-vos-hi"
+
+#: getinvolved.html:17
+msgid "Thanks for Your Support"
+msgstr "Gràcies per l'ajuda"
+
+#: getinvolved.html:18
+msgid ""
+"Ubuntu Budgie receives a great deal of support from its community of users "
+"and we would like to thank each and every contributor for participating. We "
+"are growing at a steady pace and our distribution is getting better every "
+"day thanks to you."
+msgstr ""
+"L'Ubuntu Budgie rep un gran suport de la comunitat d'usuaris i ens agradaria"
+" agrair a tots i cadascun dels col·laboradors la participació. Creixem a un "
+"ritme constant i la nostra distribució millora cada dia gràcies a vosaltres."
+
+#: getinvolved.html:19
+msgid ""
+"It is very easy to make a difference. Depending on your skill set, your "
+"availability you can help Ubuntu Budgie in one or more of the following "
+"ways:"
+msgstr ""
+"És molt fàcil marcar la diferència. Depenent del vostre conjunt "
+"d'habilitats, de la vostra disponibilitat, podeu ajudar l'Ubuntu Budgie "
+"d'una o més de les maneres següents:"
+
+#: getinvolved.html:23
+msgid "Support &amp; Promotion"
+msgstr "Suport i promoció"
+
+#: getinvolved.html:24
+msgid "Spreading the word"
+msgstr "Fer-ho córrer"
+
+#: getinvolved.html:25
+msgid ""
+"If you like Ubuntu Budgie, let people know. Blog, add comments in forums and"
+" talk about it with your friends and the people around you."
+msgstr ""
+"Si us agrada l'Ubuntu Budgie, feu-ho saber a la gent. Afegiu comentaris als "
+"blogs i als fòrums, i parleu-ne amb els amics i la gent que us envolta."
+
+#: getinvolved.html:27
+msgid "Joining the Community"
+msgstr "Afegir-se a la comunitat"
+
+#: getinvolved.html:28
+msgid ""
+"Ubuntu Budgie isn't just an operating system, it's also a dynamic community "
+"of people who enjoy, gather, and interact with a free and open project. "
+"Whether it's by helping others sort through issues, by making them feel "
+"welcome, or simply by meeting and talking to other Ubuntu Budgie users, we "
+"recommend you join the community and participate in making Ubuntu Budgie "
+"better."
+msgstr ""
+"L'Ubuntu Budgie no és només un sistema operatiu, també és una comunitat "
+"dinàmica de persones que gaudeixen, es reuneixen i interactuen amb un "
+"projecte gratuït i obert; ja sigui ajudant els altres a resoldre problemes, "
+"fent-los sentir benvinguts o simplement reunint-se i parlant amb altres "
+"usuaris de l'Ubuntu Budgie. Us recomanem que us uniu a la comunitat i "
+"participeu per millorar l'Ubuntu Budgie."
+
+#: getinvolved.html:30
+msgid "Helping others"
+msgstr "Ajudant la gent"
+
+#: getinvolved.html:31
+msgid ""
+"If you have some spare time and you're willing to help other users with "
+"technical problems, you should seriously consider reading the forums and/or "
+"joining the community chat-room and helping other Ubuntu Budgie users solve "
+"the problems you know how to fix."
+msgstr ""
+"Si teniu temps lliure i esteu disposats a ajudar altres usuaris amb "
+"problemes tècnics, hauríeu de considerar seriosament llegir els fòrums i "
+"unir-vos a la sala de conversa de la comunitat i ajudar altres usuaris de "
+"l'Ubuntu Budgie a resoldre els problemes que sabeu com solucionar."
+
+#: getinvolved.html:35
+msgid "Project contributions"
+msgstr "Contribucions al Projecte"
+
+#: getinvolved.html:36
+msgid "Bug reports"
+msgstr "Informe d'errors"
+
+#: getinvolved.html:37
+msgid ""
+"If you've noticed something that doesn't work properly while using Ubuntu "
+"Budgie, let us know. The problem you have discovered is likely to affect "
+"others as well; The sooner we know about it, the sooner we're able to fix "
+"it."
+msgstr ""
+"Si heu notat alguna cosa que no funciona correctament mentre feu servir "
+"l'Ubuntu Budgie, feu-nos-ho saber. És probable que el problema que heu "
+"descobert també afecti els altres. Com més aviat ho sapiguem, més aviat ho "
+"podrem arreglar."
+
+#: getinvolved.html:39
+msgid "New ideas"
+msgstr "Idees noves"
+
+#: getinvolved.html:40
+msgid ""
+"The vast majority of improvements included in each release come from the "
+"community. If there's something that you think is missing or that could be "
+"done better, please tell us. Whether it's the inclusion of a missing "
+"software application that should be part of a stock installation or if you "
+"have any other ideas on how to make Ubuntu Budgie better, we're always "
+"interested in hearing them."
+msgstr ""
+"La gran majoria de les millores incloses a cada llançament provenen de la "
+"comunitat. Si hi ha alguna cosa que creieu que falta o que es podria fer "
+"millor, digueu-nos-ho. Tant si es tracta de la inclusió d'una aplicació de "
+"programari que manca, que hauria de formar part d'una instal·lació estàndard"
+" o si teniu altres idees sobre com millorar l'Ubuntu Budgie, sempre ens "
+"interessa escoltar-les."
+
+#: getinvolved.html:42
+msgid "Artwork"
+msgstr "Treball artístic"
+
+#: getinvolved.html:43
+msgid ""
+"If you are talented in graphic design and willing to contribute to the "
+"project, please send us your creations and artwork. Whether it's a simple "
+"wallpaper, an icon set, a splash screen, or even a new logo, we're always "
+"interested to hear from you about new artwork."
+msgstr ""
+"Si teniu habilitats per al disseny gràfic i desitgeu contribuir al project, "
+"envieu-nos les vostres creacions i el treball gràfic. Des d'un fons de "
+"pantalla a un grup d'icones, una pantalla d'inici, o fins i tot un logo nou,"
+" sempre estem atents al que ens feu arribar."
+
+#: getinvolved.html:45
+msgid "Code"
+msgstr "Codi"
+
+#: getinvolved.html:46
+msgid ""
+"Most of our development is done in GTK+3, C++, Vala, Python and HTML5/CSS. "
+"We also use Git for version control and .deb for packaging. If you're "
+"comfortable with any of these technologies, don't hesitate to have a look at"
+" the code. If you think you can improve our applications or write new ones "
+"don't hesitate to suggest patches or to fork our git repositories."
+msgstr ""
+"La major part del nostre desenvolupament s'ha fet en GTK+3, C++, Vala, "
+"Python i HTML5/CSS. També fem servir el sistema Git de control de versions i"
+" empaquetats .deb. Si domineu qualsevol d'aquestes tecnologies, feu un cop "
+"d'ull al codi. Si us sembla que podeu millorar les nostres aplicacions o "
+"escriure'n de noves, suggeriu-nos les modificacions o derivacions als "
+"repositoris git."
+
+#: getinvolved.html:47
+msgid ""
+"Upstream to us is budgie-desktop. Created by BuddiesOfBudgie, they are "
+"looking for developers - so please help if you can."
+msgstr ""
+"Upstream per a nosaltres és el budgie-desktop, creat per BuddiesOfBudgie. "
+"Busquen desenvolupadors; així que, si podeu, ajudeu-los."
+
+#: getinvolved.html:51
+msgid ""
+"It appears you are not connected to the Internet. Please check your "
+"connection to access this content."
+msgstr ""
+"Sembla que no esteu connectat a Internet. Si us plau, comproveu la connexió "
+"per accedir a aquest contingut."
+
+#: getinvolved.html:52
+msgid "Sorry, Welcome was unable to establish a connection."
+msgstr "Ho sento, Welcome no ha pogut establir una connexió."
+
+#: getinvolved.html:53
+msgid "Retry"
+msgstr "Torna-hi"
+
+#: getinvolved.html:76
+msgid "Budgie Desktop GitHub"
+msgstr "GitHub de l'escriptori Budgie"
+
+#: getinvolved.html:83
+msgid ""
+"Also, we have published a complete list of available opportunities on our "
+"website. Please feel free to visit our website and find out in which way you"
+" can contribute to our mission."
+msgstr ""
+"A més hem publicat una llista completa de les ofertes disponibles al nostre "
+"lloc web. Si us plau, visiteu-lo i mireu si teniu la possiblitat de "
+"contribuir amb la nostra misssió."
+
+#: getinvolved.html:88
+msgid "Opportunities"
+msgstr "Oportunitats"

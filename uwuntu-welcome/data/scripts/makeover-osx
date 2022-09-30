@@ -1,0 +1,14 @@
+#!/bin/sh
+
+gksu rm /etc/budgie-desktop/*.ini
+sudo cp ../../panels/panel.ubuntu-budgie /etc/budgie-desktop/panel.ini
+sudo cp ../../panels/budgie-plank.desktop /etc/xdg/autostart
+gsettings set net.launchpad.plank.dock.settings:/net/launchpad/plank/docks/dock1/ position 'bottom'
+gsettings set net.launchpad.plank.dock.settings:/net/launchpad/plank/docks/dock1/ theme 'Gtk+'
+gsettings set net.launchpad.plank.dock.settings:/net/launchpad/plank/docks/dock1/ alignment 'center'
+gsettings set net.launchpad.plank.dock.settings:/net/launchpad/plank/docks/dock1/ hide-mode 'none'
+gsettings set net.launchpad.plank.dock.settings:/net/launchpad/plank/docks/dock1/ icon-size '40'
+nohup budgie-panel --replace --reset &
+nohup plank &
+
+

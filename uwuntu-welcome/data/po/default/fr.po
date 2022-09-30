@@ -1,0 +1,128 @@
+# 
+# Translators:
+# Emmanuel Hermellin <hermellin@lirmm.fr>, 2017
+# Jean-Elie ARGYRE <remy.argyre@gmail.com>, 2017
+# b122b6c7ae15d2de30fcb20b2b87e128_f108328, 2017
+# Téo le Dozo <teo@couaque.fr>, 2017
+# Guillaume Fayard <guillaume2.fayard@wanadoo.fr>, 2018
+# Jean-Charles SPOR <jean-charles.spor@hotmail.fr>, 2020
+# Salim B <salim.boulkour@gmail.com>, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-22 21:33+0000\n"
+"Last-Translator: Salim B <salim.boulkour@gmail.com>, 2020\n"
+"Language-Team: French (https://www.transifex.com/ubuntu-budgie/teams/72251/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: default.html:14
+msgid "Budgie Themes & Layouts"
+msgstr "Thèmes et dispositions Budgie"
+
+#: default.html18, 29
+msgid "Switch Appearance"
+msgstr "Changer d'apparence"
+
+#: default.html21, 467
+msgid "Desktop Layout"
+msgstr "Disposition du bureau"
+
+#: default.html:30
+msgid ""
+"There are several additional Budgie Desktop compatible themes available. "
+"Budgie Welcome provides a simple method to switch your desktop appearance "
+"(theme, fonts, icons, desktop wallpaper)."
+msgstr ""
+"Il existe plusieurs thèmes supplémentaires pour l'environnement de bureau "
+"Budgie. Budgie Bienvenue vous permet de changer simplement l'apparence de "
+"votre bureau (thème, polices d'écriture, icônes, fond d'écran)."
+
+#: default.html45, 80, 114, 148, 182, 219, 253, 289, 324, 360, 397, 433
+msgid "Install"
+msgstr "Installer"
+
+#: default.html51, 58, 85, 92, 119, 126, 153, 160, 187, 194, 224, 231, 259,
+#: 266, 294, 301, 330, 337, 366, 373, 403, 410, 439, 446
+msgid "Apply makeover"
+msgstr "Appliquer les changements"
+
+#: default.html60, 94, 128, 162, 196, 233, 268, 303, 339, 375, 412, 448
+msgid "Apply theme"
+msgstr "Appliquer le thème"
+
+#: default.html61, 95, 129, 163, 197, 234, 269, 304, 340, 376, 413, 449
+msgid "Apply fonts"
+msgstr "Appliquer les polices de caractère"
+
+#: default.html62, 96, 130, 164, 198, 235, 270, 305, 341, 377, 414, 450
+msgid "Apply icons"
+msgstr "Appliquer les icônes"
+
+#: default.html63, 97, 131, 165, 199, 236, 271, 306, 342, 378, 415, 451
+msgid "Make desktop changes"
+msgstr "Apporter les modifications au bureau"
+
+#: default.html69, 103, 137, 171, 205, 242, 278, 313, 349, 385, 422, 458, 491,
+#: 511, 531, 551, 571, 591, 611, 631, 649
+msgid "Applying Changes..."
+msgstr "Application des changements..."
+
+#: default.html:211
+msgid "Arc Design"
+msgstr "Thème Arc"
+
+#: default.html:247
+msgid "Material Design (Adapta)"
+msgstr "Thème Material (Adapta)"
+
+#: default.html:283
+msgid "Material Design (Vimix)"
+msgstr "Thème Material (Vimix)"
+
+#: default.html:318
+msgid "Material Design (Materia)"
+msgstr "Material Design (Materia)"
+
+#: default.html:468
+msgid "Switch the layout of your desktop to suit your workflow."
+msgstr ""
+"Changer la disposition de votre bureau pour aller avec votre flux de "
+"travaux."
+
+#: default.html482, 502, 522, 542, 562, 582, 602, 622
+msgid "Install layout"
+msgstr "Installer la disposition"
+
+#: default.html486, 506, 526, 546, 566, 586, 606, 626
+msgid "Apply layout"
+msgstr "Appliquer la disposition"
+
+#: default.html:642
+msgid "Restore panels"
+msgstr "Restaurer les menus"
+
+#: default.html:643
+msgid ""
+"Lost your panels while playing with Ubuntu Budgie? Unhappy with your changes"
+" to the panel layout? Don't worry. We can help you to restore your panels "
+"with a single click!"
+msgstr ""
+
+#: default.html:646
+msgid ""
+"This will undo all changes that you have made on any panel and will reset "
+"back to the initial default panel layout configuration."
+msgstr ""
+"Cela va annuler toutes les modifications effectuées sur tous les panels et "
+"va réinitialiser leur configuration à leur état initial."
+
+#: default.html:650
+msgid "Reset Budgie Panel"
+msgstr "Réinitialiser le menu Budgie"

@@ -1,0 +1,310 @@
+# 
+# Translators:
+# david mohammed <foss.freedom@gmail.com>, 2022
+# David Mohammed <fossfreedom@ubuntu.com>, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: David Mohammed <fossfreedom@ubuntu.com>, 2022\n"
+"Language-Team: English (United Kingdom) (https://www.transifex.com/ubuntu-budgie/teams/72251/en_GB/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: features.html:13
+msgid "Features"
+msgstr "Features"
+
+#: features.html:18
+msgid "Modern and Full-Featured"
+msgstr "Modern and Full-Featured"
+
+#: features.html:19
+msgid ""
+"Ubuntu Budgie is a modern computer operating system, with an attractive and "
+"easy to understand user interface. Its update manager keeps not only the "
+"operating system itself, but all of its installed applications updated to "
+"the current release. The operating system is more secure, and better "
+"supported than operating systems that come pre-installed on most home "
+"computer hardware today."
+msgstr ""
+"Ubuntu Budgie is a modern computer operating system, with an attractive and "
+"easy to understand user interface. Its update manager keeps not only the "
+"operating system itself, but all of its installed applications updated to "
+"the current release. The operating system is more secure, and better "
+"supported than operating systems that come pre-installed on most home "
+"computer hardware today."
+
+#: features.html:29
+msgid "Pre-Configured Yet Flexible"
+msgstr "Pre-Configured Yet Flexible"
+
+#: features.html:35
+msgid ""
+"Using Ubuntu Budgie provides you with the freedom to run a complete, full-"
+"featured operating system, pre-configured with most, if not all, of the "
+"applications you will need for your daily computing - or to change anything "
+"about the way it looks, the way it works, or the applications it runs to "
+"suit your taste."
+msgstr ""
+"Using Ubuntu Budgie provides you with the freedom to run a complete, full-"
+"featured operating system, pre-configured with most, if not all, of the "
+"applications you will need for your daily computing - or to change anything "
+"about the way it looks, the way it works, or the applications it runs to "
+"suit your taste."
+
+#: features.html:43
+msgid "Built-In Security"
+msgstr "Built-In Security"
+
+#: features.html:49
+msgid ""
+"Ubuntu Budgie is designed with security in mind. Unlike operating systems "
+"that update only once a month, Ubuntu Budgie receives updates continuously. "
+"The updates include security patches for Ubuntu Budgie and all of its "
+"components. Security updates for all of its installed applications are also "
+"provided on the same schedule. This ensures that you have the latest "
+"protection for all of your computer's software -- as soon as it's available!"
+msgstr ""
+"Ubuntu Budgie is designed with security in mind. Unlike operating systems "
+"that update only once a month, Ubuntu Budgie receives updates continuously. "
+"The updates include security patches for Ubuntu Budgie and all of its "
+"components. Security updates for all of its installed applications are also "
+"provided on the same schedule. This ensures that you have the latest "
+"protection for all of your computer's software -- as soon as it's available!"
+
+#: features.html:65
+msgid ""
+"Ubuntu Budgie can get viruses and other infections... but it is rare. Rapid "
+"and timely updates make it difficult for viruses, root kits and other "
+"malware to be installed and run without conscious intervention by you, the "
+"user. Even if you do accidentally invite in an infection, chances are it's "
+"designed to attack Windows and won't do much, if any damage to Ubuntu "
+"Budgie."
+msgstr ""
+"Ubuntu Budgie can get viruses and other infections... but it is rare. Rapid "
+"and timely updates make it difficult for viruses, root kits and other "
+"malware to be installed and run without conscious intervention by you, the "
+"user. Even if you do accidentally invite in an infection, chances are it's "
+"designed to attack Windows and won't do much, if any damage to Ubuntu "
+"Budgie."
+
+#: features.html:80
+msgid ""
+"Another significant security feature of Ubuntu Budgie is that its users are "
+"not superusers by default. Superusers (also known as \"root\" users or "
+"administrators) on any computer system have permission to do anything they "
+"want, including the ability to damage the system."
+msgstr ""
+"Another significant security feature of Ubuntu Budgie is that its users are "
+"not superusers by default. Superusers (also known as \"root\" users or "
+"administrators) on any computer system have permission to do anything they "
+"want, including the ability to damage the system."
+
+#: features.html:84
+msgid ""
+"For example, other operating systems look at the name of a file to determine"
+" which program should open it, then immediately attempt to open it. That "
+"design makes it easy for an intruder to attack a computer. Ubuntu Budgie "
+"opens a file based on what the file is, not based on its name. So even if a "
+"malicious program disguises its identity by using the name \"Last Will and "
+"Testament.txt\" Ubuntu Budgie will recognize the file as a program. The "
+"system provides a warning that the file is not a text file, but that it is a"
+" program that will be run if you give it permission to continue. To be extra"
+" secure, Ubuntu Budgie requires you to provide your administrator password "
+"before that permission is granted. Every single time."
+msgstr ""
+"For example, other operating systems look at the name of a file to determine"
+" which program should open it, then immediately attempt to open it. That "
+"design makes it easy for an intruder to attack a computer. Ubuntu Budgie "
+"opens a file based on what the file is, not based on its name. So even if a "
+"malicious program disguises its identity by using the name \"Last Will and "
+"Testament.txt\" Ubuntu Budgie will recognize the file as a program. The "
+"system provides a warning that the file is not a text file, but that it is a"
+" program that will be run if you give it permission to continue. To be extra"
+" secure, Ubuntu Budgie requires you to provide your administrator password "
+"before that permission is granted. Every single time."
+
+#: features.html:101
+msgid "Powerful Applications"
+msgstr "Powerful Applications"
+
+#: features.html:102
+msgid ""
+"While budgie-desktop provides the essential user interface to control and "
+"use a computer, Ubuntu Budgie adds a collection of additional applications "
+"to turn your computer into a truly powerful workstation."
+msgstr ""
+"While budgie-desktop provides the essential user interface to control and "
+"use a computer, Ubuntu Budgie adds a collection of additional applications "
+"to turn your computer into a truly powerful workstation."
+
+#: features.html:107
+msgid "Productivity"
+msgstr "Productivity"
+
+#: features.html:116
+msgid ""
+"<span>Firefox</span> delivers safe, easy web browsing. A familiar user "
+"interface, enhanced security features including protection from online "
+"identity theft, and an integrated search to let you get the most out of the "
+"web."
+msgstr ""
+"<span>Firefox</span> delivers safe, easy web browsing. A familiar user "
+"interface, enhanced security features including protection from online "
+"identity theft, and an integrated search to let you get the most out of the "
+"web."
+
+#: features.html:129
+msgid ""
+"LibreOffice is a full-featured office productivity suite that provides a "
+"near drop-in replacement for Microsoft(R) Office; its clean interface and "
+"powerful tools let you unleash your creativity and grow your productivity. "
+"LibreOffice embeds several applications that make it the most powerful Free "
+"and Open Source Office suite on the market:"
+msgstr ""
+"LibreOffice is a full-featured office productivity suite that provides a "
+"near drop-in replacement for Microsoft(R) Office; its clean interface and "
+"powerful tools let you unleash your creativity and grow your productivity. "
+"LibreOffice embeds several applications that make it the most powerful Free "
+"and Open Source Office suite on the market:"
+
+#: features.html:136
+msgid "Writer, the word processor."
+msgstr "Writer, the word processor."
+
+#: features.html:137
+msgid "Calc, the spreadsheet application."
+msgstr "Calc, the spreadsheet application."
+
+#: features.html:138
+msgid "Impress, the presentation engine."
+msgstr "Impress, the presentation engine."
+
+#: features.html:139
+msgid "Draw, the drawing and flowcharting application"
+msgstr "Draw, the drawing and flowcharting application"
+
+#: features.html:140
+msgid "Math, for editing mathematics."
+msgstr "Math, for editing mathematics."
+
+#: features.html:147
+msgid "Entertainment"
+msgstr "Entertainment"
+
+#: features.html:153
+msgid ""
+"Rhythmbox is a very easy to use music playing and management program which "
+"supports a wide range of audio formats (including mp3 and ogg). Originally "
+"inspired by Apple's iTunes, the current version also supports Internet "
+"Radio, iPod integration and generic portable audio player support, Audio CD "
+"burning, Audio CD playback, music sharing, and Podcasts."
+msgstr ""
+"Rhythmbox is a very easy to use music playing and management program which "
+"supports a wide range of audio formats (including mp3 and ogg). Originally "
+"inspired by Apple's iTunes, the current version also supports Internet "
+"Radio, iPod integration and generic portable audio player support, Audio CD "
+"burning, Audio CD playback, music sharing, and Podcasts."
+
+#: features.html:161
+msgid ""
+"Lollypop is a very easy to use music playing and management program which "
+"supports a wide range of audio formats (including mp3 and ogg)."
+msgstr ""
+"Lollypop is a very easy to use music playing and management program which "
+"supports a wide range of audio formats (including mp3 and ogg)."
+
+#: features.html:164
+msgid "Goodvibes supports Internet Radio."
+msgstr "Goodvibes supports Internet Radio."
+
+#: features.html:165
+msgid "gPodder supports Podcasts."
+msgstr "gPodder supports Podcasts."
+
+#: features.html:174
+msgid ""
+"<span>gThumb</span> is a digital photo organizer. It allows you to import "
+"photos from disk or camera, organize them in various ways, view them in "
+"full-window or fullscreen mode, and export them to share with others. It is "
+"able to manage a lot of different image formats."
+msgstr ""
+"<span>gThumb</span> is a digital photo organizer. It allows you to import "
+"photos from disk or camera, organize them in various ways, view them in "
+"full-window or fullscreen mode, and export them to share with others. It is "
+"able to manage a lot of different image formats."
+
+#: features.html:187
+msgid ""
+"<span class=\"before2210\">Celluloid</span><span "
+"class=\"after2204\">Parole</span> is a media player. It plays MPEG, MPEG-2, "
+"MPEG-4, DivX, MOV, WMV, QuickTime, WebM, FLAC, MP3, Ogg/Vorbis files, DVDs, "
+"VCDs, podcasts, and multimedia streams from various network sources."
+msgstr ""
+"<span class=\"before2210\">Celluloid</span><span "
+"class=\"after2204\">Parole</span> is a media player. It plays MPEG, MPEG-2, "
+"MPEG-4, DivX, MOV, WMV, QuickTime, WebM, FLAC, MP3, Ogg/Vorbis files, DVDs, "
+"VCDs, podcasts, and multimedia streams from various network sources."
+
+#: features.html:197
+msgid "... And a whole lot more!"
+msgstr "... And a whole lot more!"
+
+#: features.html:199
+msgid ""
+"Naturally you'll also find a document/photo scanner and printer management "
+"all included in Ubuntu Budgie. And this is just the start. <a "
+"onclick=\"cmd('software-center');\">GNOME Software</a> includes best-in-"
+"class applications for most tasks and a single click will give you access to"
+" thousands of applications suitable for just about any professional or "
+"recreational pursuit."
+msgstr ""
+"Naturally you'll also find a document/photo scanner and printer management "
+"all included in Ubuntu Budgie. And this is just the start. <a "
+"onclick=\"cmd('software-center');\">GNOME Software</a> includes best-in-"
+"class applications for most tasks and a single click will give you access to"
+" thousands of applications suitable for just about any professional or "
+"recreational pursuit."
+
+#: features.html:209
+msgid "Games"
+msgstr "Games"
+
+#: features.html:215
+msgid ""
+"In the last couple of years Linux has become a first class gaming platform "
+"thanks to <a onclick=\"cmd('link?https://www.valvesoftware.com')\">Valve</a>"
+" bringing their <a "
+"onclick=\"cmd('link?https://store.steampowered.com')\">Steam</a> platform to"
+" Linux. At the time of writing Steam has more than 2000 high quality indie "
+"and AAA titles available for Linux. Ubuntu Budgie is fully compatible with "
+"Steam for Linux."
+msgstr ""
+"In the last couple of years Linux has become a first class gaming platform "
+"thanks to <a onclick=\"cmd('link?https://www.valvesoftware.com')\">Valve</a>"
+" bringing their <a "
+"onclick=\"cmd('link?https://store.steampowered.com')\">Steam</a> platform to"
+" Linux. At the time of writing Steam has more than 2000 high quality indie "
+"and AAA titles available for Linux. Ubuntu Budgie is fully compatible with "
+"Steam for Linux."
+
+#: features.html:225
+msgid ""
+"While Steam is a major step forward for gaming on Linux, there are also many"
+" high quality and enjoyable Open Source games titles available for Ubuntu "
+"Budgie. It doesn't matter if you like flight simulators, motor racing, first"
+" person shooters, jump and run or card games, you'll find something to keep "
+"you entertained."
+msgstr ""
+"While Steam is a major step forward for gaming on Linux, there are also many"
+" high quality and enjoyable Open Source games titles available for Ubuntu "
+"Budgie. It doesn't matter if you like flight simulators, motor racing, first"
+" person shooters, jump and run or card games, you'll find something to keep "
+"you entertained."

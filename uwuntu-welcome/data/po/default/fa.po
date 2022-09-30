@@ -1,0 +1,124 @@
+# 
+# Translators:
+# Abolfazl Amiri (aasmpro) <aa.smpro@gmail.com>, 2020
+# Ali Najafian, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-22 21:33+0000\n"
+"Last-Translator: Ali Najafian, 2022\n"
+"Language-Team: Persian (https://www.transifex.com/ubuntu-budgie/teams/72251/fa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: default.html:14
+msgid "Budgie Themes & Layouts"
+msgstr "تم ها و طرح ساختاری بادجی"
+
+#: default.html18, 29
+msgid "Switch Appearance"
+msgstr "تغییر ظاهر"
+
+#: default.html21, 467
+msgid "Desktop Layout"
+msgstr "طرح میزکار"
+
+#: default.html:30
+msgid ""
+"There are several additional Budgie Desktop compatible themes available. "
+"Budgie Welcome provides a simple method to switch your desktop appearance "
+"(theme, fonts, icons, desktop wallpaper)."
+msgstr ""
+"تم های سازگار مختلفی برای میزکار بادجی در دسترس است. صفحه خوش آمد گویی بادجی"
+" راهی را برای تعویض ظاهر میزکار شما ارائه می کند. (تم، فونت، ایکن ها، طرح "
+"های زمینه)"
+
+#: default.html45, 80, 114, 148, 182, 219, 253, 289, 324, 360, 397, 433
+msgid "Install"
+msgstr "نصب"
+
+#: default.html51, 58, 85, 92, 119, 126, 153, 160, 187, 194, 224, 231, 259,
+#: 266, 294, 301, 330, 337, 366, 373, 403, 410, 439, 446
+msgid "Apply makeover"
+msgstr ""
+
+#: default.html60, 94, 128, 162, 196, 233, 268, 303, 339, 375, 412, 448
+msgid "Apply theme"
+msgstr "اعمال تم"
+
+#: default.html61, 95, 129, 163, 197, 234, 269, 304, 340, 376, 413, 449
+msgid "Apply fonts"
+msgstr "اعمال فونت"
+
+#: default.html62, 96, 130, 164, 198, 235, 270, 305, 341, 377, 414, 450
+msgid "Apply icons"
+msgstr "اعمال طرح ایکن"
+
+#: default.html63, 97, 131, 165, 199, 236, 271, 306, 342, 378, 415, 451
+msgid "Make desktop changes"
+msgstr ""
+
+#: default.html69, 103, 137, 171, 205, 242, 278, 313, 349, 385, 422, 458, 491,
+#: 511, 531, 551, 571, 591, 611, 631, 649
+msgid "Applying Changes..."
+msgstr "اعمال تغییرات..."
+
+#: default.html:211
+msgid "Arc Design"
+msgstr "طرح Arc"
+
+#: default.html:247
+msgid "Material Design (Adapta)"
+msgstr "طرح متریال (Adapta)"
+
+#: default.html:283
+msgid "Material Design (Vimix)"
+msgstr "طرح متریال (Vimix)"
+
+#: default.html:318
+msgid "Material Design (Materia)"
+msgstr ""
+
+#: default.html:468
+msgid "Switch the layout of your desktop to suit your workflow."
+msgstr "ظاهر میزکار خود را متناسب با کار خود تغییر بدهید."
+
+#: default.html482, 502, 522, 542, 562, 582, 602, 622
+msgid "Install layout"
+msgstr ""
+
+#: default.html486, 506, 526, 546, 566, 586, 606, 626
+msgid "Apply layout"
+msgstr ""
+
+#: default.html:642
+msgid "Restore panels"
+msgstr "بازگرداندن پنل ها"
+
+#: default.html:643
+msgid ""
+"Lost your panels while playing with Ubuntu Budgie? Unhappy with your changes"
+" to the panel layout? Don't worry. We can help you to restore your panels "
+"with a single click!"
+msgstr ""
+"پنل های تان را هنگام بازی کردن با بادجی از دست دادید!؟ از تغییراتی که در پنل"
+" هایتان ایجاده کرده اید ناراضی هستید؟ نگران نباشید. ما به شما کمک میکنیم تا "
+"با یک کلیک پنل هایتان را بازگردانید."
+
+#: default.html:646
+msgid ""
+"This will undo all changes that you have made on any panel and will reset "
+"back to the initial default panel layout configuration."
+msgstr ""
+"این کار باعث بازگردانی تمامی تغییرات ایجاد شده در همه پنل ها و بازگردانی "
+"ظاهر پنل ها به پیکربندی پیشفرض میشود."
+
+#: default.html:650
+msgid "Reset Budgie Panel"
+msgstr "بازنشانی پنل بادجی"

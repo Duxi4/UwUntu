@@ -1,0 +1,106 @@
+# 
+# Translators:
+# Abolfazl Amiri (aasmpro) <aa.smpro@gmail.com>, 2017
+# Ali Najafian, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: Ali Najafian, 2022\n"
+"Language-Team: Persian (https://www.transifex.com/ubuntu-budgie/teams/72251/fa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: index.html:14
+msgid "Main Menu"
+msgstr "منوی اصلی "
+
+#: index.html:24
+msgid "Choose an option to discover your new operating system."
+msgstr "یک گزینه را برای کشف سیستم عامل جدید خود انتخاب کنید."
+
+#: index.html:36
+msgid "Introduction"
+msgstr "معرفی"
+
+#: index.html:42
+msgid "Features"
+msgstr "امکانات و قابلیت ها"
+
+#: index.html:48
+msgid "Getting Started"
+msgstr "شروع"
+
+#: index.html:54
+msgid "Installation Help"
+msgstr "راهنمای نصب"
+
+#: index.html60, 117
+msgid "Recommendations"
+msgstr "توصیه ها"
+
+#: index.html:78
+msgid "Online Store"
+msgstr "فروشگاه آنلاین"
+
+#: index.html:84
+msgid "Community"
+msgstr "انجمن"
+
+#: index.html:90
+msgid "Get Involved"
+msgstr "مشارکت"
+
+#: index.html:96
+msgid "Donate"
+msgstr "اهدا کردن"
+
+#: index.html:106
+msgid "Install Now"
+msgstr "نصب"
+
+#: index.html:113
+msgid "Install Software"
+msgstr "نصب نرم افزار"
+
+#: index.html:115
+msgid "Budgie Extras"
+msgstr ""
+
+#: index.html:118
+msgid "Software Center"
+msgstr "مرکز نرم افزار"
+
+#: index.html:119
+msgid "Snap Apps"
+msgstr "برنامه های Snap"
+
+#: index.html:121
+msgid "Flatpak Apps"
+msgstr "برنامه های Flatpak "
+
+#: index.html:123
+msgid "Gaming"
+msgstr "بازی"
+
+#: index.html:129
+msgid "Themes & Layouts"
+msgstr ""
+
+#: index.html:139
+msgid "Get Support:"
+msgstr "پشتیبانی بگیرید"
+
+#: index.html:151
+msgid "Facebook Group"
+msgstr "گروه فیسبوک"
+
+#: index.html:154
+msgid "Facebook Page"
+msgstr "صفحه فیسبوک"

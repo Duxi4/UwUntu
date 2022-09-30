@@ -1,0 +1,12 @@
+[Desktop Entry]
+Terminal=false
+Type=Application
+Categories=Utility;GNOME;GTK;
+StartupNotify=false
+Name=Budgie Makeovers & Layouts
+Exec=budgie-welcome --jump-to=default
+Icon=distributor-logo-ubuntu-budgie
+Comment=Give the desktop a makeover with new themes, icons, fonts & layouts
+Keywords=desktop;preferences;
+OnlyShowIn=Budgie;
+StartupWMClass=budgie-welcome

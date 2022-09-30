@@ -1,0 +1,1810 @@
+# 
+# Translators:
+# Ronald van Zuijlen, 2017
+# Machiel Heinen, 2018
+# F Ratering <franck.ratering@gmail.com>, 2018
+# Jacob Vlijm <vlijm@planet.nl>, 2019
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: Jacob Vlijm <vlijm@planet.nl>, 2019\n"
+"Language-Team: Dutch (Netherlands) (https://www.transifex.com/ubuntu-budgie/teams/72251/nl_NL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: gettingstarted.html:16
+msgid "Getting Started"
+msgstr "Aan de slag"
+
+#: gettingstarted.html:23
+msgid "Prerequisites"
+msgstr "Vereisten"
+
+#: gettingstarted.html26, 196
+msgid "System Requirements"
+msgstr "Systeemvereisten"
+
+#: gettingstarted.html:29
+msgid "Installation Preparation"
+msgstr "Installatievoorbereiding"
+
+#: gettingstarted.html32, 199, 209
+msgid "Dual Booting"
+msgstr "Dual booten"
+
+#: gettingstarted.html:35
+msgid "Install Now"
+msgstr "Installeer nu"
+
+#: gettingstarted.html:39
+msgid "Familiarity"
+msgstr "Vertrouwd"
+
+#: gettingstarted.html:42
+msgid "Browser Ballot"
+msgstr "Browser kiezen"
+
+#: gettingstarted.html46, 879, 1729
+msgid "Customization"
+msgstr "Personaliseren"
+
+#: gettingstarted.html49, 1107
+msgid "Keyboard Shortcuts"
+msgstr "Sneltoetsen"
+
+#: gettingstarted.html:53
+msgid "Post-Installation"
+msgstr "Na de installatie"
+
+#: gettingstarted.html55, 408, 657
+msgid "Updates & Extras"
+msgstr "Updates & Extra's"
+
+#: gettingstarted.html58, 488, 498, 764
+msgid "Drivers"
+msgstr "Stuurprogramma's"
+
+#: gettingstarted.html:61
+msgid "Language & Input"
+msgstr "Taal & Invoer"
+
+#: gettingstarted.html64, 766
+msgid "Optional Tasks"
+msgstr "Optionele taken"
+
+#: gettingstarted.html:68
+msgid "Troubleshooting"
+msgstr "Problemen oplossen"
+
+#: gettingstarted.html:70
+msgid "System Specifications"
+msgstr "Systeemspecificaties"
+
+#: gettingstarted.html:79
+msgid "Please choose a topic to get started."
+msgstr "Kies een onderwerp om te beginnen."
+
+#: gettingstarted.html:87
+msgid "Modest System Requirements"
+msgstr "Bescheiden Systeemvereisten"
+
+#: gettingstarted.html:88
+msgid ""
+"Ubuntu Budgie works well on both high-end to older computers, optimized to "
+"be functional, while light on system resources."
+msgstr ""
+
+#: gettingstarted.html:91
+msgid "Minimum"
+msgstr "Minimum"
+
+#: gettingstarted.html:93
+msgid "Pentium i3 - approximately created in 2013"
+msgstr "Pentium i3 - ongeveer uit 2013"
+
+#: gettingstarted.html94, 98
+msgid "2 gigabytes (GB) of RAM"
+msgstr "2 gigabytes (Gb) RAM"
+
+#: gettingstarted.html:95
+msgid "32 gigabytes (GB) of disk space"
+msgstr ""
+
+#: gettingstarted.html97, 108
+msgid "Raspberry Pi4B"
+msgstr ""
+
+#: gettingstarted.html:99
+msgid "32 gigabytes (GB) SD Card"
+msgstr ""
+
+#: gettingstarted.html:102
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: gettingstarted.html:104
+msgid "Pentium i5 - approximately created in 2017"
+msgstr ""
+
+#: gettingstarted.html105, 109
+msgid "4 gigabytes (GB) of RAM"
+msgstr "4 gigabyte (Gb) RAM"
+
+#: gettingstarted.html:106
+msgid "60 gigabytes (GB) of disk space"
+msgstr ""
+
+#: gettingstarted.html:110
+msgid "60 gigabytes (GB) SSD"
+msgstr ""
+
+#: gettingstarted.html:113
+msgid ""
+"The operating system will run much more efficiently if your computer meets "
+"or surpasses the recommended requirements."
+msgstr ""
+"Het besturingssysteem zal veel efficiënter werken als je computer voldoet "
+"aan of hoger is dan de aanbevolen vereisten."
+
+#: gettingstarted.html118, 1739
+msgid "What's inside my computer?"
+msgstr "Wat zit er in mijn computer?"
+
+#: gettingstarted.html:124
+msgid "Installation Preparations"
+msgstr "Installatievoorbereidingen"
+
+#: gettingstarted.html:134
+msgid "Preparing to Install"
+msgstr "Installatie aan het voorbereiden"
+
+#: gettingstarted.html:135
+msgid ""
+"Ubuntu Budgie is relatively simple to set up, whether you're looking to "
+"replace your existing operating system or install Ubuntu Budgie alongside an"
+" existing one - such as &nbsp;<span class=\"fa fa-windows\"></span> "
+"Microsoft Windows or another <span class=\"fa fa-linux\"></span> GNU/Linux "
+"distribution."
+msgstr ""
+
+#: gettingstarted.html:141
+msgid "For the best results:"
+msgstr "Voor de beste resultaten:"
+
+#: gettingstarted.html:143
+msgid "<u><b>Back up</b></u> any important data to another storage device."
+msgstr ""
+"<u><b> Maak een backup </b></u> van belangrijke data naar een ander "
+"opslagmedium."
+
+#: gettingstarted.html:144
+msgid ""
+"Connect to the Internet to install all available updates during "
+"installation."
+msgstr ""
+"Maak een verbinding met internet om alle beschikbare updates tijdens de "
+"installatieprocedure te installeren."
+
+#: gettingstarted.html:146
+msgid "Stay connected to the Internet to install all available updates."
+msgstr ""
+"Blijf verbonden met internet om alle beschikbare updates te installeren."
+
+#: gettingstarted.html:147
+msgid "Plug in your device to the mains if it is running on battery power."
+msgstr ""
+"Sluit uw apparaat aan op een stroombron als deze op dit moment de accu "
+"gebruikt."
+
+#: gettingstarted.html:152
+msgid ""
+"The live session you are currently in right now is a good opportunity to "
+"test Ubuntu Budgie without modifying your computer, allowing you to test all"
+" of your peripherals are working as intended before committing to installing"
+" it on your machine. Once you are ready, double click the installation icon "
+"from the desktop."
+msgstr ""
+
+#: gettingstarted.html:159
+msgid "Modern UEFI-based computers"
+msgstr "Moderne UEFI-gebaseerde computers"
+
+#: gettingstarted.html:160
+msgid ""
+"If you have a modern PC that uses the Unified Extended Firmware Interface "
+"(UEFI), you may need to disable <b>Secure Boot</b> (or enable the <b>Unlock "
+"Bootloader</b> option) prior to installation, particularly if an operating "
+"system was pre-installed."
+msgstr ""
+"Als u een moderne pc hebt die gebruik maakt van de Unified Extended Firmware"
+" Interface (UEFI), moet u mogelijk Secure Boot (of de optie <b>Unlock "
+"Bootloader</b>) uitschakelen voordat u met de installatie begint, vooral als"
+" een besturingssysteem vooraf was geïnstalleerd."
+
+#: gettingstarted.html:164
+msgid "If you are using a legacy BIOS machine, you do not need to do this."
+msgstr "Indien u een legacy BIOS machine gebruikt, hoeft u dit niet te doen."
+
+#: gettingstarted.html:167
+msgid ""
+"Especially when dual booting, it is important that you boot your system in "
+"the correct mode and use the <b> 64-bit image</b> , as you cannot boot an "
+"operating system installed in BIOS mode after installing a UEFI-enabled "
+"operating system or vice versa."
+msgstr ""
+"Vooral bij dubbel opstarten is het belangrijk dat u uw systeem opstart in de"
+" juiste modus en de <b>64-bits afbeelding</b> gebruikt, omdat u een "
+"besturingssysteem niet kunt opstarten dat is geïnstalleerd in de BIOS-modus "
+"na installatie van een UEFI-compatibel besturingssysteem of omgekeerd."
+
+#: gettingstarted.html:173
+msgid ""
+"Booting in BIOS mode on a UEFI system with a GPT-formatted disk will also "
+"show a \"protection layer\". <b>Do not worry,</b> your data is not lost or "
+"corrupt!"
+msgstr ""
+"Opstarten in de BIOS-modus op een UEFI-systeem met een GPT-geformatteerde "
+"schijf zal ook een \"protection layer\" tonen. Geen zorgen, uw gegevens zijn"
+" niet verloren of corrupt!"
+
+#: gettingstarted.html:178
+msgid ""
+"Your system is currently running in <b><span id=\"boot-mode\"></span> "
+"mode</b>."
+msgstr "Het systeem is momenteel in <b><span id=\"boot-mode\"></span> modus</b>."
+
+#: gettingstarted.html:183
+msgid "Swap"
+msgstr "Swap"
+
+#: gettingstarted.html:184
+msgid ""
+"For computers that start to run low on memory (RAM), the operating system "
+"will start swapping to disk. Known as a \"paging file\" in Windows. "
+"Performance will decrease when running low on memory and could possibly "
+"freeze if you completely run out of memory without anywhere to swap."
+msgstr ""
+"Voor systemen waarvan de beschikbare geheugen (RAM) afneemt, zal het "
+"besturingssysteem data naar de swap schrijven. In Windows heet dat de "
+"\"paging file\". De prestaties nemen af wanneer er te weinig geheugen "
+"beschikbaar is en het systeem kan bevriezen als u zonder geheugen niet naar "
+"de swap kan schrijven. "
+
+#: gettingstarted.html:188
+msgid ""
+"By default, a swap file is created based on the size of your RAM. For "
+"example, if you have 2 GiB of RAM, then 2 GiB of hard disk space will be "
+"reserved for the swap file. A separate swap partition is no longer required "
+"to be created."
+msgstr ""
+"Standaard wordt een swappartitie gemaakt op basis van de grootte van uw RAM."
+" Als u bijvoorbeeld 2 gigabyte aan RAM hebt, wordt er 2 gigabyte ruimte op "
+"de harde schijf gereserveerd voor verwisseling aan het einde van de rit. Er "
+"hoeft niet langer een aparte swappartitie te worden gemaakt."
+
+#: gettingstarted.html196, 397, 764, 1728
+msgid "Previous:"
+msgstr "Vorige:"
+
+#: gettingstarted.html:210
+msgid ""
+"Should you wish to install Ubuntu Budgie alongside your existing operating "
+"system, your partitions need to be shrunk. This results in sections of your "
+"hard disk being split between multiple operating systems."
+msgstr ""
+
+#: gettingstarted.html:216
+msgid "I'm dual booting with"
+msgstr "Ik dual boot met"
+
+#: gettingstarted.html:219
+msgid "To minimize the risk of data loss or failure, ensure that:"
+msgstr ""
+"Om het risico op dataverlies of fouten te minimaliseren, wees er zeker van "
+"dat:"
+
+#: gettingstarted.html:221
+msgid "There is enough free space. 10 GB minimum is recommended."
+msgstr "Er is genoeg vrije schijfruimte. Minimaal 10 GB is aangeraden."
+
+#: gettingstarted.html:223
+msgid "<b><u>Back up</u></b> important data to another drive."
+msgstr ""
+"Maak een <b><u>back-up</u></b> van belangrijke data naar een andere schijf."
+
+#: gettingstarted.html:225
+msgid "Defragment the hard drive."
+msgstr "Defragmenteer de hardeschijf."
+
+#: gettingstarted.html:226
+msgid "Ensure Windows has been cleanly shut down (not hibernated)."
+msgstr "Controleer of Windows goed afgesloten is (niet in slaapstand)."
+
+#: gettingstarted.html:231
+msgid "Which approach would you prefer?"
+msgstr "Welke aanpak heeft uw voorkeur?"
+
+#: gettingstarted.html:234
+msgid "Simple"
+msgstr "Eenvoudig"
+
+#: gettingstarted.html:236
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: gettingstarted.html:238
+msgid "Safest"
+msgstr "Veiligst"
+
+#: gettingstarted.html:243
+msgid "The simplest method is to use the installer."
+msgstr "De eenvoudigste methode is om het installatie programma te gebruiken."
+
+#: gettingstarted.html:245
+msgid ""
+"The installer scans your disks for existing operating systems and provides a"
+" choice on what you'd like to do."
+msgstr ""
+"Het installatieprogramma scant uw schijven op bestaande besturingssystemen "
+"en biedt een keuze voor wat u zou willen doen."
+
+#: gettingstarted.html:248
+msgid "You will see an option similar to this:"
+msgstr "U ziet een vergelijkbare optie:"
+
+#: gettingstarted.html:252
+msgid "Followed by:"
+msgstr "Gevolgd door:"
+
+#: gettingstarted.html:258
+msgid "Do not interrupt or power off the computer during a resize operation."
+msgstr ""
+"Onderbreek of schakel de computer niet uit tijdens het wijzigen van de "
+"grootte van een partitie."
+
+#: gettingstarted.html:260
+msgid ""
+"If you do, data loss or a partition table corruption could occur. Please "
+"double check your changes before proceeding."
+msgstr ""
+"Als u dit doet, kan er gegevensverlies of corruptie van een partitietabel "
+"optreden. Controleer uw wijzigingen voordat u verder gaat."
+
+#: gettingstarted.html:262
+msgid ""
+"The installer may show a <span class=\"fa fa-spinner\"></span> spinner "
+"cursor for a long period of time, depending on the size of your disk."
+msgstr ""
+"Het installatieprogramma kan een draaiende <span class=\"fa fa-"
+"spinner\"></span> cursor voor een lange tijd laten zien, afhankelijk van de "
+"grootte van uw schijf."
+
+#: gettingstarted.html:266
+msgid ""
+"<b>When you next boot Windows, run</b> <code>chkdsk /f</code> from the "
+"command prompt to check the file system for errors. Windows may schedule "
+"this automatically. This ensures consistency for the NTFS file system."
+msgstr ""
+"<b>Wanneer u Windows weer voor het eerst opstart, voer dan</b><code> chkdsk "
+"/f</code> uit vanaf de opdrachtprompt om het bestandssysteem op fouten te "
+"controleren. Windows kan dit automatisch plannen. Dit zorgt voor "
+"consistentie voor het NTFS-bestandssysteem."
+
+#: gettingstarted.html:274
+msgid "Use GParted or the installer's \"Custom\" option."
+msgstr "Gebruik GParted of de \"Aangepaste\" optie van het installatieprogramma."
+
+#: gettingstarted.html:277
+msgid ""
+"<b>GParted</b> is available during the live session only. It is located "
+"under the <b>System Tools <i class=\"material-icons\">&#xE315;</i></b>menu. "
+"GParted provides complete flexibility over your partitions, primarily for "
+"power users who know how they'd like to layout their disks. This method "
+"makes changes to partitions prior to installation."
+msgstr ""
+
+#: gettingstarted.html:285
+msgid "Open GParted"
+msgstr "Open GParted"
+
+#: gettingstarted.html:288
+msgid ""
+"After completing operations to your disk, you can leave the remaining space "
+"unallocated, whereby the installer will detect this unused space to install "
+"Ubuntu Budgie to."
+msgstr ""
+
+#: gettingstarted.html:292
+msgid "Using the Installer's \"Custom\" option."
+msgstr "Gebruik de \"aangepaste\" optie van de installer."
+
+#: gettingstarted.html:293
+msgid ""
+"Instead or in addition to GParted, the <b>Custom</b> option during the "
+"installation wizard can also configure and resize your partitions as well as"
+" choose mount points. Dividing your disks can make it somewhat easier to re-"
+"install the operating system later if desired."
+msgstr ""
+"In de plaats van of in aanvulling op GParted, kan de optie <b>Aangepast</b> "
+"tijdens de installatiewizard uw partities configureren en van grootte "
+"veranderen en mountpunten kiezen. Door de schijven te verdelen kan het wat "
+"eenvoudiger worden om het besturingssysteem later opnieuw te installeren."
+
+#: gettingstarted.html:298
+msgid "You can specify these mount points:"
+msgstr "Deze mountpunten zijn beschikbaar:"
+
+#: gettingstarted.html:300
+msgid "The base for Ubuntu Budgie"
+msgstr ""
+
+#: gettingstarted.html:301
+msgid "Bootloader and kernels"
+msgstr "Bootlader en kernels"
+
+#: gettingstarted.html:302
+msgid "Your personal files and folders"
+msgstr "Uw persoonlijke bestanden en mappen"
+
+#: gettingstarted.html:303
+msgid "Temporary files"
+msgstr "Tijdelijke bestanden"
+
+#: gettingstarted.html:304
+msgid ""
+"Contains most of the applications <i> (binaries, documentation, libraries, "
+"etc)</i>"
+msgstr ""
+"Bevat de meeste toepassingen <i>(binaire bestanden, documentatie, "
+"bibliotheken, enz.)</i>"
+
+#: gettingstarted.html:306
+msgid "Variable data <i>(such as system logs)</i>"
+msgstr "Variabele data <i>(zoals systeem logs)</i>"
+
+#: gettingstarted.html:307
+msgid ""
+"Data for System Services <i>(typically used for server configurations)</i>"
+msgstr ""
+"Gegevens voor Systeemservices <i>(meestal gebruikt voor "
+"serverconfiguraties)</i>"
+
+#: gettingstarted.html:309
+msgid "Additional software unmanaged by the package manager"
+msgstr "Extra software onbeheerd door de package manager"
+
+#: gettingstarted.html:310
+msgid "such as"
+msgstr "zoals"
+
+#: gettingstarted.html:314
+msgid ""
+"Creating separate partitions for all above mount points is not necessary. "
+"The commonly partitioned directories being <code>/</code>, "
+"<code>/home</code> and <code>/boot</code>. These mount points can also be "
+"set across different physical disks, for instance, if you'd like the OS "
+"<code>/</code> on an SSD, but your personal files <code>/home</code> on a "
+"mechanical hard drive."
+msgstr ""
+"Het is niet nodig om aparte partities te maken voor alle bovenstaande mount-"
+"punten. De gewoonlijk gepartitioneerde mappen zijn <code>/</code>, "
+"<code>/home</code> en <code>/boot</code>. Deze mount-punten kunnen ook op "
+"verschillende fysieke schijven worden ingesteld, bijvoorbeeld als u het OS "
+"<code>/</code> op een SSD wilt, maar uw persoonlijke bestanden "
+"<code>/home</code> op een mechanische harde schijf."
+
+#: gettingstarted.html:322
+msgid "Shrink your system disk within Windows."
+msgstr "Verklein uw systeemschijf vanuit Windows."
+
+#: gettingstarted.html:324
+msgid "Applies to Windows Vista and later."
+msgstr "Van toepassing op Windows Vista en nieuwere versies van Windows."
+
+#: gettingstarted.html:326
+msgid ""
+"If you are using Windows XP or earlier, you will need to use the "
+"<b>Simple</b> or <b>Advanced</b> method to shrink your disk."
+msgstr ""
+"Als u Windows XP of eerder gebruikt, moet u de Eenvoudige of "
+"<b>Geavanceerde</b> methode gebruiken om de schijf te verkleinen."
+
+#: gettingstarted.html:331
+msgid ""
+"Newer versions of Windows provide a tool to shrink the NTFS volume from "
+"within Windows. This is a safer bet if it's essential that Windows still "
+"boots on your computer while experiencing Ubuntu Budgie."
+msgstr ""
+
+#: gettingstarted.html:335
+msgid "Open <b>Disk Management</b> from the start menu."
+msgstr "Open <b>Schijfbeheer</b> vanuit het startmenu."
+
+#: gettingstarted.html:340
+msgid ""
+"Right click your desired drive and choose <b>Shrink Partition</b> from the "
+"context menu."
+msgstr ""
+"Klik met de rechtermuisknop op de gewenste schijf en kies <b>Verklein "
+"Partitie</b>in het contextmenu."
+
+#: gettingstarted.html:346
+msgid "Enter the amount to shrink your system partition by."
+msgstr "Voer het bedrag in waarmee u uw systeempartitie wilt verkleinen."
+
+#: gettingstarted.html:352
+msgid "Remember, Ubuntu Budgie needs at minimum 32 GB of disk space."
+msgstr ""
+
+#: gettingstarted.html:357
+msgid "Further Reading"
+msgstr "Lees verder"
+
+#: gettingstarted.html:358
+msgid ""
+"For further information on the best practices to modify partitions "
+"containing Windows, see the following <a "
+"onclick=\"cmd('link?https://help.ubuntu.com/community/HowtoResizeWindowsPartitions')\">"
+" help article</a> online."
+msgstr ""
+"Raadpleeg het volgende <a "
+"onclick=\"cmd('link?https://help.ubuntu.com/community/HowtoResizeWindowsPartitions')\">Help-"
+"artikel</a> voor meer informatie over de aanbevolen procedures om partities "
+"met Windows te wijzigen."
+
+#: gettingstarted.html:366
+msgid "Repairing Boot Problems"
+msgstr "Bootproblemen Oplossen"
+
+#: gettingstarted.html:368
+msgid ""
+"Linux distributions use a boot loader known as <code>grub</code>, which "
+"looks for and bootstraps the operating system. However, some operating "
+"systems (such as Windows) do not integrate with existing boot loaders and "
+"will overwrite them, with the potential to lose access to Ubuntu Budgie "
+"temporarily."
+msgstr ""
+
+#: gettingstarted.html:374
+msgid ""
+"Fortunately, you can use the <b>Boot Repair</b> tool to repair common "
+"problems caused by other operating systems."
+msgstr ""
+"Gelukkig kunt u de <b>Boot Repair</b>-tool gebruiken om veelvoorkomende "
+"problemen veroorzaakt door andere besturingssystemen te herstellen."
+
+#: gettingstarted.html:379
+msgid "Requires downloading a package."
+msgstr "Vereist het downloaden van een pakket."
+
+#: gettingstarted.html:380
+msgid "Please connect to the Internet to download and use this utility."
+msgstr ""
+"Maak verbinding met internet om dit hulpprogramma te downloaden en te "
+"gebruiken."
+
+#: gettingstarted.html:382
+msgid "Sorry, Welcome was unable to establish a connection."
+msgstr "Excuses, Welkom kon geen verbinding tot stand brengen."
+
+#: gettingstarted.html:390
+msgid "Download Boot Repair"
+msgstr "Download Boot-Repair"
+
+#: gettingstarted.html:392
+msgid "Open Boot-Repair"
+msgstr "Open Boot-Repair"
+
+#: gettingstarted.html:397
+msgid "Install Preparations"
+msgstr "Installatievoorbereidingen"
+
+#: gettingstarted.html:411
+msgid "An Internet connection is required to download and install updates."
+msgstr ""
+"Een internetverbinding is vereist om updates te downloaden en installeren."
+
+#: gettingstarted.html:420
+msgid "Software Updater"
+msgstr "Software Updater"
+
+#: gettingstarted.html:421
+msgid ""
+"Ubuntu Budgie periodically will check to see if new software and security "
+"updates are available for your computer. If you have just installed Ubuntu "
+"Budgie, you might want to do this now."
+msgstr ""
+
+#: gettingstarted.html:427
+msgid ""
+"<b>Software Updater</b> can be found later in the menu <strong>System "
+"Tools</strong>"
+msgstr ""
+
+#: gettingstarted.html:434
+msgid "Check for Updates"
+msgstr "Controleer voor updates"
+
+#: gettingstarted.html:447
+msgid "Restricted Extras"
+msgstr "Restricted Extras"
+
+#: gettingstarted.html:448
+msgid ""
+"<strong>Ubuntu</strong> (the base distribution of Ubuntu Budgie) strives to "
+"make all of the most important software available to its users "
+"automatically. However patent and copyright restrictions (see Ubuntu License"
+" Policy) complicate distribution of software to support non-free formats."
+msgstr ""
+
+#: gettingstarted.html:454
+msgid ""
+"However, you can install the ability to play popular non-free media formats,"
+" including DVD, MP3, Quicktime, and Windows Media formats, by following the "
+"instructions below."
+msgstr ""
+"U kunt echter de mogelijkheid installeren om populaire niet-vrije media-"
+"bestandsformaten, waaronder dvd, mp3, Quicktime en Windows Media, af te "
+"spelen door de onderstaande instructies te volgen."
+
+#: gettingstarted.html:458
+msgid ""
+"Ubuntu’s commitment to only include completely free software by default "
+"means that proprietary media formats are not configured “out of the box”. "
+"See Ubuntu’s Free Software Philosophy and the Free Formats page for a more "
+"comprehensive discussion of these issues."
+msgstr ""
+"Het commitment van Ubuntu om standaard volledig vrije software te gebruiken "
+"betekent dat propriëtaire media-formats niet \"out-of-the-box\" zijn "
+"geconfigureerd. Zie de Free Software Philosophy van Ubuntu en de Free "
+"Formats pagina voor een uitgebreidere bespreking van deze onderwerpen."
+
+#: gettingstarted.html:465
+msgid ""
+"<strong>Legal Notice</strong> Patent and copyright laws operate differently "
+"depending on which country you are in. Please obtain legal advice if you are"
+" unsure whether a particular patent or restriction applies to a media format"
+" you wish to use in your country."
+msgstr ""
+"<strong>Disclaimer</strong> Octrooi- en auteursrechtwetten werken anders "
+"afhankelijk van het land waar u zich bevindt. Vraag juridisch advies als u "
+"niet zeker weet of een bepaald patent of dat er beperkingen van toepassing "
+"zijn op een mediaformaat dat u in uw land wilt gebruiken."
+
+#: gettingstarted.html474, 617, 683, 692, 736, 747, 758, 796, 831, 904, 920,
+#: 935, 949, 964, 980, 995, 1005, 1025, 1045
+msgid "Applying Changes..."
+msgstr "Veranderingen worden toegepast..."
+
+#: gettingstarted.html477, 731, 742, 753, 798, 833, 914, 929, 943, 958, 989
+msgid "Install"
+msgstr "Installeer"
+
+#: gettingstarted.html480, 734, 745, 756, 917, 932, 946, 961, 977, 992, 1002,
+#: 1022, 1042
+msgid "Remove"
+msgstr "Verwijder"
+
+#: gettingstarted.html488, 766, 879
+msgid "Next:"
+msgstr "Volgende:"
+
+#: gettingstarted.html:499
+msgid ""
+"While a wide range of hardware is compatible with Ubuntu Budgie , there are "
+"some components and peripherals that require proprietary drivers to function"
+" properly. Installing the firmware package is often required to get some "
+"devices, typically Bluetooth and Wi-Fi, to work correctly."
+msgstr ""
+
+#: gettingstarted.html:505
+msgid "An Internet connection is required to download and install drivers."
+msgstr ""
+"Een internetverbinding is vereist om drivers te downloaden en installeren."
+
+#: gettingstarted.html:510
+msgid "Additional Drivers"
+msgstr "Additionele drivers"
+
+#: gettingstarted.html:515
+msgid "<b>Additional Drivers</b> can be found later in <b>System Tools</b>"
+msgstr ""
+
+#: gettingstarted.html:523
+msgid "Graphics"
+msgstr "Grafische weergave"
+
+#: gettingstarted.html:529
+msgid ""
+"Sorry, Welcome was unable to automatically identify the graphics vendor on "
+"this system."
+msgstr ""
+"Excuses, Welcome kon de leverancier van de grafische kaart niet automatisch "
+"identificeren."
+
+#: gettingstarted.html532, 540, 548, 554
+msgid "Card/Chipset:"
+msgstr "Kaart/Chipset:"
+
+#: gettingstarted.html532, 540, 548, 554
+msgid "Unknown"
+msgstr "Onbekend"
+
+#: gettingstarted.html:536
+msgid "NVIDIA Graphics Card Detected."
+msgstr "NVIDIA grafische kaart gedetecteerd"
+
+#: gettingstarted.html:537
+msgid ""
+"NVIDIA may have drivers for your card that can boost performance for 3D "
+"applications and games as well as deliver improvements to power management."
+msgstr ""
+"NVIDIA kan stuurprogramma's voor uw kaart hebben die de prestaties voor "
+"3D-toepassingen en games kunnen verbeteren en verbeteringen kunnen "
+"aanbrengen in energiebeheer."
+
+#: gettingstarted.html:544
+msgid "AMD Graphics Card Detected."
+msgstr "AMD grafische kaart gedetecteerd"
+
+#: gettingstarted.html:545
+msgid ""
+"AMD's drivers are no longer supported on Ubuntu. The open source drivers you"
+" are currently using will deliver the most stable performance out of your "
+"card."
+msgstr ""
+"AMD's stuurprogramma's worden niet meer ondersteund op Ubuntu. De "
+"opensource-stuurprogramma's die u momenteel gebruikt, leveren de meest "
+"stabiele prestaties van uw kaart."
+
+#: gettingstarted.html:552
+msgid "You're already good to go."
+msgstr "U bent al gereed om aan de slag te gaan."
+
+#: gettingstarted.html:553
+msgid ""
+"Intel's drivers are open source and are maintained/updated in the kernel."
+msgstr ""
+"Intel-stuurprogramma's zijn open source en worden onderhouden/bijgewerkt in "
+"de kernel."
+
+#: gettingstarted.html:558
+msgid "VirtualBox Guest Additions"
+msgstr "VirtualBox Guest Additions"
+
+#: gettingstarted.html:559
+msgid ""
+"To accelerate graphics performance inside the virtual machine, please "
+"install Guest Additions."
+msgstr ""
+"Download Guest Additions om de grafische prestaties in de virtuele machine "
+"te versnellen."
+
+#: gettingstarted.html:564
+msgid "Proprietary or Open Source Drivers?"
+msgstr "Propriëtaire of open source stuurprogramma's?"
+
+#: gettingstarted.html:565
+msgid ""
+"Proprietary drivers come directly from the manufacturer. As they are not "
+"open source, Ubuntu developers are <b>unable to review and improve driver "
+"code</b> meaning you'll have to rely on the manufacturer for support."
+msgstr ""
+"Propriëtaire stuurprogramma's komen rechtstreeks van de fabrikant. Omdat ze "
+"geen open source zijn, kunnen Ubuntu-ontwikkelaars de stuurprogramma-code "
+"niet controleren en verbeteren, wat betekent dat u voor ondersteuning op de "
+"fabrikant moet vertrouwen."
+
+#: gettingstarted.html:570
+msgid ""
+"In addition, proprietary drivers can <b>significantly improve graphics "
+"performance</b> and as a result, the entire system. Users may wish to "
+"install these drivers to:"
+msgstr ""
+"Bovendien kunnen propriëtaire stuurprogramma's de grafische prestaties en "
+"daarmee het hele systeem aanzienlijk verbeteren. Gebruikers kunnen deze "
+"stuurprogramma's installeren om:"
+
+#: gettingstarted.html:575
+msgid "Run 3D applications and games."
+msgstr "Voer 3D-toepassingen en games uit."
+
+#: gettingstarted.html:576
+msgid ""
+"Improve power management, particularly if the device experiences overheating"
+" problems under open source drivers."
+msgstr ""
+"Verbeter het energiebeheer, vooral als het apparaat problemen ervaart bij "
+"oververhitting onder open source-stuurprogramma's."
+
+#: gettingstarted.html:579
+msgid "Improve support for high resolutions and multiple monitors."
+msgstr ""
+"Verbeter ondersteuning voor hoge schermresoluties en meerdere schermen."
+
+#: gettingstarted.html:580
+msgid "Fix blank screen issues."
+msgstr "Problemen met een blank scherm oplossen."
+
+#: gettingstarted.html:583
+msgid ""
+"Proprietary drivers are known as \"binary blobs\". Certain hardware may "
+"experience adverse behavior, causing more issues than the open source "
+"drivers, such as:"
+msgstr ""
+"Propriëtaire stuurprogramma's zijn bekend als \"binary blobs\". Bepaalde "
+"hardware kan nadelig gedrag vertonen, waardoor er meer problemen optreden "
+"dan de open source stuurprogramma's, zoals:"
+
+#: gettingstarted.html:587
+msgid "Failing to boot to the graphical desktop."
+msgstr "Opstarten van het grafische bureaublad lukt niet."
+
+#: gettingstarted.html:588
+msgid "Broken drivers after an upgrade."
+msgstr "Stuurprogramma's gebroken na een upgrade."
+
+#: gettingstarted.html:589
+msgid "Severe graphical glitches."
+msgstr "Ernstige grafische storingen."
+
+#: gettingstarted.html:590
+msgid "Problems with applications/games requiring hardware acceleration."
+msgstr ""
+"Problemen met applicaties/games waarvoor hardwareversnelling vereist is."
+
+#: gettingstarted.html:594
+msgid ""
+"<code id=\"graphics-open-driver-name\"></code> is the open source driver for"
+" your card."
+msgstr ""
+"<code id=\"graphics-open-driver-name\"></code> is de open-source driver voor"
+" uw grafische kaart. "
+
+#: gettingstarted.html:599
+msgid "What about the latest NVIDIA drivers?"
+msgstr "De nieuwste NVIDIA-stuurprogramma's?"
+
+#: gettingstarted.html:600
+msgid ""
+"<b>Additional Drivers</b> fetches the latest tested driver from the Ubuntu "
+"repositories. Advanced users and gamers who would like newer versions may "
+"wish to consider adding the <a "
+"onclick=\"cmd('link?https://launchpad.net/~graphics-"
+"drivers/+archive/ubuntu/ppa')\">Ubuntu Graphics Driver PPA</a>, which "
+"packages up the latest NVIDIA drivers for Ubuntu. These packages are not as "
+"thoroughly tested."
+msgstr ""
+"<b>Extra stuurprogramma's</b> haalt de nieuwste geteste stuurprogramma's uit"
+" de Ubuntu-repositories. Geavanceerde gebruikers en gamers die graag een "
+"nieuwere versie willen, kunnen overwegen de <a "
+"onclick=\"cmd('link?https://launchpad.net/~graphics-"
+"drivers/+archive/ubuntu/ppa')\">Ubuntu Graphics Driver PPA</a> toe te "
+"voegen, die de nieuwste NVIDIA-stuurprogramma's voor Ubuntu verpakt. Deze "
+"pakketten zijn minder grondig getest."
+
+#: gettingstarted.html:609
+msgid ""
+"This only applies for actively supported cards, and not older cards using "
+"the legacy driver."
+msgstr ""
+"Dit geldt alleen voor actief ondersteunde kaarten en niet voor oudere "
+"kaarten die oude stuurprogramma's gebruiken."
+
+#: gettingstarted.html:613
+msgid "Add Repository"
+msgstr "Repository toevoegen"
+
+#: gettingstarted.html:622
+msgid ""
+"After the PPA is added, newer versions are presented to install in <a "
+"onclick=\"cmd('drivers')\">Additional Drivers:</a>"
+msgstr ""
+"Nadat de PPA is toegevoegd, worden nieuwere versies aangeboden om te "
+"installeren in <a onclick=\"cmd('drivers')\">Extra Stuurprogramma's:</a>"
+
+#: gettingstarted.html:631
+msgid "Wireless, Bluetooth and Other Devices"
+msgstr "Wifi, Bluetooth en andere apparatuur."
+
+#: gettingstarted.html:634
+msgid ""
+"If there were no additional drivers found for the hardware nor did it work "
+"after installing the firmware packages, you may need to research your device"
+" to find the appropriate driver."
+msgstr ""
+"Als er geen extra stuurprogramma's voor de hardware zijn gevonden en dit ook"
+" niet werkt nadat u de firmwarepakketten hebt geïnstalleerd, moet u mogelijk"
+" uw apparaat nader onderzoeken om het juiste stuurprogramma te vinden."
+
+#: gettingstarted.html:638
+msgid ""
+"Unfortunately, this is due to the fact the manufacturer for your hardware "
+"hasn't provided any source code for developers to freely use, or there is "
+"insufficient documentation to create drivers for your particular brand and "
+"model."
+msgstr ""
+"Helaas is dit te wijten aan het feit dat de fabrikant voor uw hardware geen "
+"broncode heeft verstrekt die ontwikkelaars vrijelijk kunnen gebruiken, of "
+"dat er onvoldoende documentatie is om stuurprogramma's voor uw specifieke "
+"merk en model te maken."
+
+#: gettingstarted.html:644
+msgid ""
+"Some manufacturers may provide closed source drivers provided by themselves "
+"directly. If you require assistance, feel free to <a "
+"onclick=\"smoothPageFade('community.html')\">ask the community</a>."
+msgstr ""
+"Sommige fabrikanten kunnen zelf meegeleverde gesloten stuurprogramma's "
+"leveren. Als u hulp nodig heeft, kunt u de <a "
+"onclick=\"smoothPageFade('community.html')\">community vragen</a>."
+
+#: gettingstarted.html:650
+msgid "Read more on troubleshooting wireless hardware."
+msgstr "Lees meer over het oplossen van problemen met draadloze hardware."
+
+#: gettingstarted.html659, 877
+msgid "Language Input"
+msgstr "Taal"
+
+#: gettingstarted.html:669
+msgid "Input method"
+msgstr "Invoerbron"
+
+#: gettingstarted.html:670
+msgid ""
+"In Ubuntu Budgie, we provide an option to switch between two widely used "
+"keyboard entry layouts. IBus(Intelligent Input Bus) and Fcitx(Free Chinese "
+"Input Toy for X)."
+msgstr ""
+
+#: gettingstarted.html:677
+msgid "Install & Configure IBus"
+msgstr "Installeer & Configureer IBus"
+
+#: gettingstarted.html:680
+msgid "IBus is active now"
+msgstr "IBus is actief"
+
+#: gettingstarted.html:687
+msgid "Install & Configure Fcitx"
+msgstr "Installeer & Configureer Fctix"
+
+#: gettingstarted.html:689
+msgid "Fcitx is active now"
+msgstr "Fcitx is actief"
+
+#: gettingstarted.html698, 705
+msgid "Language Support"
+msgstr "Taalondersteuning"
+
+#: gettingstarted.html:699
+msgid ""
+"Your computer may require updates to your language and localization "
+"settings, or you may want to install additional language support."
+msgstr ""
+"Mogelijk heeft uw computer updates nodig voor uw taal- en lokalisatie-"
+"instellingen of wilt u mogelijk extra taalondersteuning installeren."
+
+#: gettingstarted.html:711
+msgid ""
+"<b>Language Support</b> can be found later in the menu <b>System Tools</b>"
+msgstr ""
+
+#: gettingstarted.html:722
+msgid "Complex Input"
+msgstr "Complexe Invoer"
+
+#: gettingstarted.html:723
+msgid "Some regions of the world require complex inputs."
+msgstr "Sommige regio's van de wereld hebben complexe invoer nodig."
+
+#: gettingstarted.html:728
+msgid "Chinese"
+msgstr "Chinees"
+
+#: gettingstarted.html:739
+msgid "Japanese"
+msgstr "Japans"
+
+#: gettingstarted.html:750
+msgid "Korean"
+msgstr "Koreaans"
+
+#: gettingstarted.html:774
+msgid "Backup, Firewall and User Management"
+msgstr "Backup, Firewall en Gebruikersbeheer"
+
+#: gettingstarted.html:775
+msgid ""
+"Ubuntu Budgie provides option to install a backup utility or firewall and "
+"supports multiple user accounts."
+msgstr ""
+
+#: gettingstarted.html:786
+msgid "Backups"
+msgstr "Backups"
+
+#: gettingstarted.html:787
+msgid ""
+"Nothing is more important than having a backup of your personal files, just "
+"in case something disastrous happens to your computer."
+msgstr ""
+"Niets is belangrijker dan een backup hebben van uw persoonlijke bestanden, "
+"in het geval dat er iets gebeurt met uw computer."
+
+#: gettingstarted.html:791
+msgid ""
+"<b>Deja-Dup</b> is a powerful backup utility that can be installed in Ubuntu"
+" Budgie and supports backups to local devices as well as online cloud-based "
+"services."
+msgstr ""
+
+#: gettingstarted.html:802
+msgid "Configure Backup"
+msgstr "Configureer Back-up"
+
+#: gettingstarted.html:805
+msgid ""
+"<b>Backups</b> can be found later in the menu <b>Utilities <i "
+"class=\"material-icons\">&#xE315;</i> Backups</b>."
+msgstr ""
+
+#: gettingstarted.html:819
+msgid "Firewall"
+msgstr "Firewall"
+
+#: gettingstarted.html:820
+msgid ""
+"Firewalls prevent malicious connections entering and leaving your computer. "
+"By default, the firewall is disabled, <a "
+"onclick=\"cmd('link?https://help.ubuntu.com/community/DoINeedAFirewall')\">learn"
+" more about firewalls</a>."
+msgstr ""
+"Firewalls voorkomen dat kwaadwillende uw computer binnenkomen en verlaten. "
+"Standaard is de firewall uitgeschakeld. <a "
+"onclick=\"cmd('link?https://help.ubuntu.com/community/DoINeedAFirewall')\">Meer"
+" informatie over firewalls</a>."
+
+#: gettingstarted.html:826
+msgid ""
+"<b>Gufw</b> provides a graphical frontend to <code>ufw</code> (Uncomplicated"
+" Firewall). If security is important to you, there are <a "
+"onclick=\"cmd('link?https://wiki.ubuntu.com/BasicSecurity')\">more ways to "
+"stay secure too</a>."
+msgstr ""
+"<b>Gufw</b> biedt een grafische frontend voor <code>ufw</code> "
+"(Uncomplicated Firewall). Als beveiliging belangrijk voor u is, zijn er <a "
+"onclick=\"cmd('link?https://wiki.ubuntu.com/BasicSecurity')\">meer manieren "
+"om u te beschermen</a>."
+
+#: gettingstarted.html:837
+msgid "Configure Firewall"
+msgstr "Configureer Firewall"
+
+#: gettingstarted.html:840
+msgid ""
+"Firewall Configuration</b> can be found later in the menu <b>System Tools<i "
+"class=\"material-icons\">&#xE315;</i> Firewall Configuration</i></b>."
+msgstr ""
+
+#: gettingstarted.html:854
+msgid "Users"
+msgstr "Gebruikers"
+
+#: gettingstarted.html:856
+msgid ""
+"Share your computer with others? Set up a separate user account for each "
+"user to protect the individual privacy of each user sharing the same "
+"computer."
+msgstr ""
+"Deel uw computer met anderen? Stel een afzonderlijke gebruikersaccount in "
+"voor elke gebruiker om de privacy te beschermen van elke gebruiker die "
+"dezelfde computer deelt."
+
+#: gettingstarted.html:859
+msgid ""
+"You can also log in to a <b>Guest Session</b> if someone is using your "
+"computer as a one-off."
+msgstr ""
+"Aanmelden kan ook via een gastsessie als iemand de computer eenmalig "
+"gebruikt."
+
+#: gettingstarted.html:864
+msgid "Configure Users"
+msgstr "Configureer gebruikers"
+
+#: gettingstarted.html:867
+msgid ""
+"<b>Users</b> can be found later in the menu by typing<i> Users</i></b>."
+msgstr ""
+
+#: gettingstarted.html:885
+msgid ""
+"To improve the amount of customizability, Ubuntu Budgie allows you to "
+"install/remove popular web browsers with a single click."
+msgstr ""
+
+#: gettingstarted.html:890
+msgid "Firefox"
+msgstr "Firefox"
+
+#: gettingstarted.html:892
+msgid ""
+"Mozilla Firefox is a free and open-source web browser, developed by the "
+"Mozilla Foundation - a not for profit organization. It is highly popular "
+"targeting multiple platforms."
+msgstr ""
+
+#: gettingstarted.html898, 974, 999, 1019, 1039
+msgid "Snap Install"
+msgstr ""
+
+#: gettingstarted.html:901
+msgid "Snap Remove"
+msgstr ""
+
+#: gettingstarted.html:909
+msgid "Firefox ESR"
+msgstr ""
+
+#: gettingstarted.html:911
+msgid ""
+"Mozilla Firefox is a free and open-source web browser, developed by the "
+"Mozilla Foundation - a not for profit organization. This is the Extended "
+"Support Release browser for comprehensive data security and data protection."
+msgstr ""
+
+#: gettingstarted.html:926
+msgid ""
+"Google Chrome is a modern web browser backed by internet giant Google. It "
+"offers a smooth browsing experience plus integration with Google's "
+"proprietary services."
+msgstr ""
+"Google Chrome is een moderne webbrowser ondersteund door internetgigant "
+"Google. Het biedt een soepele browser ervaring plus integratie met de "
+"commerciële diensten van Google."
+
+#: gettingstarted.html:941
+msgid ""
+"Microsoft Edge is a cross-platform web browser created and developed by "
+"Microsoft. It is a Chromium based browser."
+msgstr ""
+
+#: gettingstarted.html:955
+msgid ""
+"Vivaldi Web Browser is a free, fully customizable web browser. Feature rich,"
+" powerful, secure and fun! Browse the Web your way"
+msgstr ""
+"Vivaldi Web Browser is een gratis, volledig aanpasbare webbrowser. Rijk aan "
+"opties, krachtig, veilig en leuk! Blader door het web op uw manier"
+
+#: gettingstarted.html:971
+msgid ""
+"Opera is a fast and secure browser. Developed in Europe, used by millions "
+"around the world. Now with a built-in ad blocker and free VPN."
+msgstr ""
+"Opera is een snelle en veilige browser. Ontwikkeld in Europa en gebruikt "
+"door miljoenen mensen over de hele wereld. Nu met een ingebouwde adblocker "
+"en gratis VPN."
+
+#: gettingstarted.html:987
+msgid "A browser that blocks tracking and intrusive ads by default."
+msgstr ""
+
+#: gettingstarted.html:1012
+msgid ""
+"Midori is a lightweight yet powerful web browser which runs just as well on "
+"little embedded computers named for delicious pastries as it does on beefy "
+"machines with a core temperature exceeding that of planet earth. And it "
+"looks good doing that, too. Oh, and of course it's free software."
+msgstr ""
+
+#: gettingstarted.html:1032
+msgid ""
+"The web browser for GNOME, featuring tight integration with the desktop and "
+"a simple and intuitive user interface that allows you to focus on your web "
+"pages. If you’re looking for a simple, clean, beautiful view of the web, "
+"this is the browser for you. GNOME Web is often referred to by its code "
+"name, Epiphany."
+msgstr ""
+
+#: gettingstarted.html:1054
+msgid "User Interface"
+msgstr "Gebruikers interface"
+
+#: gettingstarted.html:1055
+msgid ""
+"Ubuntu Budgie provides a unique tool to transform the user interface. It can"
+" be used to quickly setup the user interface to broadly reflect how other "
+"popular operating systems look and feel."
+msgstr ""
+
+#: gettingstarted.html:1062
+msgid "Budgie Desktop Settings"
+msgstr "Budgie Desktop Instellingen"
+
+#: gettingstarted.html:1065
+msgid ""
+"<b>Budgie Desktop Settings</b> can be found later in the menu <b>System "
+"Tools</b>."
+msgstr ""
+"<b>Budgie Desktop-instellingen</b> zijn later te vinden in het menu "
+"<b>Systeem werkset</b>."
+
+#: gettingstarted.html1073, 1078
+msgid "Budgie Control Center"
+msgstr ""
+
+#: gettingstarted.html:1074
+msgid ""
+"You can configure just about every aspect of your computer from Budgie "
+"Control Center."
+msgstr ""
+
+#: gettingstarted.html:1083
+msgid ""
+"<b>Budgie Control Center</b> can be found later in the menu <b>System "
+"Tools</b>."
+msgstr ""
+
+#: gettingstarted.html:1108
+msgid ""
+"Ubuntu Budgie has many keyboard shortcuts that help make using your computer"
+" more efficient."
+msgstr ""
+
+#: gettingstarted.html:1112
+msgid ""
+"The <b><img src=\"img/welcome/super-key.svg\" /> Super</b> key is your "
+"Windows key. For Mac keyboards, this is the ⌘ Command key."
+msgstr ""
+
+#: gettingstarted.html:1115
+msgid "Budgie Desktop shortcuts"
+msgstr "Budgie Desktop snelkoppelingen"
+
+#: gettingstarted.html:1116
+msgid "Some common shortcuts used in Budgie Desktop"
+msgstr "Enkele veelgebruikte snelkoppelingen in Budgie Desktop"
+
+#: gettingstarted.html:1126
+msgid "Open notifications in Raven"
+msgstr "Open notificaties in Raven"
+
+#: gettingstarted.html:1135
+msgid "Open applet Settings in Raven"
+msgstr "Open applet instellingen in Raven"
+
+#: gettingstarted.html:1140
+msgid "Common application shortcuts"
+msgstr "Veelgebruikte applicatiesnelkoppelingen"
+
+#: gettingstarted.html:1141
+msgid "These shortcuts apply in most applications."
+msgstr "Deze snelkoppelingen gelden voor de meeste applicaties. "
+
+#: gettingstarted.html:1150
+msgid "Toggle Tilix Quake Mode"
+msgstr "Toggle Tilix Quake Mode"
+
+#: gettingstarted.html1154, 1162, 1170, 1178, 1186, 1194, 1202, 1210, 1218,
+#: 1226, 1234, 1242, 1250, 1258, 1266, 1298, 1314, 1344, 1363, 1377, 1408,
+#: 1418, 1428, 1440, 1623, 1633, 1643, 1653, 1663, 1673, 1683, 1693, 1703
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: gettingstarted.html:1158
+msgid "Copy the selected text/object"
+msgstr "Kopieer de geselecteerde tekst/object"
+
+#: gettingstarted.html:1166
+msgid "Cut the selected text/object"
+msgstr "Knip de geselecteerde tekst/object"
+
+#: gettingstarted.html:1174
+msgid "Paste/insert the selected text/object"
+msgstr "Plak de geselecteerde tekst/object"
+
+#: gettingstarted.html:1182
+msgid "Select all text"
+msgstr "Selecteer alle tekst"
+
+#: gettingstarted.html:1190
+msgid "Find words"
+msgstr "Zoek woorden"
+
+#: gettingstarted.html:1198
+msgid "Find and replace words"
+msgstr "Zoek en vervang woorden"
+
+#: gettingstarted.html:1206
+msgid "Make the selected text bold"
+msgstr "Maak de geselecteerde tekst vetgedrukt"
+
+#: gettingstarted.html:1214
+msgid "Make the selected text italic"
+msgstr "Maak de geselecteerde tekst cursief"
+
+#: gettingstarted.html:1222
+msgid "Underline the selected text"
+msgstr "Onderstreep de geselecteerde tekst"
+
+#: gettingstarted.html:1230
+msgid "Open a new document or window"
+msgstr "Open een nieuw document of venster"
+
+#: gettingstarted.html:1238
+msgid "Save the current document"
+msgstr "Sla het huidige document op"
+
+#: gettingstarted.html:1246
+msgid "Open another document"
+msgstr "Open een ander document"
+
+#: gettingstarted.html:1254
+msgid "Print the current document"
+msgstr "Print het huidig document"
+
+#: gettingstarted.html:1262
+msgid "Undo the last change you made"
+msgstr "Maak de laatste wijziging ongedaan"
+
+#: gettingstarted.html1268, 1296, 1306, 1432, 1443, 1459, 1470, 1481, 1492
+msgid "Shift"
+msgstr "Shift"
+
+#: gettingstarted.html:1272
+msgid "Redo a change that you just undid"
+msgstr "Voer een wijziging opnieuw uit die u ongedaan hebt gemaakt"
+
+#: gettingstarted.html:1278
+msgid "Toggle the current application between full-screen and windowed"
+msgstr "Schakel de huidige applicatie tussen volledig scherm en venster"
+
+#: gettingstarted.html:1282
+msgid "Desktop shortcuts"
+msgstr "Bureaublad snelkoppelingen"
+
+#: gettingstarted.html:1283
+msgid ""
+"This section lists common keyboard shortcuts which you can use to operate "
+"parts of the desktop."
+msgstr ""
+"Dit gedeelte bevat een lijst met veelgebruikte sneltoetsen die u kunt "
+"gebruiken om delen van het bureaublad te bedienen."
+
+#: gettingstarted.html:1292
+msgid "Open Applications menu"
+msgstr "Open Applicatie menu"
+
+#: gettingstarted.html:1302
+msgid "Copy a screenshot of an area to clipboard"
+msgstr ""
+
+#: gettingstarted.html:1310
+msgid "Save a screenshot of an area to the Pictures directory"
+msgstr ""
+
+#: gettingstarted.html:1318
+msgid "Copy a screenshot of a window to clipboard"
+msgstr ""
+
+#: gettingstarted.html1322, 1336, 1346, 1365, 1379, 1393, 1410, 1420, 1430,
+#: 1442, 1451, 1503, 1511, 1519, 1554, 1625, 1635, 1645, 1655, 1665, 1675,
+#: 1685, 1695, 1705
+msgid "Alt"
+msgstr "Alt"
+
+#: gettingstarted.html:1326
+msgid "Save a screenshot of a window to the Pictures directory"
+msgstr ""
+
+#: gettingstarted.html:1332
+msgid "Save a screenshot to the Pictures directory"
+msgstr ""
+
+#: gettingstarted.html:1340
+msgid "Run an application by typing its name in the box which appears"
+msgstr ""
+"Voer een toepassing uit door de naam ervan in te voeren in het vak dat wordt"
+" weergegeven"
+
+#: gettingstarted.html:1348
+msgid "Delete"
+msgstr "Delete"
+
+#: gettingstarted.html:1350
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: gettingstarted.html:1359
+msgid "Lock your screen."
+msgstr "Vergrendel scherm."
+
+#: gettingstarted.html:1369
+msgid "Open a terminal."
+msgstr "Open een terminal."
+
+#: gettingstarted.html:1373
+msgid "Window shortcuts - general"
+msgstr ""
+
+#: gettingstarted.html:1383
+msgid "Call Window Shuffler gui (window tiling grid)."
+msgstr ""
+
+#: gettingstarted.html:1387
+msgid "Video Demonstration"
+msgstr ""
+
+#: gettingstarted.html:1395
+msgid "Tab"
+msgstr "Tab"
+
+#: gettingstarted.html:1398
+msgid "Switch between currently-open windows."
+msgstr "Schakel tussen geopende vensters."
+
+#: gettingstarted.html:1400
+msgid "Press Alt + Tab and then release Tab (but continue to hold Alt)."
+msgstr "Druk op Alt + Tab en laat Tab los (maar blijf Alt ingedrukt houden)."
+
+#: gettingstarted.html:1401
+msgid ""
+"Press Tab repeatedly to cycle through the list of available windows which "
+"appears on the screen."
+msgstr ""
+"Druk herhaaldelijk op Tab om door de lijst met beschikbare vensters te "
+"bladeren die op het scherm verschijnen."
+
+#: gettingstarted.html1412, 1434, 1566
+msgid "Left"
+msgstr "Links"
+
+#: gettingstarted.html:1414
+msgid "Switch to the previous workspace."
+msgstr "Schakel over naar de vorige werkruimte."
+
+#: gettingstarted.html1422, 1445, 1575
+msgid "Right"
+msgstr "Rechts"
+
+#: gettingstarted.html:1424
+msgid "Switch to the next workspace."
+msgstr "Schakel over naar de volgende werkruimte."
+
+#: gettingstarted.html:1436
+msgid "Move the current window to the previous workspace."
+msgstr "Verplaats het huidige venster naar de vorige werkruimte."
+
+#: gettingstarted.html:1447
+msgid "Move the current window to the next workspace."
+msgstr "Verplaats het huidige venster naar de volgende werkruimte."
+
+#: gettingstarted.html:1455
+msgid "Move the current window to the monitor above."
+msgstr ""
+
+#: gettingstarted.html:1466
+msgid "Move the current window to the monitor below."
+msgstr ""
+
+#: gettingstarted.html:1477
+msgid "Move the current window to the monitor to the left."
+msgstr ""
+
+#: gettingstarted.html:1488
+msgid "Move the current window to the monitor to the right."
+msgstr ""
+
+#: gettingstarted.html:1499
+msgid "Closes window."
+msgstr "Sluit venster"
+
+#: gettingstarted.html:1507
+msgid "Returns window to 'normal' or previous size."
+msgstr "Herstel het venster naar 'normale' of vorige grootte."
+
+#: gettingstarted.html:1515
+msgid "Moves the current window (can be moved with mouse or keyboard)."
+msgstr ""
+"Verplaatst het huidige venster (kan worden verplaatst met muis of "
+"toetsenbord)."
+
+#: gettingstarted.html:1523
+msgid "Resizes current window (again, can be moved with mouse or keyboard)."
+msgstr ""
+"Verander formaat van huidig ​​venster (kan worden verplaatst met muis of "
+"toetsenbord)."
+
+#: gettingstarted.html:1532
+msgid "Minimizes current window."
+msgstr "Minimaliseert het huidige venster."
+
+#: gettingstarted.html:1539
+msgid "Up"
+msgstr "Omhoog"
+
+#: gettingstarted.html:1541
+msgid "Maximizes current window."
+msgstr "Maximaliseert het huidige venster."
+
+#: gettingstarted.html:1548
+msgid "Down"
+msgstr ""
+
+#: gettingstarted.html:1550
+msgid "Unmaximizes current window."
+msgstr ""
+
+#: gettingstarted.html:1556
+msgid "Space"
+msgstr "Spatie"
+
+#: gettingstarted.html:1558
+msgid ""
+"Displays the window menu with options such as 'Always on Top' and 'Minimize'"
+" and 'Maximize' and above commands."
+msgstr ""
+"Toont het venstermenu met opties zoals 'Altijd op voorgrond' en "
+"'Minimaliseren' en 'Maximaliseren' inclusief bovenstaande opdrachten."
+
+#: gettingstarted.html:1568
+msgid "Place window on left side of screen."
+msgstr "Plaats het venster aan de linkerkant van het scherm."
+
+#: gettingstarted.html:1577
+msgid "Place window on right side of screen."
+msgstr "Plaats het venster aan de rechterkant van het scherm."
+
+#: gettingstarted.html1584, 1657
+msgid "1"
+msgstr ""
+
+#: gettingstarted.html:1586
+msgid "Quarter tiling: top left."
+msgstr ""
+
+#: gettingstarted.html1593, 1687
+msgid "2"
+msgstr ""
+
+#: gettingstarted.html:1595
+msgid "Quarter tiling: top right."
+msgstr ""
+
+#: gettingstarted.html1602, 1647
+msgid "3"
+msgstr ""
+
+#: gettingstarted.html:1604
+msgid "Quarter tiling: bottom left."
+msgstr ""
+
+#: gettingstarted.html1611, 1697
+msgid "4"
+msgstr ""
+
+#: gettingstarted.html:1613
+msgid "Quarter tiling: bottom right."
+msgstr ""
+
+#: gettingstarted.html:1618
+msgid "Window shortcuts - numeric keypad"
+msgstr ""
+
+#: gettingstarted.html:1619
+msgid "Tiling shortcuts on the numeric keypad."
+msgstr ""
+
+#: gettingstarted.html:1627
+msgid "7"
+msgstr ""
+
+#: gettingstarted.html:1629
+msgid "Quarter top left."
+msgstr ""
+
+#: gettingstarted.html:1637
+msgid "9"
+msgstr ""
+
+#: gettingstarted.html:1639
+msgid "Quarter top right."
+msgstr ""
+
+#: gettingstarted.html:1649
+msgid "Quarter bottom right."
+msgstr ""
+
+#: gettingstarted.html:1659
+msgid "Quarter bottom left."
+msgstr ""
+
+#: gettingstarted.html:1667
+msgid "8"
+msgstr ""
+
+#: gettingstarted.html:1669
+msgid "Half top."
+msgstr ""
+
+#: gettingstarted.html:1677
+msgid "6"
+msgstr ""
+
+#: gettingstarted.html:1679
+msgid "Half right."
+msgstr ""
+
+#: gettingstarted.html:1689
+msgid "Half bottom."
+msgstr ""
+
+#: gettingstarted.html:1699
+msgid "Half left."
+msgstr ""
+
+#: gettingstarted.html:1707
+msgid "5"
+msgstr ""
+
+#: gettingstarted.html:1709
+msgid "Toggle maximize."
+msgstr ""
+
+#: gettingstarted.html:1718
+msgid "Update shortcuts in the Settings App"
+msgstr ""
+
+#: gettingstarted.html:1740
+msgid ""
+"Your machine is made up of various components that interact with one "
+"another. This information is useful when providing support to ensure "
+"hardware and software works on your machine."
+msgstr ""
+"Uw machine bestaat uit verschillende componenten die op elkaar inwerken. "
+"Deze informatie is van belang als u ondersteuning nodig heeft om ervoor te "
+"zorgen dat de hardware en software op uw machine werken."
+
+#: gettingstarted.html:1748
+msgid "Gathering Information.."
+msgstr "Informatie verzamelen.."
+
+#: gettingstarted.html:1757
+msgid "System"
+msgstr "Systeem"
+
+#: gettingstarted.html:1760
+msgid "Distribution:"
+msgstr "Distributie:"
+
+#: gettingstarted.html:1764
+msgid "Kernel:"
+msgstr "Kernel:"
+
+#: gettingstarted.html:1768
+msgid "The Linux kernel is the heart of Ubuntu."
+msgstr "De Linux-kernel is het hart van Ubuntu."
+
+#: gettingstarted.html:1774
+msgid "Motherboard:"
+msgstr "Moederbord:"
+
+#: gettingstarted.html:1778
+msgid "Boot Mode:"
+msgstr "Opstart modus:"
+
+#: gettingstarted.html:1782
+msgid "Displays the mode that OS is communicating with the firmware."
+msgstr "Geeft de modus weer waarop de OS communiceert met de firmware."
+
+#: gettingstarted.html:1790
+msgid "Processor"
+msgstr "Processor"
+
+#: gettingstarted.html:1793
+msgid "Model:"
+msgstr "Model:"
+
+#: gettingstarted.html:1797
+msgid "Speed:"
+msgstr "Snelheid:"
+
+#: gettingstarted.html:1801
+msgid "Architecture in use:"
+msgstr "Architectuur in gebruik:"
+
+#: gettingstarted.html:1805
+msgid ""
+"The operating system's architecture in use. For instance, i386 = 32-bit."
+msgstr ""
+"De architectuur van het gebruikte besturingssysteem. Bijvoorbeeld, i386 = "
+"32-bits."
+
+#: gettingstarted.html:1813
+msgid "Components"
+msgstr "Componenten"
+
+#: gettingstarted.html:1816
+msgid "Memory (RAM):"
+msgstr "Geheugen (RAM):"
+
+#: gettingstarted.html:1820
+msgid "More RAM allows more applications to run simultaneously."
+msgstr ""
+"Meer RAM maakt het mogelijk dat meerdere applicaties gelijktijdig kunnen "
+"worden uitgevoerd."
+
+#: gettingstarted.html:1826
+msgid "Graphics:"
+msgstr "Grafische weergave:"
+
+#: gettingstarted.html:1830
+msgid "Internet Access:"
+msgstr "Internet toegang:"
+
+#: gettingstarted.html:1833
+msgid "Connected"
+msgstr "Verbonden"
+
+#: gettingstarted.html:1834
+msgid "Not Connected"
+msgstr "Niet verbonden"
+
+#: gettingstarted.html:1842
+msgid "Storage"
+msgstr "Opslag"
+
+#: gettingstarted.html:1846
+msgid "Root File System:"
+msgstr "Root File System:"
+
+#: gettingstarted.html:1850
+msgid "The file system where OS is installed."
+msgstr "Het bestandssysteem waarop OS is geïnstalleerd."
+
+#: gettingstarted.html:1856
+msgid "Entire Disk Capacity:"
+msgstr "Volledige schijfcapaciteit:"
+
+#: gettingstarted.html:1862
+msgid "OS Usage"
+msgstr "OS-gebruik"
+
+#: gettingstarted.html:1867
+msgid "Other Usage"
+msgstr "Ander gebruik"
+
+#: gettingstarted.html:1872
+msgid "Allocated for Ubuntu Budgie:"
+msgstr ""
+
+#: gettingstarted.html:1876
+msgid "The size of your operating system partition."
+msgstr "De grootte van uw besturingssysteem partitie."
+
+#: gettingstarted.html:1883
+msgid "Used Space:"
+msgstr "Gebruikte schijfruimte:"
+
+#: gettingstarted.html:1891
+msgid "Free Space:"
+msgstr "Beschikbare schijfruimte:"
+
+#: gettingstarted.html:1899
+msgid "Other Usage:"
+msgstr "Ander gebruik:"
+
+#: gettingstarted.html:1904
+msgid "Reserved by system, other partitions, unallocated or swap."
+msgstr ""
+"Gereserveerd voor het systeem, andere partities, niet toegewezen of de swap."

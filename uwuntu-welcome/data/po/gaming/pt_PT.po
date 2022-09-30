@@ -1,0 +1,237 @@
+# 
+# Translators:
+# Hugo Carvalho <hugokarvalho@hotmail.com>, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2021-10-08 20:03+0000\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>, 2022\n"
+"Language-Team: Portuguese (Portugal) (https://www.transifex.com/ubuntu-budgie/teams/72251/pt_PT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: gaming.html:15
+msgid "Gaming"
+msgstr "Jogos"
+
+#: gaming.html19, 34
+msgid "Gaming Clients"
+msgstr "Clientes de jogos"
+
+#: gaming.html23, 177
+msgid "Gaming Tools"
+msgstr "Ferramentas de jogos"
+
+#: gaming.html26, 439
+msgid "Games List"
+msgstr "Lista de Jogos"
+
+#: gaming.html:35
+msgid "A gaming client will help you download, install and manage your games."
+msgstr ""
+"Um cliente de jogos irá ajudá-lo a descarregar, instalar e gerir os seus "
+"jogos."
+
+#: gaming.html:46
+msgid ""
+"Lutris is a gaming client for Linux. It gives you access to (almost) all "
+"your video games."
+msgstr ""
+"O Lutris é um cliente de jogos para Linux. Dá-lhe acesso a (quase) todos os "
+"seus jogos de vídeo."
+
+#: gaming.html53, 85, 117, 153, 195, 248, 280, 314, 345, 384, 416, 463
+msgid "Remove"
+msgstr "Remover"
+
+#: gaming.html57, 89, 121, 157, 199, 252, 284, 318, 349, 388, 420, 467
+msgid "Install"
+msgstr "Instalar"
+
+#: gaming.html61, 93, 125, 161, 203, 256, 288, 322, 353, 392, 424, 471
+msgid "Applying Changes..."
+msgstr "A aplicar as alterações..."
+
+#: gaming.html:64
+msgid "Click on the help icon to learn how to install your games."
+msgstr "Clique no ícone de ajuda para saber como instalar os seus jogos."
+
+#: gaming.html:78
+msgid ""
+"Steam is the ultimate destination for playing, discussing, and creating "
+"games."
+msgstr "O Steam é o destino final para jogar, discutir, e criar jogos."
+
+#: gaming.html96, 164
+msgid "Please reboot to complete installation."
+msgstr "Reinicie para concluir a instalação."
+
+#: gaming.html:110
+msgid "RetroArch is a frontend for emulators, game engines and media players."
+msgstr ""
+"O RetroArch é uma interface gráfica para emuladores, motores de jogo e "
+"reprodutores multimédia."
+
+#: gaming.html:128
+msgid ""
+"Just play. If you need help, please reach out to the <a "
+"onclick=\"cmd('link?https://www.retroarch.com/?page=faq')\"> FAQ page. </a>"
+msgstr ""
+"Apenas jogue. Se precisar de ajuda. consulte a página das <a "
+"onclick=\"cmd('link?https://www.retroarch.com/?page=faq')\"> FAQ. </a>"
+
+#: gaming.html:144
+msgid ""
+"Minigalaxy is a GOG client for Linux. It can install, manage, and update "
+"native and windows games, including their <i title=\"DLC: Downloadable "
+"Content\">DLCs</i>."
+msgstr ""
+"O Minigalaxy é um cliente GOG para Linux. Pode instalar, gerir, e atualizar "
+"jogos nativos do Windows, incluindo os seus <i title=\"DLC: Downloadable "
+"Content\">DLCs</i>."
+
+#: gaming.html:178
+msgid "Tools to have a more comfortable and feature-rich gaming experience."
+msgstr ""
+"Ferramentas para ter uma experiência de jogo mais confortável e repleta de "
+"funcionalidades."
+
+#: gaming.html:189
+msgid "Piper is a GTK+ application to configure gaming mice using ratbagd."
+msgstr ""
+"O Piper é uma aplicação GTK+ para configurar ratos de jogo usando ratbagd."
+
+#: gaming.html:206
+msgid "Check project by clicking the help button."
+msgstr "Verifique o projeto ao clicar no botão de ajuda."
+
+#: gaming.html:213
+msgid "CPU Frequency Applet"
+msgstr "Mini-aplicação de frequência da CPU"
+
+#: gaming.html:220
+msgid "Control the frequency of the processor (Sandy Bridge and newer)."
+msgstr "Controla a frequência do processador (Sandy Bridge e mais recente)."
+
+#: gaming.html:226
+msgid "Install from Budgie Extras"
+msgstr "Instalação a partir dos Extras do Budgie"
+
+#: gaming.html:242
+msgid ""
+"Generic RGB management tool for linux. Fully open source and aims to remove "
+"hardware specific vendor apps."
+msgstr ""
+"Ferramenta de gestão genérica de RGB para Linux. Totalmente de código aberto"
+" com o objetivo de remover aplicações específicas do fornecedor de "
+"equipamento."
+
+#: gaming.html259, 325, 356, 427
+msgid "Check website by clicking the help button."
+msgstr "Verifique o website ao clicar no botão de ajuda."
+
+#: gaming.html:272
+msgid ""
+"Polychromatic is a frontend for OpenRazer that enables Razer devices to "
+"control lighting effects and more on Linux."
+msgstr ""
+"O Polychromatic é uma interface para OpenRazer que permite aos dispositivos "
+"Razer controlar os efeitos de iluminação e muito mais no Linux."
+
+#: gaming.html:291
+msgid "Please reboot after install as well as removal."
+msgstr "Reiniciar após a instalação, bem como a remoção."
+
+#: gaming.html:306
+msgid ""
+"Discord is a <i title=\"VoIP: Voice Over Internet Protocol\">VoIP</i>, "
+"instant messaging and digital distribution platform."
+msgstr ""
+"O Discord é uma <i title=\"VoIP: Voice Over Internet Protocol\">VoIP</i>, "
+"plataforma de mensagens instantâneas e distribuição digital."
+
+#: gaming.html:338
+msgid "Free and open source software for video recording and live streaming."
+msgstr ""
+"Software gratuito e de código aberto para gravação de vídeo e transmissão em"
+" direto."
+
+#: gaming.html:374
+msgid ""
+"A Vulkan and OpenGL overlay for monitoring <i title=\"FPS: Frames Per "
+"Second\">FPS</i>, temperatures, CPU/GPU load and more. Comes with GOverlay "
+"as <i title=\"GUI: Graphical User Interface (things you can interact with a "
+"mouse)\">GUI</i>."
+msgstr ""
+"Uma sobreposição vulkan e OpenGL para monitorização <i title=\"FPS: Frames "
+"Per Second\">de FPS</i>, temperaturas, carga GPU/CPU e muito mais. Vem com "
+"GOverlay como <i title=\"GUI: Graphical User Interface (things you can "
+"interact with a mouse)\">GUI</i>."
+
+#: gaming.html:395
+msgid ""
+"Please check help section for usage information. Example config at: "
+"/usr/share/doc/mangohud."
+msgstr ""
+"Verifique a secção de ajuda para obter informação sobre o uso. Exemplo de "
+"configuração em: /usr/share/doc/mangohud."
+
+#: gaming.html:408
+msgid ""
+"CoreCTRL allows you to control hardware performance using application "
+"profiles."
+msgstr ""
+
+#: gaming.html:440
+msgid "A community curated list of game suggestions"
+msgstr "Uma lista de sugestões de jogos categorizados pela comunidade"
+
+#: gaming.html:450
+msgid ""
+"Xonotic - Free & Open Source Multiplayer <i title=\"FPS: First Person "
+"Shooter\">FPS</i>."
+msgstr ""
+"Xonotic - Free & Open Source Multiplayer <i title=\"FPS: First Person "
+"Shooter\">FPS</i>."
+
+#: gaming.html459, 494, 528, 559, 594, 627
+msgid "Watch"
+msgstr "Veja"
+
+#: gaming.html:474
+msgid "Visit website by clicking the help icon."
+msgstr "Visite o website ao clicar no botão de ajuda."
+
+#: gaming.html:486
+msgid "Valheim - Survival <i title=\"RPG: Role Playing Game\">RPG</i>."
+msgstr "Valheim - Survival <i title=\"RPG: Role Playing Game\">RPG</i>."
+
+#: gaming.html498, 532, 563, 599, 631
+msgid "Install Steam"
+msgstr "Instalar o Steam"
+
+#: gaming.html504, 538, 569, 605, 637
+msgid "Launch"
+msgstr "Lançar"
+
+#: gaming.html:520
+msgid "Loop Hero - 8 bit retro-styled Deck building game."
+msgstr "Loop Hero - 8 bit retro-styled Deck building game."
+
+#: gaming.html:551
+msgid "No Longer Home - Point & Click, semi-auto-biographical."
+msgstr "No Longer Home - Point & Click, semi-auto-biographical."
+
+#: gaming.html:586
+msgid "Boyfriend Dungeon - Dating SIM, Hack & Slash."
+msgstr "Boyfriend Dungeon - Dating SIM, Hack & Slash."
+
+#: gaming.html:619
+msgid "Binding of Isaac - Top Down Dungeon Crawler, high difficulty."
+msgstr "Binding of Isaac - Top Down Dungeon Crawler, high difficulty."

@@ -1,0 +1,111 @@
+# 
+# Translators:
+# 253a1e0a7f8c1d7b08db02a8901848d4_8f72d51, 2017
+# Lucas Dias <lucasdiaas@outlook.com>, 2017
+# João Mário Domingos <joaomario.rd@hotmail.com>, 2017
+# 1c57a65669dd54e567e2001c2de5ea42_5535fe7, 2018
+# Luis Forman <lf@lfsqr.co>, 2020
+# Celio Alves <dreamcelio@gmail.com>, 2020
+# Hugo Carvalho <hugokarvalho@hotmail.com>, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>, 2022\n"
+"Language-Team: Portuguese (Brazil) (https://www.transifex.com/ubuntu-budgie/teams/72251/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: index.html:14
+msgid "Main Menu"
+msgstr "Menu Principal"
+
+#: index.html:24
+msgid "Choose an option to discover your new operating system."
+msgstr "Escolha uma opção para descobrir seu novo sistema operacional."
+
+#: index.html:36
+msgid "Introduction"
+msgstr "Introdução"
+
+#: index.html:42
+msgid "Features"
+msgstr "Recursos"
+
+#: index.html:48
+msgid "Getting Started"
+msgstr "Começando"
+
+#: index.html:54
+msgid "Installation Help"
+msgstr "Ajuda de Instalação"
+
+#: index.html60, 117
+msgid "Recommendations"
+msgstr "Recomendações"
+
+#: index.html:78
+msgid "Online Store"
+msgstr "Loja Online"
+
+#: index.html:84
+msgid "Community"
+msgstr "Comunidade"
+
+#: index.html:90
+msgid "Get Involved"
+msgstr "Envolva-se"
+
+#: index.html:96
+msgid "Donate"
+msgstr "Doar"
+
+#: index.html:106
+msgid "Install Now"
+msgstr "Instale Agora"
+
+#: index.html:113
+msgid "Install Software"
+msgstr "Instalar Software"
+
+#: index.html:115
+msgid "Budgie Extras"
+msgstr "Extras do Budgie"
+
+#: index.html:118
+msgid "Software Center"
+msgstr "Central de Aplicativos"
+
+#: index.html:119
+msgid "Snap Apps"
+msgstr "Aplicações Snap"
+
+#: index.html:121
+msgid "Flatpak Apps"
+msgstr "Aplicações  Flatpak"
+
+#: index.html:123
+msgid "Gaming"
+msgstr "Jogos"
+
+#: index.html:129
+msgid "Themes & Layouts"
+msgstr "Temas & Layouts"
+
+#: index.html:139
+msgid "Get Support:"
+msgstr "Obtenha Suporte:"
+
+#: index.html:151
+msgid "Facebook Group"
+msgstr "Grupo no Facebook"
+
+#: index.html:154
+msgid "Facebook Page"
+msgstr "Página no Facebook"

@@ -1,0 +1,304 @@
+# 
+# Translators:
+# zk, 2018
+# Afrizal Yusren <yusrenz@gmail.com>, 2018
+# Dendy Satriya Adi <inoktav@gmail.com>, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-22 21:33+0000\n"
+"Last-Translator: Dendy Satriya Adi <inoktav@gmail.com>, 2020\n"
+"Language-Team: Indonesian (Indonesia) (https://www.transifex.com/ubuntu-budgie/teams/72251/id_ID/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: recommendations.html:15
+msgid "Recommendations"
+msgstr "Rekomendasi"
+
+#: recommendations.html:20
+msgid "Backports repository"
+msgstr "Repository Backport"
+
+#: recommendations.html:22
+msgid ""
+"To provide the most up-to-date versions of budgie-desktop and other "
+"associated packages, we recommend to enable the Ubuntu Budgie backports "
+"repository."
+msgstr ""
+
+#: recommendations.html:27
+msgid "Repository is installed"
+msgstr "Repository terinstall."
+
+#: recommendations.html:30
+msgid "Enable Ubuntu Budgie backports repository"
+msgstr ""
+
+#: recommendations.html33, 106, 139, 164, 181, 197, 214
+msgid "Applying Changes..."
+msgstr "Menerapkan Perubahan..."
+
+#: recommendations.html:37
+msgid "Snap Applications"
+msgstr "Aplikasi Snap"
+
+#: recommendations.html:42
+msgid ""
+"<strong>Snap</strong> is a new generation application packaging format "
+"developed by <em>Canonical</em>. Even though it was initially developed just"
+" for different Ubuntu platforms, currently it works in many other GNU/Linux "
+"distributions. It will help application developers to provide a unified "
+"package that can work on different platforms. By using snap package format, "
+"applications can have their own version of libraries and there is no need to"
+" worry about libraries installed in underlying operating system. Snap "
+"packages enable developers to bring much newer versions of apps to Ubuntu "
+"Budgie. Newer versions of KDE, GNOME, browsers or other desktop environment "
+"apps will usually build easily on older LTS releases but the complexities of"
+" packaging and providing updates have prevented us from delivering them in "
+"the past."
+msgstr ""
+
+#: recommendations.html55, 122
+msgid "Learn more"
+msgstr "Pelajari lebih lanjut"
+
+#: recommendations.html:57
+msgid "Snap user guide"
+msgstr "Panduan Pengguna Snap"
+
+#: recommendations.html:59
+msgid "Search Snap Apps"
+msgstr "Cari Aplikasi Snap"
+
+#: recommendations.html:60
+msgid ""
+"If there’s a barrier to Snap app adoption (aside from few apps being made "
+"available in the format) it’s knowing which packages are available in the "
+"Snap app store. Well, wonder not. Simply pop open a terminal and run the "
+"following command:"
+msgstr ""
+"Jika ada penghalang untuk mengadopsi adopsi aplikasi (selain dari beberapa "
+"aplikasi yang tersedia dalam format umum), snap akan mengetahui paket mana "
+"yang tersedia di toko aplikasi Snap. Yah, jangan heran. Cukup buka terminal "
+"dan jalankan perintah berikut:"
+
+#: recommendations.html:66
+msgid ""
+"The find command lets you quickly search for and discover snaps available to"
+" install from the command line. It can be run with a query after it (e.g., "
+"‘snap find email‘, ‘snap find media’, ‘snap find messaging‘) or without."
+msgstr ""
+"Perintah find memungkinkan Anda dengan cepat mencari dan menemukan aplikasi "
+"snap yang tersedia untuk diinstal dari terminal. Ini dapat dijalankan dengan"
+" kueri setelahnya (misalnya, ‘snap find email‘, ‘snap find media’, ‘snap "
+"find messaging‘) atau tanpa perintah tersebut."
+
+#: recommendations.html:69
+msgid "When run without a query you’ll instead see a list of featured snaps."
+msgstr ""
+"Saat dijalankan tanpa kueri, Anda malah akan melihat daftar fitur snap."
+
+#: recommendations.html:70
+msgid "See installed apps"
+msgstr "Lihat apl terpasang"
+
+#: recommendations.html:71
+msgid ""
+"Installed some Snaps but can’t remember what? Don’t panic. Use the list "
+"command to see an up-to-date list of all Snap apps installed on your system:"
+msgstr ""
+"Memasang beberapa Snap tetapi lupa apa? Jangan panik. Gunakan perintah list "
+"untuk melihat daftar terbaru dari semua aplikasi Snap yang diinstal di "
+"sistem Anda:"
+
+#: recommendations.html:74
+msgid ""
+"This list also shows you their version number, revision number and the name "
+"of the developer who uploaded it (handy when there are multiple versions of "
+"the same app in the store, e.g., Telegram)."
+msgstr ""
+"Daftar ini juga menunjukkan nomor versi, nomor revisi, dan nama pengembang "
+"yang mengunggahnya (berguna saat ada beberapa versi dari aplikasi yang sama "
+"di store, misalnya, Telegram)."
+
+#: recommendations.html:77
+msgid "Install & Remove Snap Apps"
+msgstr "Pasang & Buang Apl Snap"
+
+#: recommendations.html:78
+msgid ""
+"If you’re used to managing software using apt you’ll instantly find the "
+"analogous snap commands easy to remember. You install snap apps with the "
+"‘install’ command, and remove them using the ‘remove’ command."
+msgstr ""
+"Jika Anda terbiasa mengelola perangkat lunak menggunakan apt, Anda akan "
+"segera menemukan perintah snap analog yang mudah diingat. Anda menginstal "
+"aplikasi snap dengan perintah ‘install’, dan menghapusnya menggunakan "
+"perintah ‘remove’."
+
+#: recommendations.html:83
+msgid "See details of an App"
+msgstr "Lihat detail sebuah Apl"
+
+#: recommendations.html:84
+msgid ""
+"You can use this to see detailed information about any snap application, "
+"whether it is installed or not. This info includes the application’s release"
+" channel, confinement status, size, number of revisions, and more. The snap "
+"info --verbose offers a greater overview."
+msgstr ""
+"Anda dapat menggunakan ini untuk melihat informasi terperinci tentang "
+"aplikasi snap apa pun, apakah dipasang atau tidak. Info ini mencakup saluran"
+" rilis aplikasi, status pengurungan, ukuran, jumlah revisi, dan banyak lagi."
+" Info snap --verbose menawarkan gambaran umum yang lebih luas."
+
+#: recommendations.html:90
+msgid "Update a Snap App"
+msgstr "Perbarui Apl Snap"
+
+#: recommendations.html:92
+msgid ""
+"Rather helpfully you probably won’t ever need to remember to install an "
+"update to a Snap app. This is because Snapd runs in the background and "
+"handles updates automatically (you can, ofc, revert a Snap update or install"
+" a specific revision)."
+msgstr ""
+"Sebaliknya, Anda mungkin tidak perlu mengingat untuk memasang pembaruan ke "
+"aplikasi Snap. Ini karena Snapd berjalan di latar belakang dan menangani "
+"pembaruan secara otomatis (Anda dapat, ofc, mengembalikan pembaruan Snap "
+"atau menginstal revisi tertentu)."
+
+#: recommendations.html:98
+msgid "Reference"
+msgstr "Referensi"
+
+#: recommendations.html:101
+msgid "Snap is already installed"
+msgstr "Snap sudah terpasang"
+
+#: recommendations.html:104
+msgid "Install Snap"
+msgstr "Pasang Snap"
+
+#: recommendations.html:111
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: recommendations.html:116
+msgid ""
+"<strong>Flatpak</strong> is a new generation application distribution "
+"framework for GNU/Linux platforms. It introduces a unified packaging format "
+"across all GNU/Linux distributions. That means a single package can work on "
+"any platform. Flatpak helps application developers to ship their application"
+" in a single format which can be installed in any GNU/Linux distribution "
+"without worrying about the underlying operating system and its built-in "
+"libraries."
+msgstr ""
+"<strong>Flatpak</strong> adalah kerangka distribusi aplikasi generasi baru "
+"untuk platform GNU / Linux. Dengan memperkenalkan format kemasan terpadu di "
+"semua distribusi GNU / Linux. Itu berarti satu paket dapat berfungsi di "
+"platform apa pun. Flatpak membantu pengembang aplikasi untuk mengirimkan "
+"aplikasi mereka dalam satu format yang dapat diinstal dalam distribusi GNU /"
+" Linux tanpa khawatir tentang sistem operasi yang mendasarinya dan pustaka "
+"yang ada di dalamnya."
+
+#: recommendations.html:125
+msgid ""
+"Ubuntu Budgie recommends installing <strong>Flatpak</strong> as it will open"
+" a new world of possibilities for you. With Flatpak, you can enjoy the "
+"latest release of different software packages as soon as it is packaged by "
+"the upstream project and you don't have to wait for your distribution to "
+"package it for you."
+msgstr ""
+
+#: recommendations.html:130
+msgid ""
+"Being a user friendly GNU/Linux distribution, Ubuntu Budgie allows you to "
+"install Flatpak with a single click. After first time configuration, you can"
+" use GNOME Software to install Flatpak packages."
+msgstr ""
+
+#: recommendations.html:134
+msgid "Flatpak is installed. Please reboot for the service to start"
+msgstr ""
+"Flatpak sudah terpasang. Silakan mulai ulang agar layanan bisa dijalankan"
+
+#: recommendations.html:137
+msgid "Install & Configure Flatpak"
+msgstr "Pasang & Konfigurasi Flatpak"
+
+#: recommendations.html:149
+msgid ""
+"<strong>Dropbox</strong> is a popular proprietary file sharing and storage "
+"solution."
+msgstr ""
+"<strong>Dropbox</strong> adalah solusi penyimpanan dan berbagi berkas yang "
+"populer dan berbayar "
+
+#: recommendations.html:153
+msgid ""
+"After installing, logout and login and follow the dropbox instructions that "
+"are then displayed."
+msgstr ""
+"Setelah menginstal, login ulang dan ikuti instruksi dropbox yang kemudian "
+"ditampilkan."
+
+#: recommendations.html:158
+msgid "Dropbox is installed"
+msgstr "Dropbox terpasang"
+
+#: recommendations.html:161
+msgid "Install & Configure Dropbox"
+msgstr "Pasang dan Atur Dropbox"
+
+#: recommendations.html:171
+msgid ""
+"Nemo Share allows you to quickly share a folder from the Nemo file manager "
+"without requiring root access."
+msgstr ""
+
+#: recommendations.html:176
+msgid "Nemo Share is installed"
+msgstr "Nemo Share terpasang"
+
+#: recommendations.html:179
+msgid "Install Nemo Share"
+msgstr "Pasang Nemo Share"
+
+#: recommendations.html:188
+msgid ""
+"Nemo Preview allows you to quickly view the contents of a highlighted file "
+"from the Nemo file manager. Just press space to toggle the preview on and "
+"off."
+msgstr ""
+
+#: recommendations.html:192
+msgid "Nemo Preview is installed"
+msgstr ""
+
+#: recommendations.html:195
+msgid "Install Nemo Preview"
+msgstr ""
+
+#: recommendations.html:204
+msgid ""
+"Gutenprint is a suite of <a onclick=\"cmd('link?http://gimp-"
+"print.sourceforge.net/p_Supported_Printers.php')\">thousands</a> of printer "
+"drivers which includes drivers for Epson and Canon printers. Gutenprint "
+"supports only the printer part of multi-function devices."
+msgstr ""
+
+#: recommendations.html:209
+msgid "Gutenprint is installed"
+msgstr ""
+
+#: recommendations.html:212
+msgid "Install Gutenprint"
+msgstr ""

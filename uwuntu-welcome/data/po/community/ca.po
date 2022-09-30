@@ -1,0 +1,123 @@
+# 
+# Translators:
+# Davidmp <medipas@gmail.com>, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: Davidmp <medipas@gmail.com>, 2022\n"
+"Language-Team: Catalan (https://www.transifex.com/ubuntu-budgie/teams/72251/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: community.html:15
+msgid "Community"
+msgstr "Comunitat"
+
+#: community.html:20
+msgid "Get Support"
+msgstr "Obtingueu suport"
+
+#: community.html:21
+msgid ""
+"To get support for Ubuntu Budgie specific issues, the Ubuntu Budgie "
+"Discourse website is the best place to go. You can raise issues and help "
+"other members of our growing community."
+msgstr ""
+"Per obtenir suport per a problemes específics de l'Ubuntu Budgie, el lloc "
+"web Ubuntu Budgie Discourse és el millor lloc. Podeu plantejar problemes i "
+"ajudar altres membres de la nostra comunitat en creixement."
+
+#: community.html:25
+msgid ""
+"It appears you are not connected to the Internet. Please check your "
+"connection to access this content."
+msgstr ""
+"Sembla que no esteu connectat a Internet. Si us plau, comproveu la connexió "
+"per accedir a aquest contingut."
+
+#: community.html:28
+msgid "Sorry, Welcome was unable to establish a connection."
+msgstr "Perdoneu, la Benvinguda no ha pogut establir una connexió."
+
+#: community.html:31
+msgid "Retry"
+msgstr "Torna-hi"
+
+#: community.html:40
+msgid ""
+"An alternative way to get in touch is via our official IRC (Internet Relay "
+"Chat) channel."
+msgstr ""
+"Una manera alternativa de posar-nos en contacte és el canal d'IRC (Internet "
+"Relay Chat)."
+
+#: community.html:42
+msgid ""
+"If you disconnect from the channel you will not receive a notification of "
+"any reply. So either leave an IRC session open - or we recommend connecting "
+"to all ubuntu IRC channels via an IRC bouncer."
+msgstr ""
+"Si us desconnecteu del canal no rebreu cap notificació de cap resposta. Per "
+"tant, o bé deixeu la sessió d'IRC oberta o bé us recomanem de connectar amb "
+"tots els canals d'IRC d'Ubuntu amb un rebotador d'IRC."
+
+#: community.html:48
+msgid "#ubuntu-budgie on Libera Chat"
+msgstr "#ubuntu-budgie a Libera Chat"
+
+#: community.html:57
+msgid "Forum"
+msgstr "Fòrum"
+
+#: community.html:58
+msgid ""
+"You can also get support for Ubuntu Budgie through these official Ubuntu "
+"forums:"
+msgstr ""
+"També podeu obtenir suport per a l'Ubuntu Budgie a través d'aquests fòrums "
+"oficials d'Ubuntu:"
+
+#: community.html:69
+msgid "Social Networks"
+msgstr "Xarxes socials"
+
+#: community.html:70
+msgid "Ubuntu Budgie is active on the following social networks."
+msgstr "L'Ubuntu Budgie està actiu a les xarxes socials següents:"
+
+#: community.html:80
+msgid "Facebook Group"
+msgstr "Grup de Facebook"
+
+#: community.html:83
+msgid "Facebook Page"
+msgstr "Pàgina de Facebook"
+
+#: community.html:114
+msgid "Local Communities"
+msgstr "Comunitats locals"
+
+#: community.html:115
+msgid ""
+"In addition to global communities, Ubuntu Budgie also encourages local "
+"communities to support users coming from diverse backgrounds. In this "
+"section, you can discover our local communities. If you are interested to "
+"manage a local community for Ubuntu Budgie please let us know, so that we "
+"can list it here and improve its visibility."
+msgstr ""
+"A més de les comunitats globals, l'Ubuntu Budgie també anima les comunitats "
+"locals a donar suport als usuaris que provenen d'orígens diferents. En "
+"aquesta secció, podeu descobrir les nostres comunitats locals. Si esteu "
+"interessats a gestionar una comunitat local per a l'Ubuntu Budgie, feu-nos-"
+"ho saber, perquè puguem enumerar-la aquí i millorar-ne la visibilitat."
+
+#: community.html132, 140
+msgid "Ubuntu Budgie Brasil"
+msgstr "Ubuntu Budgie Brasil"

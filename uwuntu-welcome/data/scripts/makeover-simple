@@ -1,0 +1,14 @@
+#!/bin/sh
+
+gksu rm /etc/budgie-desktop/*.ini
+sudo cp ../../panels/panel.simple /etc/budgie-desktop/panel.ini
+sudo rm /etc/xdg/autostart/*plank*
+nohup budgie-panel --replace --reset &
+sleep 5
+gsettings set com.solus-project.budgie-menu:/com/solus-project/budgie-menu/ menu-headers false
+gsettings set com.solus-project.budgie-menu:/com/solus-project/budgie-menu/ menu-compact "true"
+gsettings set com.solus-project.budgie-menu:/com/solus-project/budgie-menu/ enable-menu-label "true"
+gsettings set com.solus-project.budgie-wm button-style 'traditional'
+pkill plank &
+
+

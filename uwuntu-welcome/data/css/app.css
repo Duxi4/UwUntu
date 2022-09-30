@@ -1,0 +1,21 @@
+
+GtkHeaderBar, headerbar{
+  border: none;
+  margin: 0;
+  
+}
+
+GtkLabel, label {
+  color: white;
+  padding-left: 20px;
+}
+
+#about-btn, #status-btn, #back-btn {
+  color: white;
+  box-shadow: none;
+}
+
+#about-btn:hover, #status-btn:hover, #back-btn:hover {
+  background: rgba(255, 255, 255, 0.25);
+  transition: background 0.5s ease;
+}

@@ -1,0 +1,160 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Translators:
+# Dustin Krysak <dustin@bashfulrobot.com>, 2017
+# david mohammed <foss.freedom@gmail.com>, 2021
+# David Mohammed <fossfreedom@ubuntu.com>, 2022
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2022-09-12 22:06+0100\n"
+"PO-Revision-Date: 2017-03-11 16:44+0000\n"
+"Last-Translator: David Mohammed <fossfreedom@ubuntu.com>, 2022\n"
+"Language-Team: English (United Kingdom) (https://www.transifex.com/ubuntu-"
+"budgie/teams/72251/en_GB/)\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: budgie-welcome:468
+msgid ""
+"Seems that GNOME Software is not installed. If this problem persists even "
+"after installing GNOME Software, please contact us with following error "
+"message"
+msgstr ""
+"It seems that GNOME Software is not installed on your system. If this "
+"problem persists even after installing GNOME Software, please contact us "
+"with following error message"
+
+#: budgie-welcome:716
+msgid "Following tasks are in progress"
+msgstr "The following tasks are in progress"
+
+#: budgie-welcome:723 budgie-welcome:1891 budgie-welcome:1908
+#: budgie-welcome:1936 budgie-welcome:1942 budgie-welcome:2404
+msgid "Budgie Welcome"
+msgstr "Budgie Welcome"
+
+#: budgie-welcome:727
+msgid "Budgie Desktop"
+msgstr "Budgie Desktop"
+
+#: budgie-welcome:854
+msgid ""
+"The following third-party repositories need to be added to complete the "
+"installation:"
+msgstr ""
+"The following third-party repositories need to be added to complete the "
+"installation:"
+
+#: budgie-welcome:886 budgie-welcome:908
+msgid ""
+"Third-Party repositories and their packages are not supported by Ubuntu. You "
+"should only continue if you trust the maintainers of these repositories."
+msgstr ""
+"Third-Party repositories and their packages are not supported by Ubuntu. You "
+"should only continue if you trust the maintainers of these repositories."
+
+#: budgie-welcome:889 budgie-welcome:911
+msgid "Continue with the installation?"
+msgstr "Continue with the installation?"
+
+#: budgie-welcome:895 budgie-welcome:917
+msgid "Third-Party Repositories"
+msgstr "Third-Party Repositories"
+
+#: budgie-welcome:906
+msgid ""
+"One or more packages need to be installed from a third-party repository that "
+"you have previously added."
+msgstr ""
+"One or more packages need to be installed from a third-party repository that "
+"you have previously added."
+
+#: budgie-welcome:1214
+msgid "Welcome App"
+msgstr "Welcome App"
+
+#: budgie-welcome:1565
+msgid "Could not gather data."
+msgstr "Could not gather data."
+
+#: budgie-welcome:1645
+msgid "GB"
+msgstr "GB"
+
+#: budgie-welcome:1646
+msgid "GiB"
+msgstr "GiB"
+
+#: budgie-welcome:1647
+msgid "MB"
+msgstr "MB"
+
+#: budgie-welcome:1648
+msgid "MiB"
+msgstr "MiB"
+
+#: budgie-welcome:1893
+msgid ""
+"This snap is running on a distro that is unrecognized or on a development "
+"release of Ubuntu that has not yet received its snap configuration.  Full "
+"snap capabilities are unlikely to work."
+msgstr ""
+"This snap is running on a distro that is unrecognised or on a development "
+"release of Ubuntu that has not yet received its snap configuration.  Full "
+"snap capabilities are unlikely to work."
+
+#: budgie-welcome:1910
+msgid ""
+"This snap is running on version of budgie desktop that is no longer "
+"supported. Please upgrade to a supported version of the distro."
+msgstr ""
+"This snap is running on version of budgie desktop that is no longer "
+"supported. Please upgrade to a supported version of the distro."
+
+#: budgie-welcome:1957
+msgid "Status"
+msgstr "Status"
+
+#: budgie-welcome:2050
+msgid " is in progress. Please wait for it to complete"
+msgstr "is in progress. Please wait for it to complete"
+
+#: budgie-welcome:2405
+msgid "Find out about your operating system"
+msgstr "Find out about your operating system"
+
+#: budgie-welcome:2407
+msgid "Budgie Makeovers & Layouts"
+msgstr "Budgie Makeovers & Layouts"
+
+#: budgie-welcome:2408
+msgid "Give the desktop a makeover with new themes, icons, fonts & layouts"
+msgstr "Give the desktop a makeover with new themes, icons, fonts & layouts"
+
+#: budgie-welcome:2410
+msgid "Budgie Extras"
+msgstr "Budgie Extras"
+
+#: budgie-welcome:2411
+msgid ""
+"Customize the desktop with applets and mini-applications to provide extra "
+"capabilities"
+msgstr ""
+"Customise the desktop with applets and mini-applications to provide extra "
+"capabilities"
+
+#: budgie-welcome:2414
+msgid "Budgie Discourse"
+msgstr "Budgie Discourse"
+
+#: budgie-welcome:2415
+msgid "Be part of the Ubuntu Budgie Community"
+msgstr "Be part of the Ubuntu Budgie Community"

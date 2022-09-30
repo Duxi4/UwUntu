@@ -1,0 +1,105 @@
+# 
+# Translators:
+# Ivailo Panamski <ipanamski@gmail.com>, 2018
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: Ivailo Panamski <ipanamski@gmail.com>, 2018\n"
+"Language-Team: Bulgarian (https://www.transifex.com/ubuntu-budgie/teams/72251/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: index.html:14
+msgid "Main Menu"
+msgstr "Главно Меню"
+
+#: index.html:24
+msgid "Choose an option to discover your new operating system."
+msgstr "Изберете опция, за да разучите новата си операционна система."
+
+#: index.html:36
+msgid "Introduction"
+msgstr "Въведение"
+
+#: index.html:42
+msgid "Features"
+msgstr "Функции"
+
+#: index.html:48
+msgid "Getting Started"
+msgstr "Започване"
+
+#: index.html:54
+msgid "Installation Help"
+msgstr "Помощ с инсталацията"
+
+#: index.html60, 117
+msgid "Recommendations"
+msgstr "Препоръки"
+
+#: index.html:78
+msgid "Online Store"
+msgstr "Онлайн Магазин"
+
+#: index.html:84
+msgid "Community"
+msgstr "Общност"
+
+#: index.html:90
+msgid "Get Involved"
+msgstr "Приобщи се"
+
+#: index.html:96
+msgid "Donate"
+msgstr "Даряване"
+
+#: index.html:106
+msgid "Install Now"
+msgstr "Инсталирай сега"
+
+#: index.html:113
+msgid "Install Software"
+msgstr "Инсталиране на софтуер"
+
+#: index.html:115
+msgid "Budgie Extras"
+msgstr ""
+
+#: index.html:118
+msgid "Software Center"
+msgstr "Софтуерен Център"
+
+#: index.html:119
+msgid "Snap Apps"
+msgstr "Snap Приложения"
+
+#: index.html:121
+msgid "Flatpak Apps"
+msgstr "Flatpak приложения"
+
+#: index.html:123
+msgid "Gaming"
+msgstr ""
+
+#: index.html:129
+msgid "Themes & Layouts"
+msgstr ""
+
+#: index.html:139
+msgid "Get Support:"
+msgstr ""
+
+#: index.html:151
+msgid "Facebook Group"
+msgstr "Facebook Група"
+
+#: index.html:154
+msgid "Facebook Page"
+msgstr "Facebook Страница"

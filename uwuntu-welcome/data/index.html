@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en" ng-app>
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="css/material-icons.css" rel="stylesheet" media="screen">
+    <link href="css/animate.css" rel="stylesheet" media="screen">
+    <link href="css/welcome.css" rel="stylesheet" media="screen">
+  </head>
+
+  <body class="backdrop-simple hidden" style="overflow: hidden;">
+    <div id="title-inject">&zwnj;Main Menu&zwnj;</div>
+    <div class="main entire-page-fade fade fade-1s" id="wrapper">
+      <div id="header" class="container-fluid" style="padding-top: 36px; padding-bottom: 36px">
+        <div class="row">
+          <div class="col-md-12 center splash-version">
+            <img id="wordmark" src="img/welcome/blank.svg">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 center">
+            &zwnj;Choose an option to discover your new operating system.&zwnj;
+          </div>
+        </div>
+      </div>
+      
+      <div class="container content fade fade-2s">
+        <div class="row">
+          <div class="col-md-3 btn-showcase">
+            <!-- Documentation -->
+            <div class="button-group">
+              <span class="btn-icon material-icons">&#xE88E;</span>
+              <a id="introduction" class="btn btn-inverse fade fade-3s hvr-shadow" onclick="smoothPageFade('introduction.html')">
+                &nbsp; &zwnj;Introduction&zwnj;
+              </a>
+            </div>
+            <div class="button-group">
+              <span class="btn-icon material-icons">&#xE8D0;</span>
+              <a id="features" class="btn btn-inverse fade fade-4s hvr-shadow" onclick="smoothPageFade('features.html')">
+                &nbsp; &zwnj;Features&zwnj;
+              </a>
+            </div>
+            <div class="button-group">
+              <span class="btn-icon material-icons">&#xE86C;</span>
+              <a id="gettingstarted" class="btn btn-inverse fade fade-5s live-session hvr-shadow" onclick="smoothPageFade('gettingstarted.html')">
+                &nbsp; &zwnj;Getting Started&zwnj;
+              </a>
+            </div>
+            <div class="button-group live-session-only">
+              <span class="btn-icon material-icons">&#xE887;</span>
+              <a id="install-guide" class="btn btn-inverse fade fade-5s hvr-shadow" onclick="smoothPageFade('gettingstarted.html')">
+                &nbsp; &zwnj;Installation Help&zwnj;
+              </a>
+            </div>
+            <div class="button-group normal-session-only">
+              <span class="btn-icon material-icons">&#xE887;</span>
+              <a class="btn btn-inverse fade fade-5s hvr-shadow" onclick="smoothPageFade('recommendations.html')">
+                &nbsp; &zwnj;Recommendations&zwnj;
+              </a>
+            </div>
+          </div>
+          <div class="col-md-6 btn-showcase">
+            <!-- Distribution Logo-->
+            <div class="row text-xs-center">
+              <div class="col-md-12 center">
+                <img id="main-menu-logo" class="entire-page-fade main-menu-logo animated rotateIn fadeIn hvr-shadow"
+                  src="img/distro-icon.svg">
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 btn-showcase">
+            <!-- Project -->
+            <div class="button-group">
+              <span class="btn-icon material-icons">&#xE854;</span>
+              <a id="store" class="btn btn-inverse fade fade-3s hvr-shadow" onclick="smoothPageFade('store.html')">
+                &nbsp; &zwnj;Online Store&zwnj;
+              </a>
+            </div>
+            <div class="button-group">
+              <span class="btn-icon material-icons">&#xE7EF;</span>
+              <a id="community" class="btn btn-inverse fade fade-3s hvr-shadow" onclick="smoothPageFade('community.html')">
+                &nbsp; &zwnj;Community&zwnj;
+              </a>
+            </div>
+            <div class="button-group">
+              <span class="btn-icon material-icons">&#xE86F;</span>
+              <a id="getinvolved" class="btn btn-inverse fade fade-5s hvr-shadow" onclick="smoothPageFade('getinvolved.html')">
+                &nbsp; &zwnj;Get Involved&zwnj;
+              </a>
+            </div>
+            <div class="button-group">
+              <span class="btn-icon material-icons">&#xE87D;</span>
+              <a id="donate" class="btn btn-inverse fade fade-5s hvr-shadow" onclick="smoothPageFade('donate.html')">
+                &nbsp; &zwnj;Donate&zwnj;
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <!-- Support -->
+          <div class="live-session-only col-md-4"></div>
+          <div class="live-session-only col-md-4 btn-showcase">
+            <a id="install" class="btn btn-block btn-primary btn-lg fade fade-5s hvr-shadow" onclick="cmd('install-os');">
+              <span class="material-icons">&#xE2C0;</span>&zwnj;Install Now&zwnj;
+            </a>
+          </div>
+          <div class="normal-session-only col-md-2"></div>
+          <div class="normal-session-only col-md-4 btn-showcase">
+            <div class="dropup">
+              <a class="btn btn-primary btn-lg dropdown-toggle fade fade-5s hvr-shadow" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">&zwnj;Install Software&zwnj;</a>
+              <div class="dropdown-menu">
+                <a class="dropdown-item" href="#" onclick="smoothPageFade('budgie-applets.html');">&zwnj;Budgie
+                  Extras&zwnj;</a>
+                <a class="dropdown-item" href="#" onclick="smoothPageFade('recommendations.html');">&zwnj;Recommendations&zwnj;</a>
+                <a class="dropdown-item" href="#" onclick="cmd('software-center');">&zwnj;Software Center&zwnj;</a>
+                <a class="dropdown-item" href="#" onclick="cmd('link?https://snapcraft.io/store')">&zwnj;Snap
+                  Apps&zwnj;</a>
+                <a class="dropdown-item" href="#" onclick="cmd('link?https://flathub.org/apps.html')">&zwnj;Flatpak
+                  Apps&zwnj;</a>
+                <a class="dropdown-item" href="#" onclick="smoothPageFade('gaming.html');">&zwnj;Gaming&zwnj;</a>
+              </div>
+            </div>
+          </div>
+          <div class="normal-session-only col-md-4 btn-showcase">
+            <a class="btn btn-block btn-primary btn-lg fade fade-5s hvr-shadow" onclick="smoothPageFade('default.html');">
+              &zwnj;Makeovers & Layouts&zwnj;
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div id="footer" class="bottom">
+        <div class="container-fluid">
+          <div class="row footer-content">
+            <div class="col-md-6 text-md-left">
+              &zwnj;Get Support:&zwnj;
+              <a onclick="cmd('link?https://answers.launchpad.net/~uwuntuos'); document.title = ''" id="open-at-start"
+                class="entire-page-fade">
+                <img src="img/logos/discourse-logo-light.svg" alt="Launchpad" width="96px" style="padding-bottom: 5px" /> <!--TODO:Cambia la imagen por una de launchpad-->
+              </a>
+            </div>
+            <div class="col-md-2"></div>
+            <div class="col-md-4 social text-md-right">
+              <a class="hover-menu-block">
+                <img src="img/social/web.svg" />
+                <ul class="hover-menu">
+                  <li onclick="cmd('link?https://uwuntuos.site')">
+                    Official website
+                  </li>
+                </ul>
+              </a>
+              <a class="hover-menu-block">
+                <img src="img/social/twitter.svg" />
+                <ul class="hover-menu">
+                  <li onclick="cmd('link?https://bit.ly/380p4nL')">
+                    Tweet about us
+                  </li>
+                </ul>
+              </a>
+              <a class="hover-menu-block">
+                <img src="img/social/discord.svg" />
+                <ul class="hover-menu">
+                  <li onclick="cmd('link?https://discord.gg/US38bG9n8c')">
+                    Discord
+                  </li>
+                </ul>
+              </a>
+              <a class="hover-menu-block">
+                <img src="img/social/launchpad.svg" />
+                <ul class="hover-menu">
+                  <li onclick="cmd('link?https://answers.launchpad.net/uwuntu')">
+                    Launchpad
+                  </li>
+                </ul>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="js/jquery-2.1.4.js"></script>
+    <script src="js/tether.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/janimate.js"></script>
+    <script src="js/confetti.js"></script> <!-- Confetti only appears on special events -->
+    <script src="js/welcome.js"></script>
+  </body>
+
+</html>

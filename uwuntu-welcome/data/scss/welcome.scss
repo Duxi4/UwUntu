@@ -1,0 +1,81 @@
+@import 'variables';
+@import 'header';
+@import 'content';
+@import 'footer';
+@import 'global';
+@import 'introduction-page';
+@import 'main-menu';
+@import 'geting-started';
+@import 'community-page';
+@import 'override-bootstrap-default-styles.scss';
+@import 'popup-message';
+@import 'donate-page';
+
+/**
+ * File created to fix problems while migrating to bootstrap4,
+ * Once migration is done this can be made final
+ */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+}
+
+html {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  /* Behave more like an application by
+   * preventing text highlighting / dragging. */
+  -webkit-user-select: none;
+  cursor: default;
+}
+
+body, button {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#wrapper {
+  min-height: 100%;
+  position: relative;
+  background: white;
+}
+
+.center {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.backdrop-simple {
+  background-color: $color-background;
+}
+
+.cursor-wait {
+  cursor: wait;
+}
+
+
+/* Live session and post installation session options */
+.live-session-only, .normal-session-only {
+  display: none
+}
+
+/* Official releases & Unofficial releases */
+.official-only, .unofficial-only {
+  display: none;
+}

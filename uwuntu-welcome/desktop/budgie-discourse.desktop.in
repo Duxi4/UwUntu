@@ -1,0 +1,11 @@
+[Desktop Entry]
+Terminal=false
+Type=Application
+Categories=Utility;GNOME;GTK;
+StartupNotify=false
+Name=Budgie Discourse
+Exec=xdg-open "https://discourse.ubuntubudgie.org"
+Icon=distributor-logo-ubuntu-budgie
+Comment=Be part of the Ubuntu Budgie Community
+Keywords=desktop;preferences;
+OnlyShowIn=Budgie;

@@ -1,0 +1,100 @@
+{
+  "jammy": [
+    {
+      "panel-attrib": {
+        "enable-shadow": true,
+        "size": 39,
+        "transparency": "none"
+      }
+    },
+    {
+      "SCHEMA": "org.gnome.desktop.interface",
+      "VALUES": {
+        "cursor-theme": "Vimix-cursors",
+        "gtk-theme": "Orchis-light-compact",
+        "icon-theme": "Tela-circle-blue-dark",
+        "monospace-font-name": "Ubuntu Mono 12",
+        "font-name": "Roboto Regular 10",
+        "document-font-name": "Roboto Regular 10"
+      }
+    },
+    {
+      "SCHEMA": "org.gnome.desktop.background",
+      "VALUES": {
+        "color-shading-type": "solid",
+        "picture-options": "stretched",
+        "picture-uri": "file:////usr/share/backgrounds/budgie/ubuntu_budgie_wallpaper2.jpg",
+        "primary-color": "#008094"
+      }
+    },
+    {
+      "SCHEMA": "com.solus-project.budgie-panel",
+      "VALUES": {
+        "builtin-theme": false,
+        "dark-theme": false
+      }
+    },
+    {
+      "SCHEMA": "org.gnome.desktop.wm.preferences",
+      "VALUES": {
+        "titlebar-font": "Roboto Regular 10",
+        "theme": "Orchis-light-compact"
+      }
+    },
+    {
+      "SCHEMA": "org.nemo.desktop",
+      "VALUES": {
+        "font": "Roboto Regular 10"
+      }
+    }
+  ],
+  "default": [
+    {
+      "panel-attrib": {
+        "enable-shadow": true,
+        "size": 39,
+        "transparency": "none"
+      }
+    },
+    {
+      "SCHEMA": "org.gnome.desktop.interface",
+      "VALUES": {
+        "cursor-theme": "Vimix-cursors",
+        "gtk-theme": "Orchis-Light-Compact",
+        "icon-theme": "Tela-circle-blue-dark",
+        "monospace-font-name": "Ubuntu Mono 12",
+        "font-name": "Roboto Regular 10",
+        "document-font-name": "Roboto Regular 10"
+      }
+    },
+    {
+      "SCHEMA": "org.gnome.desktop.background",
+      "VALUES": {
+        "color-shading-type": "solid",
+        "picture-options": "stretched",
+        "picture-uri": "file:////usr/share/backgrounds/budgie/ubuntu_budgie_wallpaper2.jpg",
+        "primary-color": "#008094"
+      }
+    },
+    {
+      "SCHEMA": "com.solus-project.budgie-panel",
+      "VALUES": {
+        "builtin-theme": false,
+        "dark-theme": false
+      }
+    },
+    {
+      "SCHEMA": "org.gnome.desktop.wm.preferences",
+      "VALUES": {
+        "titlebar-font": "Roboto Regular 10",
+        "theme": "Orchis-light-compact"
+      }
+    },
+    {
+      "SCHEMA": "org.nemo.desktop",
+      "VALUES": {
+        "font": "Roboto Regular 10"
+      }
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+# 
+# Translators:
+# Ryo Nakano, 2019
+# FuRuYa7 <goo.sirocat47@gmail.com>, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: FuRuYa7 <goo.sirocat47@gmail.com>, 2020\n"
+"Language-Team: Japanese (https://www.transifex.com/ubuntu-budgie/teams/72251/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: introduction.html:13
+msgid "Introduction"
+msgstr "導入"
+
+#: introduction.html:20
+msgid "Simplicity and Elegance."
+msgstr "シンプルさとエレガンス。"
+
+#: introduction.html24, 96
+msgid "What is Ubuntu Budgie?"
+msgstr ""
+
+#: introduction.html:39
+msgid ""
+"Ubuntu Budgie is an operating system -- the core software that runs your "
+"computer, similar to:"
+msgstr ""
+
+#: introduction.html:42
+msgid "Microsoft's Windows"
+msgstr "Microsoftの Windows"
+
+#: introduction.html:44
+msgid "Apple's macOS"
+msgstr "Appleの MacOS"
+
+#: introduction.html:44
+msgid "and"
+msgstr "および"
+
+#: introduction.html:46
+msgid "Google's Chrome OS"
+msgstr "Googleの Chrome OS"
+
+#: introduction.html:48
+msgid ""
+"Ubuntu Budgie is a distribution (variation) of GNU/Linux. A dependable, "
+"secure, capable, and modern computer system that rivals all others in "
+"popularity and actual use."
+msgstr ""
+
+#: introduction.html:51
+msgid "Unlike other operating systems, Linux is a major one used:"
+msgstr "他のオペレーティングシステムでなく、Linux が主として使われているシステム:"
+
+#: introduction.html:53
+msgid "on most of the world's fastest and most powerful supercomputers"
+msgstr "世界最速かつ最も強力なスーパーコンピューターのほとんど"
+
+#: introduction.html:55
+msgid ""
+"on many of (if not most of) the computers that make up the backbone of "
+"Internet"
+msgstr "インターネットのバックボーンを構成するコンピューターの多く（ほとんどではない）"
+
+#: introduction.html:57
+msgid "on corporate servers that require stability and reliability"
+msgstr "安定性と信頼性を必要とする企業サーバー"
+
+#: introduction.html:62
+msgid ""
+"Ubuntu Budgie is a stable, easy-to-use operating system with a configurable "
+"desktop environment. It is ideal for those who want the most out of their "
+"computers and prefer a traditional desktop metaphor. With modest hardware "
+"requirements, it is suitable for modern desktops and laptops alike."
+msgstr ""
+
+#: introduction.html:69
+msgid ""
+"The operating system is more secure, and better supported than the operating"
+" system pre-installed on most home computer hardware today."
+msgstr ""
+"オペレーティングシステムは、今日のほとんどの家庭用のコンピュータハードウェアにプリインストールされているオペレーティングシステムよりも安全であり、より適切にサポートされています。"
+
+#: introduction.html:73
+msgid ""
+"Using Ubuntu Budgie provides you with the freedom to run a complete, full-"
+"featured operating system, pre-configured with most (if not all) of the "
+"applications you will need for your daily computing. Change anything about "
+"the way it looks, the way it works, or the applications it runs to suit your"
+" taste."
+msgstr ""
+
+#: introduction.html:83
+msgid "Objectives"
+msgstr "目的"
+
+#: introduction.html:84
+msgid "Ubuntu Budgie has a number of guiding objectives and goals:"
+msgstr ""
+
+#: introduction.html:86
+msgid "Accessible to all, regardless of language and physical ability."
+msgstr "言語や身体能力に関係なく、すべての人がアクセスできます。"
+
+#: introduction.html:87
+msgid "Increase both Ubuntu and Budgie desktop user adoption."
+msgstr "UbuntuとBudgieデスクトップの両方でユーザーを増やします。"
+
+#: introduction.html:88
+msgid ""
+"Create a Ubuntu based distro for users who prefer a traditional desktop "
+"metaphor."
+msgstr "従来のデスクトップのイメージを好むユーザー向けのUbuntuベースのディストリビューションを作成しました。"
+
+#: introduction.html:89
+msgid ""
+"When possible contribute to Upstream projects such as BuddiesofBudgie and "
+"Debian so all Linux communities benefit."
+msgstr ""
+
+#: introduction.html:90
+msgid ""
+"Software selection will favor functionality and stability over lightness and"
+" whimsy."
+msgstr "ソフトウェアの選択は、軽さと気まぐれよりも機能と安定性を優先します。"
+
+#: introduction.html:100
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: introduction.html:107
+msgid ""
+"<a onclick=\"cmd('link?https://www.ubuntu.com')\">Ubuntu</a> is one of, if "
+"not the, largest deployed <a "
+"onclick=\"cmd('link?https://en.wikipedia.org/wiki/Linux')\">Linux</a> based "
+"desktop operating systems in the world. Linux is at the heart of Ubuntu and "
+"makes it possible to create secure, powerful and versatile operating "
+"systems, such as Ubuntu and <a "
+"onclick=\"cmd('link?https://www.android.com/')\"> Android</a>. Android is "
+"now in the hands of billions of people around the world and it's also "
+"powered by Linux."
+msgstr ""
+
+#: introduction.html:117
+msgid ""
+"Ubuntu is available in a number of different <em>flavors</em>, each coming "
+"with its own desktop environment. Ubuntu Budgie takes the Ubuntu base "
+"operating system and adds the <a "
+"onclick=\"cmd('link?https://github.com/buddiesofbudgie/budgie-"
+"desktop/')\">Budgie desktop</a>."
+msgstr ""
+
+#: introduction.html:126
+msgid "Budgie Desktop"
+msgstr "Budgie デスクトップ"
+
+#: introduction.html:133
+msgid "Wikipedia says that a"
+msgstr "ウィキペディアによると、"
+
+#: introduction.html:135
+msgid "Desktop Environment"
+msgstr "デスクトップ環境"
+
+#: introduction.html:135
+msgid "is:"
+msgstr "とは:"
+
+#: introduction.html:137
+msgid ""
+"\"An implementation of the desktop metaphor made of a bundle of programs "
+"running on top of a computer operating system, which share a common "
+"graphical user interface (GUI). Desktop GUIs help the user to easily access "
+"and edit files.\""
+msgstr ""
+"「コンピューターのオペレーティングシステム上で実行されるプログラムを付属して構成した実装で、共通のグラフィカルユーザーインターフェイス（GUI）を持ちます。その"
+" GUI は、ユーザーがファイルに簡単にアクセスして編集するのに役立ちます。」"
+
+#: introduction.html:147
+msgid "Ubuntu Budgie comes with a lot of useful applications like"
+msgstr ""
+
+#: introduction.html:162
+msgid "GNOME Software"
+msgstr "GNOMEソフトウェア"
+
+#: introduction.html:167
+msgid "File Manager"
+msgstr "ファイルマネージャ"
+
+#: introduction.html:168
+msgid "Web Browser"
+msgstr "Web ブラウザ"
+
+#: introduction.html:169
+msgid "Office Suite"
+msgstr "オフィススイート"
+
+#: introduction.html:170
+msgid "Software Store"
+msgstr "Software ストア"
+
+#: introduction.html:171
+msgid "Music Player"
+msgstr "音楽プレーヤー"
+
+#: introduction.html:175
+msgid "All of which are highly customisable and managed via"
+msgstr "これらのすべてを高度にカスタマイズしたり、管理しているのが"
+
+#: introduction.html:178
+msgid "Settings"
+msgstr "設定です。"
+
+#: introduction.html:178
+msgid "Budgie Control Center"
+msgstr ""
+
+#: introduction.html:180
+msgid ""
+"Budgie desktop provides an intuitive and attractive desktop environment "
+"using traditional metaphors, which means if you've ever used"
+msgstr "Budgie デスクトップは、従来からのイメージを使うことで直感的で魅力的なデスクトップ環境を提供します。"
+
+#: introduction.html:184
+msgid "or"
+msgstr "または"
+
+#: introduction.html:187
+msgid "it will feel very familiar."
+msgstr "ととても馴染んでいます。"
+
+#: introduction.html:193
+msgid "Open Source"
+msgstr "オープンソース"
+
+#: introduction.html:200
+msgid ""
+"What Linux, Ubuntu and Budgie desktop all have in common is they are Open "
+"Source. This software can be freely used, changed, and shared (in modified "
+"or unmodified form) by anyone. In a nutshell Ubuntu Budgie is free, in the "
+"truest sense of the word."
+msgstr ""
+
+#: introduction.html:206
+msgid ""
+"Although you will find some distributions (variations) of Linux for "
+"purchase, the vast majority are provided free of charge, like Ubuntu Budgie."
+" The distribution is licensed in a way that allows anyone to give it away "
+"for free, with no strings attached. For example, the licence gives any "
+"member of the user community the freedom to use Linux for any purpose, to "
+"distribute, modify, redistribute, or even sell the operating system. If you "
+"do modify and then redistribute Linux with your modifications, you are "
+"required by the licence to submit your modifications for possible inclusion "
+"into future versions. There is no guarantee that this will ever happen, but "
+"if you have made it better, then your changes just might be included in the "
+"next release of Ubuntu Budgie."
+msgstr ""
+
+#: introduction.html:221
+msgid ""
+"Many of the users of Linux are corporations that use the operating system to"
+" run their businesses, or include it within their products. Many of these "
+"corporations provide fixes and new features for Linux as they use the "
+"software for their businesses."
+msgstr ""
+"Linuxのユーザーの多くは、オペレーティングシステムを使用してビジネスを実行しているか、製品に組み込まれたオペレーティングシステムになります。これらの企業の多くは、企業でソフトウェアを使用する際にLinuxの修正と新機能を提供しています。"
+
+#: introduction.html:227
+msgid "These improvements are given back"
+msgstr "これらの改善点が返されます"
+
+#: introduction.html:228
+msgid ""
+"to the Linux community and Ubuntu Budgie improves as a result. This is how "
+"we can continually improve and grow without having to charge our users "
+"money."
+msgstr ""
+
+#: introduction.html:232
+msgid ""
+"Unlike Windows and OS X, Linux is not created and supported by just one "
+"company. It is supported by Intel, Redhat, Linaro, Samsung, IBM, SUSE, Texas"
+" Instruments, Google, Canonical, Oracle, AMD, and Microsoft. Over 4,000 "
+"developers contributed to Linux over the last 15 years."
+msgstr ""
+"WindowsやOS Xとは異なり、Linuxはたった1つの会社によって作成およびサポートされているわけではありません。 "
+"Intel、Redhat、Linaro、Samsung、IBM、SUSE、Texas "
+"Instruments、Google、Canonical、Oracle、AMD、Microsoft "
+"がサポートしています。過去15年間で4,000人を超える開発者がLinuxに貢献しました。"
+
+#: introduction.html:238
+msgid ""
+"Whether you are a home user of Ubuntu Budgie, a Ubuntu Budgie software or "
+"application developer, or an employee of an organization that uses the "
+"operating system, you are a member of the Linux and Open Source communities "
+"and benefit from the efforts of the developers who contribute to Ubuntu "
+"Budgie and its related projects: Linux, Budgie desktop, and Ubuntu. Members "
+"of the community run Linux on almost any hardware, from the prettiest "
+"Macbook to the cheapest netbook, from the newest Chromebook to some very old"
+" machines designed for Windows, and from the most powerful Internet servers "
+"to the smallest smart thermostat."
+msgstr ""

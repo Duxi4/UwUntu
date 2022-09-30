@@ -1,0 +1,400 @@
+# 
+# Translators:
+# SDSK <sdsk@sdsk.one>, 2020
+# Kwon.Yongchan <ruvyn@naver.com>, 2021
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-06-16 22:07+0000\n"
+"Last-Translator: Kwon.Yongchan <ruvyn@naver.com>, 2021\n"
+"Language-Team: Korean (https://www.transifex.com/ubuntu-budgie/teams/72251/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: budgie-applets.html:14
+msgid "Budgie Desktop Extras"
+msgstr "Budgie 데스크톱 엑스트라"
+
+#: budgie-applets.html:18
+msgid "Budgie Desktop Settings"
+msgstr "Budgie 데스크톱 설정"
+
+#: budgie-applets.html:25
+msgid "Haste Applet"
+msgstr "Haste 애플릿"
+
+#: budgie-applets.html:30
+msgid ""
+"Post any text – be it code or prose – to various services directly from your"
+" desktop."
+msgstr "데스크톱에서 다양한 서비스로 바로 텍스트를 붙여넣으세요."
+
+#: budgie-applets.html34, 57, 80, 103, 126, 149, 172, 195, 218, 241, 264, 287,
+#: 310, 333, 356, 379, 402, 425, 448, 471, 494, 517, 540, 563, 586, 609, 632,
+#: 655, 678, 701, 724, 747, 770, 793, 816, 839, 862, 885, 908, 931, 954
+msgid "Remove"
+msgstr "제거"
+
+#: budgie-applets.html37, 60, 83, 106, 129, 152, 175, 198, 221, 244, 267, 290,
+#: 313, 336, 359, 382, 405, 428, 451, 474, 497, 520, 543, 566, 589, 612, 635,
+#: 658, 681, 704, 727, 750, 773, 796, 819, 842, 865, 888, 911, 934, 957
+msgid "Install"
+msgstr "설치"
+
+#: budgie-applets.html40, 63, 86, 109, 132, 155, 178, 201, 224, 247, 270, 293,
+#: 316, 339, 362, 385, 408, 431, 454, 477, 500, 523, 546, 569, 592, 615, 638,
+#: 661, 684, 707, 730, 753, 776, 799, 822, 845, 868, 891, 914, 937, 960
+msgid "Applying changes..."
+msgstr "변경 사항 적용 중..."
+
+#: budgie-applets.html42, 65, 88, 111, 134, 157, 180, 203, 226, 272, 295, 318,
+#: 341, 364, 387, 410, 433, 479, 502, 525, 548, 571, 594, 617, 640, 663, 686,
+#: 709, 732, 755, 778, 801, 824, 847, 893, 916, 962
+msgid ""
+"Logout and login after installing applets. From the menu - choose Budgie "
+"Desktop Settings and choose the Panel to add and configure applets."
+msgstr ""
+"애플릿을 설치한 다음 로그아웃하고 로그인하세요. 애플릿을 추가하고 환경 설정하려면 메뉴에서 Budgie 데스크톱 설정을 선택한 다음 "
+"패널을 선택하세요."
+
+#: budgie-applets.html:48
+msgid "Lightpad Applet"
+msgstr "Lightpad 애플릿"
+
+#: budgie-applets.html:53
+msgid "A full-screen application launcher."
+msgstr "풀스크린 애플리케이션 런처입니다."
+
+#: budgie-applets.html:71
+msgid "Performance Gauge Applet"
+msgstr "퍼포먼스 측정 애플릿"
+
+#: budgie-applets.html:76
+msgid "This applet shows a CPU, Memory or Storage gauge on your budgie panel."
+msgstr "이 애플릿은 사용자의 Budgie 패널에 CPU, 메모리, 또는 저장소에 대한 측정치를 표시합니다."
+
+#: budgie-applets.html:94
+msgid "Screenshot Applet"
+msgstr "스크린샷 애플릿"
+
+#: budgie-applets.html:99
+msgid ""
+"An advanced screenshot utility for capturing and organizing screenshots."
+msgstr "스크린샷을 찍고 관리하기 위한 고급 스크린샷 유틸리티입니다."
+
+#: budgie-applets.html:117
+msgid "Clipboard Applet"
+msgstr "클립보드 애플릿"
+
+#: budgie-applets.html:122
+msgid ""
+"A clipboard manager applet that can help you to store and manage clipboard "
+"content."
+msgstr "클립보드 내용을 저장하고 관리하게 도와줄 수 있는 클립보드 관리자 애플릿입니다."
+
+#: budgie-applets.html:140
+msgid "Calendar Applet"
+msgstr "달력 애플릿"
+
+#: budgie-applets.html:145
+msgid "Show date and time and when clicked show a calendar in a popover."
+msgstr "날짜와 시간을 표시하고 클릭하면 팝업으로 달력을 표시합니다."
+
+#: budgie-applets.html:163
+msgid "Network Applet"
+msgstr "네트워크 애플릿"
+
+#: budgie-applets.html:168
+msgid "Network connectivity applet."
+msgstr "네트워크 연결 애플릿입니다."
+
+#: budgie-applets.html:186
+msgid "VisualSpace Applet"
+msgstr "VisualSpace 애플릿"
+
+#: budgie-applets.html:191
+msgid "Display application windows across multiple workspaces."
+msgstr "다양한 작업 공간에 걸쳐 애플리케이션 창을 표시합니다."
+
+#: budgie-applets.html:209
+msgid "Analog Clock Applet"
+msgstr "아날로그 시계 애플릿"
+
+#: budgie-applets.html:214
+msgid "Display the time using a traditional dial-face clock."
+msgstr "전통적인 시침/초침 시계로 시간을 표시합니다."
+
+#: budgie-applets.html:232
+msgid "Window Shuffler"
+msgstr "창 셔플러"
+
+#: budgie-applets.html:237
+msgid "Graphical and keyboard friendly window arranger."
+msgstr "키보드 친화적인 그래픽 UI 창 배열기입니다."
+
+#: budgie-applets.html249, 456, 870, 939
+msgid ""
+"Logout and login after installing. Choose from the menu to configure this "
+"application."
+msgstr "애플릿을 설치한 다음 로그아웃하고 로그인하세요. 이 애플리케이션의 환경을 설정하려면 메뉴에서 선택하세요."
+
+#: budgie-applets.html:255
+msgid "Applications Menu applet"
+msgstr "애플리케이션 메뉴 애플릿"
+
+#: budgie-applets.html:260
+msgid "Stylish applications menu applet."
+msgstr "스타일리시한 애플리케이션 메뉴 애플릿입니다."
+
+#: budgie-applets.html:278
+msgid "CPU Frequency Applet"
+msgstr "CPU 주파수 애플릿"
+
+#: budgie-applets.html:283
+msgid "Control the frequency of the processor (Sandy Bridge and newer)."
+msgstr "프로세서의 주파수를 조절합니다. (샌디브릿지 및 그 이후의 CPU 대상)"
+
+#: budgie-applets.html301, 370
+msgid "System Monitor Applet"
+msgstr "시스템 모니터 애플릿"
+
+#: budgie-applets.html:306
+msgid "Show frequency, ram, swap & network values."
+msgstr "CPU 주파수, 램, 스왑 메모리 및 네트워크의 값을 표시합니다."
+
+#: budgie-applets.html:324
+msgid "Pixel-Saver Applet"
+msgstr "Pixel Saver 애플릿"
+
+#: budgie-applets.html:329
+msgid ""
+"Hides the title bar from maximized windows and creates a new one inside the "
+"panel."
+msgstr "최대화된 창에서 제목 표시줄을 패널에 대신 표시합니다."
+
+#: budgie-applets.html:347
+msgid "Global Menu Applet"
+msgstr "전역 메뉴 애플릿"
+
+#: budgie-applets.html:352
+msgid "Moves the menu from applications into the panel."
+msgstr "애플리케이션 목록에 있는 메뉴를 패널로 옮깁니다."
+
+#: budgie-applets.html:375
+msgid "Customize and display system information on the panel."
+msgstr "패널에 시스템 정보를 표시합니다."
+
+#: budgie-applets.html:393
+msgid "Hotcorners Applet"
+msgstr "핫코너 애플릿"
+
+#: budgie-applets.html:398
+msgid ""
+"Allow user defined commands to be executed when the mouse cursor is pushed "
+"into a corner of the main desktop."
+msgstr "메인 데스크톱에서 마우스를 화면의 각 가장자리로 이동하면 사용자가 지정한 명령어를 실행합니다."
+
+#: budgie-applets.html:416
+msgid "Quicknote Applet"
+msgstr "빠른 노트 애플릿"
+
+#: budgie-applets.html:421
+msgid "Quickly record a text based note."
+msgstr "빠르게 텍스트 노트를 만듭니다."
+
+#: budgie-applets.html:439
+msgid "Previews"
+msgstr "미리보기"
+
+#: budgie-applets.html:444
+msgid "Show an overview of windows in an exposé like way."
+msgstr "잡지와 같은 방식으로 창들의 오버뷰를 표시합니다."
+
+#: budgie-applets.html:462
+msgid "Workspace Overview Applet"
+msgstr "작업 공간 오버뷰 애플릿"
+
+#: budgie-applets.html:467
+msgid "Quickly navigate workspaces using the applet's menu."
+msgstr "애플릿 메뉴를 이용하여 작업 공간을 빠르게 이동합니다."
+
+#: budgie-applets.html:485
+msgid "Workspace Wallpaper Applet"
+msgstr "작업 공간 배경화면 애플릿"
+
+#: budgie-applets.html:490
+msgid "Show a different wallpaper on each workspace."
+msgstr "각각의 작업 공간에 서로 다른 배경화면을 사용합니다."
+
+#: budgie-applets.html:508
+msgid "Window Mover Applet"
+msgstr "창 이동 애플릿"
+
+#: budgie-applets.html:513
+msgid "Quickly move windows between workspaces."
+msgstr "창을 다른 작업 공간으로 빠르게 이동시킵니다."
+
+#: budgie-applets.html:531
+msgid "Desktop Showtime Applet"
+msgstr "데스크톱 시간 애플릿"
+
+#: budgie-applets.html:536
+msgid "Display the date and time on the Desktop."
+msgstr "데스크톱에 날짜와 시간을 표시합니다."
+
+#: budgie-applets.html:554
+msgid "CountDown Applet"
+msgstr "카운트다운 애플릿"
+
+#: budgie-applets.html:559
+msgid "Set a timed countdown and run an action when the countdown completes."
+msgstr "카운트다운을 설정하고 카운트다운 종료 시 지정한 명령어를 실행합니다."
+
+#: budgie-applets.html:577
+msgid "Auto-Keyboard Switcher Applet"
+msgstr "자동 키보드 전환 애플릿"
+
+#: budgie-applets.html:582
+msgid "Change the keyboard language automatically on a per application basis."
+msgstr "애플리케이션에 따라 키보드의 언어를 자동으로 전환합니다."
+
+#: budgie-applets.html:600
+msgid "Screen Rotation Lock Applet"
+msgstr "화면 회전 고정 애플릿"
+
+#: budgie-applets.html:605
+msgid "Add the ability to unlock or lock the screen from rotating."
+msgstr "기기를 회전할 때 화면의 회전을 고정하거나 고정 해제합니다."
+
+#: budgie-applets.html:623
+msgid "Clockworks Applet"
+msgstr "추가 시간대 애플릿"
+
+#: budgie-applets.html:628
+msgid "Display the time across multiple time zones."
+msgstr "다양한 시간대의 현재 시간을 표시합니다."
+
+#: budgie-applets.html:646
+msgid "DropBy Applet"
+msgstr "USB 빠른 메뉴 애플릿"
+
+#: budgie-applets.html:651
+msgid "Display a pop-up window when a USB device is connected."
+msgstr "USB 기기를 연결했을 때 팝업 창을 표시합니다."
+
+#: budgie-applets.html:669
+msgid "Brightness Controller Applet"
+msgstr "밝기 조절 애플릿"
+
+#: budgie-applets.html:674
+msgid ""
+"Control the backlight via your graphics driver controller or GNOME's "
+"brightness controller."
+msgstr "사용자의 그래픽 드라이버 컨트롤러 또는 GNOME의 밝기 컨트롤러를 통해 백라이트를 조절합니다."
+
+#: budgie-applets.html:692
+msgid "Browser Profile Launcher Applet"
+msgstr "브라우저 프로파일 런처 애플릿"
+
+#: budgie-applets.html:697
+msgid "Launch and create multiple Chromium/Chrome profiles."
+msgstr "여러 개의 크로미움/크롬 프로파일을 실행하고 생성합니다."
+
+#: budgie-applets.html:715
+msgid "Find Fast 'Kangaroo' Applet"
+msgstr "빠른 찾기 '캥거루' 애플릿"
+
+#: budgie-applets.html:720
+msgid ""
+"Quick and easy browsing, across (possibly) many folder layers, without "
+"having to-do a single mouse click."
+msgstr "마우스 클릭 한 번 없이 (아마도) 수많은 폴더 레이어에 걸쳐 빠르고 쉽게 탐색할 수 있습니다."
+
+#: budgie-applets.html:738
+msgid "Weather and Forecast Applet"
+msgstr "날씨 및 예보 애플릿"
+
+#: budgie-applets.html:743
+msgid "Weather forecast every three hours and over five days."
+msgstr "3시간 간격으로 5일 기간의 날씨 예보를 표시합니다."
+
+#: budgie-applets.html:761
+msgid "Recently Used Applet"
+msgstr "최근 사용 애플릿"
+
+#: budgie-applets.html:766
+msgid "Show recently used items in a menu."
+msgstr "메뉴에 최근 사용한 항목을 표시합니다."
+
+#: budgie-applets.html:784
+msgid "Trash Applet"
+msgstr "휴지통 애플릿"
+
+#: budgie-applets.html:789
+msgid "Show, hide and restore trash items."
+msgstr "휴지통 항목을 표시하고, 숨기고, 복원합니다."
+
+#: budgie-applets.html:807
+msgid "Application Launcher Applet"
+msgstr "애플리케이션 런처 애플릿"
+
+#: budgie-applets.html:812
+msgid "Display your favorite applications in a menu and on the panel."
+msgstr "메뉴와 패널에 즐겨찾는 애플리케이션을 표시합니다."
+
+#: budgie-applets.html:830
+msgid "Take-A-Break Applet"
+msgstr "휴식 시간 애플릿"
+
+#: budgie-applets.html:835
+msgid ""
+"A pomodoro-like applet, to make sure you take regular breaks from working."
+msgstr "포모도로 앱처럼 사용자가 일정 시간마다 작업을 멈추고 휴식하게 해주는 애플릿입니다."
+
+#: budgie-applets.html:853
+msgid "Wallstreet"
+msgstr "월스트리트"
+
+#: budgie-applets.html:858
+msgid "WallStreet is a mini-app to switch wallpapers at a regular interval."
+msgstr "월스트리트는 일정 시간 간격으로 배경화면을 바꿔주는 미니앱입니다."
+
+#: budgie-applets.html:876
+msgid "Fuzzy-Clock Applet"
+msgstr "퍼지 시계 애플릿"
+
+#: budgie-applets.html:881
+msgid "Shows the time in a fuzzy way."
+msgstr "시간을 퍼지한 방식으로 표시합니다."
+
+#: budgie-applets.html:899
+msgid "Workspace Stopwatch"
+msgstr "작업 공간 스톱워치"
+
+#: budgie-applets.html:904
+msgid "Keep track of usage per workspace."
+msgstr "각 작업 공간 당 사용율을 로그에 기록합니다."
+
+#: budgie-applets.html:922
+msgid "Quick Character"
+msgstr "빠른 문자 찾기"
+
+#: budgie-applets.html:927
+msgid ""
+"Quickly find and choose the equivalent locale character for an ascii "
+"character."
+msgstr "어떤 ASCII 문자에 대응하는 로케일 문자를 빠르게 찾아 선택합니다."
+
+#: budgie-applets.html:945
+msgid "Status Notifier Tray Applet"
+msgstr "상태 알림 트레이 애플릿"
+
+#: budgie-applets.html:950
+msgid "System Tray in KDE StatusNotifierItem format."
+msgstr "KDE StatusNotifierItem 서식으로 된 시스템 트레이입니다."

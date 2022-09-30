@@ -1,0 +1,81 @@
+[main]
+host = https://www.transifex.com
+
+[o:ubuntu-budgie:p:budgie-welcome:r:budgie-applets]
+file_filter = data/po/budgie-applets/<lang>.po
+source_file = data/po/budgie-applets/budgie-applets.pot
+source_lang = en_US
+type        = PO
+
+[o:ubuntu-budgie:p:budgie-welcome:r:community]
+file_filter = data/po/community/<lang>.po
+source_file = data/po/community/community.pot
+source_lang = en_US
+type        = PO
+
+[o:ubuntu-budgie:p:budgie-welcome:r:default]
+file_filter = data/po/default/<lang>.po
+source_file = data/po/default/default.pot
+source_lang = en_US
+type        = PO
+
+[o:ubuntu-budgie:p:budgie-welcome:r:donate]
+file_filter = data/po/donate/<lang>.po
+source_file = data/po/donate/donate.pot
+source_lang = en_US
+type        = PO
+
+[o:ubuntu-budgie:p:budgie-welcome:r:features]
+file_filter = data/po/features/<lang>.po
+source_file = data/po/features/features.pot
+source_lang = en_US
+type        = PO
+
+[o:ubuntu-budgie:p:budgie-welcome:r:gaming]
+file_filter = data/po/gaming/<lang>.po
+source_file = data/po/gaming/gaming.pot
+source_lang = en_US
+type        = PO
+
+[o:ubuntu-budgie:p:budgie-welcome:r:getinvolved]
+file_filter = data/po/getinvolved/<lang>.po
+source_file = data/po/getinvolved/getinvolved.pot
+source_lang = en_US
+type        = PO
+
+[o:ubuntu-budgie:p:budgie-welcome:r:gettingstarted]
+file_filter = data/po/gettingstarted/<lang>.po
+source_file = data/po/gettingstarted/gettingstarted.pot
+source_lang = en_US
+type        = PO
+
+[o:ubuntu-budgie:p:budgie-welcome:r:index]
+file_filter = data/po/index/<lang>.po
+source_file = data/po/index/index.pot
+source_lang = en_US
+type        = PO
+
+[o:ubuntu-budgie:p:budgie-welcome:r:introduction]
+file_filter = data/po/introduction/<lang>.po
+source_file = data/po/introduction/introduction.pot
+source_lang = en_US
+type        = PO
+
+[o:ubuntu-budgie:p:budgie-welcome:r:recommendations]
+file_filter = data/po/recommendations/<lang>.po
+source_file = data/po/recommendations/recommendations.pot
+source_lang = en_US
+type        = PO
+
+[o:ubuntu-budgie:p:budgie-welcome:r:store]
+file_filter = data/po/store/<lang>.po
+source_file = data/po/store/store.pot
+source_lang = en_US
+type        = PO
+
+[o:ubuntu-budgie:p:budgie-welcome:r:ubuntubudgiewelcome]
+file_filter = po/<lang>.po
+source_file = po/budgie-welcome.pot
+source_lang = en_US
+type        = PO
+

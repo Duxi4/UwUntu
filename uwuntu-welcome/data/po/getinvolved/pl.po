@@ -1,0 +1,205 @@
+# 
+# Translators:
+# Sebastian Cygan <sebcyg@gmail.com>, 2017
+# roypen <roypen88@gmail.com>, 2019
+# Tomasz Janeczko, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: Tomasz Janeczko, 2022\n"
+"Language-Team: Polish (https://www.transifex.com/ubuntu-budgie/teams/72251/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: getinvolved.html:13
+msgid "Get Involved"
+msgstr "Zaangażuj się"
+
+#: getinvolved.html:17
+msgid "Thanks for Your Support"
+msgstr "Dziękujemy za Twoje wsparcie"
+
+#: getinvolved.html:18
+msgid ""
+"Ubuntu Budgie receives a great deal of support from its community of users "
+"and we would like to thank each and every contributor for participating. We "
+"are growing at a steady pace and our distribution is getting better every "
+"day thanks to you."
+msgstr ""
+"Ubuntu Budgie otrzymuje ogromne wsparcie od społeczności swoich "
+"użytkowników. Chcielibyśmy podziękować każdemu współtwórcy za udział. "
+"Rozwijamy się w stałym tempie, a dzięki Wam nasza dystrybucja jest coraz "
+"lepsza."
+
+#: getinvolved.html:19
+msgid ""
+"It is very easy to make a difference. Depending on your skill set, your "
+"availability you can help Ubuntu Budgie in one or more of the following "
+"ways:"
+msgstr ""
+"Bardzo łatwo jest dołączyć. W zależności od twoich umiejętności, możesz "
+"pomóc w rozwoju Ubuntu Budgie w jeden lub więcej następujących sposobów:"
+
+#: getinvolved.html:23
+msgid "Support &amp; Promotion"
+msgstr "Wsparcie i Promocja"
+
+#: getinvolved.html:24
+msgid "Spreading the word"
+msgstr "Rozpowszechnianie "
+
+#: getinvolved.html:25
+msgid ""
+"If you like Ubuntu Budgie, let people know. Blog, add comments in forums and"
+" talk about it with your friends and the people around you."
+msgstr ""
+"Jeśli lubisz Ubuntu Budgie, daj innym znać. Bloguj, dodawaj komentarze na "
+"forach i rozmawiaj o tym ze znajomymi i osobami w Twoim otoczeniu."
+
+#: getinvolved.html:27
+msgid "Joining the Community"
+msgstr "Dołączenie do społeczności"
+
+#: getinvolved.html:28
+msgid ""
+"Ubuntu Budgie isn't just an operating system, it's also a dynamic community "
+"of people who enjoy, gather, and interact with a free and open project. "
+"Whether it's by helping others sort through issues, by making them feel "
+"welcome, or simply by meeting and talking to other Ubuntu Budgie users, we "
+"recommend you join the community and participate in making Ubuntu Budgie "
+"better."
+msgstr ""
+
+#: getinvolved.html:30
+msgid "Helping others"
+msgstr "Pomaganie innym"
+
+#: getinvolved.html:31
+msgid ""
+"If you have some spare time and you're willing to help other users with "
+"technical problems, you should seriously consider reading the forums and/or "
+"joining the community chat-room and helping other Ubuntu Budgie users solve "
+"the problems you know how to fix."
+msgstr ""
+
+#: getinvolved.html:35
+msgid "Project contributions"
+msgstr "Zaangażowanie w projekt"
+
+#: getinvolved.html:36
+msgid "Bug reports"
+msgstr "Raportowanie błędów"
+
+#: getinvolved.html:37
+msgid ""
+"If you've noticed something that doesn't work properly while using Ubuntu "
+"Budgie, let us know. The problem you have discovered is likely to affect "
+"others as well; The sooner we know about it, the sooner we're able to fix "
+"it."
+msgstr ""
+"Jeśli zauważysz coś, co nie działa poprawnie podczas korzystania z Ubuntu "
+"Budgie, daj nam znać. Odkryty problem prawdopodobnie wpłynie również na "
+"doświadczenia innych; Im szybciej się o tym dowiemy, tym szybciej będziemy w"
+" stanie to naprawić."
+
+#: getinvolved.html:39
+msgid "New ideas"
+msgstr "Nowe pomysły"
+
+#: getinvolved.html:40
+msgid ""
+"The vast majority of improvements included in each release come from the "
+"community. If there's something that you think is missing or that could be "
+"done better, please tell us. Whether it's the inclusion of a missing "
+"software application that should be part of a stock installation or if you "
+"have any other ideas on how to make Ubuntu Budgie better, we're always "
+"interested in hearing them."
+msgstr ""
+"Zdecydowana większość ulepszeń zawartych w każdym wydaniu pochodzi od "
+"społeczności. Jeśli uważasz, że czegoś brakuje lub co można zrobić lepiej, "
+"poinformuj nas o tym. Niezależnie od tego, czy chodzi o włączenie brakującej"
+" aplikacji, która powinna być częścią podstawowej instalacji, czy też masz "
+"inne pomysły na ulepszenie Ubuntu Budgie, zawsze jesteśmy zainteresowani "
+"wysłuchaniem Twoich pomysłów."
+
+#: getinvolved.html:42
+msgid "Artwork"
+msgstr "Grafika"
+
+#: getinvolved.html:43
+msgid ""
+"If you are talented in graphic design and willing to contribute to the "
+"project, please send us your creations and artwork. Whether it's a simple "
+"wallpaper, an icon set, a splash screen, or even a new logo, we're always "
+"interested to hear from you about new artwork."
+msgstr ""
+"Jeżeli posiadasz talent do projektowania grafiki i chciałbyś zaangażować się"
+" w projekt, to wyślij nam swoje przykładowe prace graficzne. Niezależnie czy"
+" będzie to prosta tapeta, pakiet ikon, ekran powitalny, czy może logo - "
+"jesteśmy zawsze otwarci i zainteresowani."
+
+#: getinvolved.html:45
+msgid "Code"
+msgstr "Kodowanie"
+
+#: getinvolved.html:46
+msgid ""
+"Most of our development is done in GTK+3, C++, Vala, Python and HTML5/CSS. "
+"We also use Git for version control and .deb for packaging. If you're "
+"comfortable with any of these technologies, don't hesitate to have a look at"
+" the code. If you think you can improve our applications or write new ones "
+"don't hesitate to suggest patches or to fork our git repositories."
+msgstr ""
+"Większa część  systemu została napisana w GTK+3, C++, Vala, Python i "
+"HTML5/CSS. Do kontroli wersji używamy systemu Git, zaś do obsługi pakietów "
+"formatu .deb. Jeżeli czujesz się swobodnie w tych technologiach, nie zwlekaj"
+" ze spojrzeniem na kod. Jeżeli uważasz, że możesz usprawnić działanie "
+"naszych aplikacji lub napisać nową, to śmiało zasugeruj aktualizację lub "
+"forkuj nasze repozytorium git."
+
+#: getinvolved.html:47
+msgid ""
+"Upstream to us is budgie-desktop. Created by BuddiesOfBudgie, they are "
+"looking for developers - so please help if you can."
+msgstr ""
+
+#: getinvolved.html:51
+msgid ""
+"It appears you are not connected to the Internet. Please check your "
+"connection to access this content."
+msgstr ""
+"Prawdopodobnie nie jesteś podłączony do internetu. Sprawdź połączenie, aby "
+"uzyskać dostęp do tych treści."
+
+#: getinvolved.html:52
+msgid "Sorry, Welcome was unable to establish a connection."
+msgstr "Przepraszamy, nie możemy w tej chwili nawiązać połączenia."
+
+#: getinvolved.html:53
+msgid "Retry"
+msgstr "Ponów"
+
+#: getinvolved.html:76
+msgid "Budgie Desktop GitHub"
+msgstr "Budgie Desktop GitHub"
+
+#: getinvolved.html:83
+msgid ""
+"Also, we have published a complete list of available opportunities on our "
+"website. Please feel free to visit our website and find out in which way you"
+" can contribute to our mission."
+msgstr ""
+"Na naszej stronie internetowej opublikowaliśmy dodatkowe możliwości "
+"zaangażowania w projekt. Zapraszamy do jej odwiedzenia, aby dowiedzieć się, "
+"w jaki sposób możesz przyłączyć się do naszej misji."
+
+#: getinvolved.html:88
+msgid "Opportunities"
+msgstr "Możliwości"

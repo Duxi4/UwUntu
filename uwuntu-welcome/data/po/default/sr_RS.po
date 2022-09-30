@@ -1,0 +1,120 @@
+# 
+# Translators:
+# Nikola Stojic <nikolas@grindam.com>, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-22 21:33+0000\n"
+"Last-Translator: Nikola Stojic <nikolas@grindam.com>, 2020\n"
+"Language-Team: Serbian (Serbia) (https://www.transifex.com/ubuntu-budgie/teams/72251/sr_RS/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sr_RS\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: default.html:14
+msgid "Budgie Themes & Layouts"
+msgstr "Budgie Teme i Izgledi"
+
+#: default.html18, 29
+msgid "Switch Appearance"
+msgstr "Promeni Izgled"
+
+#: default.html21, 467
+msgid "Desktop Layout"
+msgstr "Izgled i oblik radne površine"
+
+#: default.html:30
+msgid ""
+"There are several additional Budgie Desktop compatible themes available. "
+"Budgie Welcome provides a simple method to switch your desktop appearance "
+"(theme, fonts, icons, desktop wallpaper)."
+msgstr ""
+"Postoji nekoliko dodatnih tema kompatibilnih sa Budgie Desktop-om. Budgie "
+"Welcome omogućava da jednostavno promenite izgled vašeg desktopa (temu, "
+"font, ikone, sliku radne površine)."
+
+#: default.html45, 80, 114, 148, 182, 219, 253, 289, 324, 360, 397, 433
+msgid "Install"
+msgstr "Instaliraj"
+
+#: default.html51, 58, 85, 92, 119, 126, 153, 160, 187, 194, 224, 231, 259,
+#: 266, 294, 301, 330, 337, 366, 373, 403, 410, 439, 446
+msgid "Apply makeover"
+msgstr "Primeni promenu"
+
+#: default.html60, 94, 128, 162, 196, 233, 268, 303, 339, 375, 412, 448
+msgid "Apply theme"
+msgstr "Upotrebi temu"
+
+#: default.html61, 95, 129, 163, 197, 234, 269, 304, 340, 376, 413, 449
+msgid "Apply fonts"
+msgstr "Primeni fontove"
+
+#: default.html62, 96, 130, 164, 198, 235, 270, 305, 341, 377, 414, 450
+msgid "Apply icons"
+msgstr "Primeni ikone"
+
+#: default.html63, 97, 131, 165, 199, 236, 271, 306, 342, 378, 415, 451
+msgid "Make desktop changes"
+msgstr "Napravi promene desktopa"
+
+#: default.html69, 103, 137, 171, 205, 242, 278, 313, 349, 385, 422, 458, 491,
+#: 511, 531, 551, 571, 591, 611, 631, 649
+msgid "Applying Changes..."
+msgstr "Primena Izmena..."
+
+#: default.html:211
+msgid "Arc Design"
+msgstr "Arc Dizajn"
+
+#: default.html:247
+msgid "Material Design (Adapta)"
+msgstr "Materijalni Dizajn (Adapta)"
+
+#: default.html:283
+msgid "Material Design (Vimix)"
+msgstr "Materijalni Dizajn (Vimix)"
+
+#: default.html:318
+msgid "Material Design (Materia)"
+msgstr "Materijalni Dizajn (Materia)"
+
+#: default.html:468
+msgid "Switch the layout of your desktop to suit your workflow."
+msgstr "Promenite izgled vašeg dekstopa da odgovara vašeg radnom procesu. "
+
+#: default.html482, 502, 522, 542, 562, 582, 602, 622
+msgid "Install layout"
+msgstr "Instaliraj izgled"
+
+#: default.html486, 506, 526, 546, 566, 586, 606, 626
+msgid "Apply layout"
+msgstr "Primeni izgled"
+
+#: default.html:642
+msgid "Restore panels"
+msgstr "Vrati panele"
+
+#: default.html:643
+msgid ""
+"Lost your panels while playing with Ubuntu Budgie? Unhappy with your changes"
+" to the panel layout? Don't worry. We can help you to restore your panels "
+"with a single click!"
+msgstr ""
+
+#: default.html:646
+msgid ""
+"This will undo all changes that you have made on any panel and will reset "
+"back to the initial default panel layout configuration."
+msgstr ""
+"Ovo će poništiti sve izmene koje ste napravili na bilo kom panelu i "
+"resetovaće panele i izgled na fabričku konfiguraciju."
+
+#: default.html:650
+msgid "Reset Budgie Panel"
+msgstr "Resetuj Budgie Panel"

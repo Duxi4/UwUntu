@@ -1,0 +1,389 @@
+# 
+# Translators:
+# Miquel Escarrà <quelet@gmail.com>, 2018
+# Davidmp <medipas@gmail.com>, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: Davidmp <medipas@gmail.com>, 2022\n"
+"Language-Team: Catalan (https://www.transifex.com/ubuntu-budgie/teams/72251/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: introduction.html:13
+msgid "Introduction"
+msgstr "Introducció"
+
+#: introduction.html:20
+msgid "Simplicity and Elegance."
+msgstr "Simplicitat i elegància."
+
+#: introduction.html24, 96
+msgid "What is Ubuntu Budgie?"
+msgstr "Què és l'Ubuntu Budgie?"
+
+#: introduction.html:39
+msgid ""
+"Ubuntu Budgie is an operating system -- the core software that runs your "
+"computer, similar to:"
+msgstr ""
+"L'Ubuntu Budgie és un sistema operatiu: el programari bàsic que executa el "
+"vostre ordinador, semblant a"
+
+#: introduction.html:42
+msgid "Microsoft's Windows"
+msgstr "Microsoft Windows"
+
+#: introduction.html:44
+msgid "Apple's macOS"
+msgstr "macOS d'Apple"
+
+#: introduction.html:44
+msgid "and"
+msgstr "i"
+
+#: introduction.html:46
+msgid "Google's Chrome OS"
+msgstr "Chrome OS de Google"
+
+#: introduction.html:48
+msgid ""
+"Ubuntu Budgie is a distribution (variation) of GNU/Linux. A dependable, "
+"secure, capable, and modern computer system that rivals all others in "
+"popularity and actual use."
+msgstr ""
+"L'Ubuntu Budgie és una distribució (variació) de GNU/Linux. Un sistema "
+"informàtic fiable, segur, capaç i modern que rivalitza amb tots els altres "
+"en popularitat i ús real."
+
+#: introduction.html:51
+msgid "Unlike other operating systems, Linux is a major one used:"
+msgstr ""
+"A diferència d'altres sistemes operatius, Linux s'utiltiza preferentment:"
+
+#: introduction.html:53
+msgid "on most of the world's fastest and most powerful supercomputers"
+msgstr "a la majoria dels superordinadors més ràpids del món"
+
+#: introduction.html:55
+msgid ""
+"on many of (if not most of) the computers that make up the backbone of "
+"Internet"
+msgstr ""
+"en molts, si no en la majoria, d'ordinadors que componen la columna "
+"vertebral d'Internet"
+
+#: introduction.html:57
+msgid "on corporate servers that require stability and reliability"
+msgstr "en servidors corporatius que demanen estabilitat i fiabilitat"
+
+#: introduction.html:62
+msgid ""
+"Ubuntu Budgie is a stable, easy-to-use operating system with a configurable "
+"desktop environment. It is ideal for those who want the most out of their "
+"computers and prefer a traditional desktop metaphor. With modest hardware "
+"requirements, it is suitable for modern desktops and laptops alike."
+msgstr ""
+"L'Ubuntu Budgie és un sistema operatiu estable i fàcil d'usar, amb un entorn"
+" d'escriptori configurable. És ideal per als que volen el màxim profit dels "
+"ordinadors i prefereixen una metàfora tradicional d'escriptori. Amb "
+"requisits de maquinari modestos, és adequat tant per a ordinadors de "
+"sobretaula com per a portàtils moderns."
+
+#: introduction.html:69
+msgid ""
+"The operating system is more secure, and better supported than the operating"
+" system pre-installed on most home computer hardware today."
+msgstr ""
+"El sistema operatiu és més segur, i té més atencions que el sistema operatiu"
+" preinstal·lat en la majoria dels ordinadors personals d'avui dia."
+
+#: introduction.html:73
+msgid ""
+"Using Ubuntu Budgie provides you with the freedom to run a complete, full-"
+"featured operating system, pre-configured with most (if not all) of the "
+"applications you will need for your daily computing. Change anything about "
+"the way it looks, the way it works, or the applications it runs to suit your"
+" taste."
+msgstr ""
+"L'ús de l'Ubuntu Budgie us ofereix la llibertat d'executar un sistema "
+"operatiu complet i amb totes les funcions, preconfigurat amb la majoria (si "
+"no totes) de les aplicacions que necessitareu per a la informàtica diària. "
+"Canvieu qualsevol cosa sobre l'aspecte, la manera de funcionar o les "
+"aplicacions que executa segons el vostre gust."
+
+#: introduction.html:83
+msgid "Objectives"
+msgstr "Objectius"
+
+#: introduction.html:84
+msgid "Ubuntu Budgie has a number of guiding objectives and goals:"
+msgstr "L'Ubuntu Budgie té una sèrie d'objectius i metes orientadores:"
+
+#: introduction.html:86
+msgid "Accessible to all, regardless of language and physical ability."
+msgstr ""
+"Accessible a tothom, independentment de l'idioma i les habilitats físiques."
+
+#: introduction.html:87
+msgid "Increase both Ubuntu and Budgie desktop user adoption."
+msgstr ""
+"Millora la familiarització de l'usuari amb ambdós escriptoris: Ubuntu i "
+"Budgie."
+
+#: introduction.html:88
+msgid ""
+"Create a Ubuntu based distro for users who prefer a traditional desktop "
+"metaphor."
+msgstr ""
+"Crea una distribució basada en Ubuntu per a usuaris que prefereixen un model"
+" d'escriptori tradicional."
+
+#: introduction.html:89
+msgid ""
+"When possible contribute to Upstream projects such as BuddiesofBudgie and "
+"Debian so all Linux communities benefit."
+msgstr ""
+"Quan sigui possible, contribuïu a projectes Upstream com ara BuddiesofBudgie"
+" i Debian perquè totes les comunitats Linux se'n beneficiïn."
+
+#: introduction.html:90
+msgid ""
+"Software selection will favor functionality and stability over lightness and"
+" whimsy."
+msgstr ""
+"La selecció de programari preferirà la funcionalitat i l'estabillitat per "
+"sobre de la lleugeresa o les solucions capricioses."
+
+#: introduction.html:100
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: introduction.html:107
+msgid ""
+"<a onclick=\"cmd('link?https://www.ubuntu.com')\">Ubuntu</a> is one of, if "
+"not the, largest deployed <a "
+"onclick=\"cmd('link?https://en.wikipedia.org/wiki/Linux')\">Linux</a> based "
+"desktop operating systems in the world. Linux is at the heart of Ubuntu and "
+"makes it possible to create secure, powerful and versatile operating "
+"systems, such as Ubuntu and <a "
+"onclick=\"cmd('link?https://www.android.com/')\"> Android</a>. Android is "
+"now in the hands of billions of people around the world and it's also "
+"powered by Linux."
+msgstr ""
+"L'<a onclick=\"cmd('link?https://www.ubuntu.com')\">Ubuntu</a> és un dels "
+"sistemes operatius d'escriptori basats en <a "
+"onclick=\"cmd('link?https://en.wikipedia.org/wiki/Linux')\">Linux</a> amb "
+"més desplegament, si no el més gran del món. Linux és el cor d'Ubuntu i "
+"permet crearsistemes operatius segurs, potents i versàtils, com ara l'Ubuntu"
+" i l'<a onclick=\"cmd('link?https://www.android.com/')\">Android</a>. "
+"L'Android està ara en mans de milers de milions de persones a tot el món i "
+"també funciona amb Linux."
+
+#: introduction.html:117
+msgid ""
+"Ubuntu is available in a number of different <em>flavors</em>, each coming "
+"with its own desktop environment. Ubuntu Budgie takes the Ubuntu base "
+"operating system and adds the <a "
+"onclick=\"cmd('link?https://github.com/buddiesofbudgie/budgie-"
+"desktop/')\">Budgie desktop</a>."
+msgstr ""
+"Ubuntu està disponible en diverses <em>variants</em>, cadascuna amb el seu "
+"entorn d'escriptori. L'Ubuntu Budgie agafa el sistema operatiu base d'Ubuntu"
+" i hi afegeix l'escriptori <a "
+"onclick=\"cmd('link?https://github.com/buddiesofbudgie/budgie-"
+"desktop/')\">Budgie</a>."
+
+#: introduction.html:126
+msgid "Budgie Desktop"
+msgstr "Escriptori Budgie"
+
+#: introduction.html:133
+msgid "Wikipedia says that a"
+msgstr "A Wikipedia llegireu que un"
+
+#: introduction.html:135
+msgid "Desktop Environment"
+msgstr "entorn d'escriptori"
+
+#: introduction.html:135
+msgid "is:"
+msgstr "és:"
+
+#: introduction.html:137
+msgid ""
+"\"An implementation of the desktop metaphor made of a bundle of programs "
+"running on top of a computer operating system, which share a common "
+"graphical user interface (GUI). Desktop GUIs help the user to easily access "
+"and edit files.\""
+msgstr ""
+"\"un conjunt de paquets de programari per a oferir a l'usuari un ordinador "
+"amb una interfície gràfica. Així l'usuari té una manera de gestionar "
+"l'ordinador més còmoda que en la línia d'ordres.\" "
+
+#: introduction.html:147
+msgid "Ubuntu Budgie comes with a lot of useful applications like"
+msgstr "L'Ubuntu Budgie ve amb moltes aplicacions útils com ara"
+
+#: introduction.html:162
+msgid "GNOME Software"
+msgstr "Programari GNOME"
+
+#: introduction.html:167
+msgid "File Manager"
+msgstr "Gestor de fitxers"
+
+#: introduction.html:168
+msgid "Web Browser"
+msgstr "Navegador Web"
+
+#: introduction.html:169
+msgid "Office Suite"
+msgstr "Paquet d'ofimàtica"
+
+#: introduction.html:170
+msgid "Software Store"
+msgstr "Magatzem de programari"
+
+#: introduction.html:171
+msgid "Music Player"
+msgstr "Reproductor de música"
+
+#: introduction.html:175
+msgid "All of which are highly customisable and managed via"
+msgstr "Tot el programari es pot personalitzar i gestionar via"
+
+#: introduction.html:178
+msgid "Settings"
+msgstr "les Preferències"
+
+#: introduction.html:178
+msgid "Budgie Control Center"
+msgstr "Centre de control del Budgie"
+
+#: introduction.html:180
+msgid ""
+"Budgie desktop provides an intuitive and attractive desktop environment "
+"using traditional metaphors, which means if you've ever used"
+msgstr ""
+"L'escriptori Budgie proporciona un entorn intuïtiu i atractiu en un model "
+"tradicional, cosa que vol dir que si heu utilitzat"
+
+#: introduction.html:184
+msgid "or"
+msgstr "o "
+
+#: introduction.html:187
+msgid "it will feel very familiar."
+msgstr "el trobareu mol familiar."
+
+#: introduction.html:193
+msgid "Open Source"
+msgstr "Codi obert"
+
+#: introduction.html:200
+msgid ""
+"What Linux, Ubuntu and Budgie desktop all have in common is they are Open "
+"Source. This software can be freely used, changed, and shared (in modified "
+"or unmodified form) by anyone. In a nutshell Ubuntu Budgie is free, in the "
+"truest sense of the word."
+msgstr ""
+"El que tenen en comú l'escriptori Budgie, Ubuntu i Linux és que són de codi "
+"obert. Aquest programari pot ser usat, canviat i compartit lliurement (de "
+"forma modificada o sense modificar) per qualsevol persona. En poques "
+"paraules, l'Ubuntu Budgie és gratuït, en el sentit més veritable de la "
+"paraula."
+
+#: introduction.html:206
+msgid ""
+"Although you will find some distributions (variations) of Linux for "
+"purchase, the vast majority are provided free of charge, like Ubuntu Budgie."
+" The distribution is licensed in a way that allows anyone to give it away "
+"for free, with no strings attached. For example, the licence gives any "
+"member of the user community the freedom to use Linux for any purpose, to "
+"distribute, modify, redistribute, or even sell the operating system. If you "
+"do modify and then redistribute Linux with your modifications, you are "
+"required by the licence to submit your modifications for possible inclusion "
+"into future versions. There is no guarantee that this will ever happen, but "
+"if you have made it better, then your changes just might be included in the "
+"next release of Ubuntu Budgie."
+msgstr ""
+"Tot i que trobareu algunes distribucions (variacions) de Linux per comprar, "
+"la gran majoria es proporciona de manera gratuïta, com ara l'Ubuntu Budgie. "
+"La distribució té una llicència que permet que qualsevol pugui oferir-la "
+"gratuïtament, sense cap compromís. Per exemple, la llicència dóna a "
+"qualsevol membre de la comunitat d'usuaris la llibertat d'usar Linux per a "
+"qualsevol propòsit, de distribuir-lo, modificar-lo, redistribuir-lo o fins i"
+" tot vendre el sistema operatiu. Si el modifiqueu i després redistribuïu "
+"Linux amb les vostres modificacions, la llicència us demana que envieu les "
+"vostres modificacions per a una possible inclusió en futures versions. No hi"
+" ha cap garantia que això succeeixi mai, però si ho heu millorat, els "
+"vostres canvis podrien incloure's a la propera versió d'Ubuntu Budgie."
+
+#: introduction.html:221
+msgid ""
+"Many of the users of Linux are corporations that use the operating system to"
+" run their businesses, or include it within their products. Many of these "
+"corporations provide fixes and new features for Linux as they use the "
+"software for their businesses."
+msgstr ""
+"Molts usuaris de Linux són entitats que fan servir el sistema operatiu pels "
+"seus negocis, o l'inclouen amb els seus productes. Moltes d'aquestes "
+"entitats proporcionen millores i característiques noves a Linux perquè els "
+"apliquen als seus negocis."
+
+#: introduction.html:227
+msgid "These improvements are given back"
+msgstr "Aquestes millores retornen"
+
+#: introduction.html:228
+msgid ""
+"to the Linux community and Ubuntu Budgie improves as a result. This is how "
+"we can continually improve and grow without having to charge our users "
+"money."
+msgstr ""
+"a la comunitat Linux i Ubuntu Budgie millora com a resultat. Així és com "
+"podem millorar i créixer contínuament sense haver de cobrar diners als "
+"nostres usuaris."
+
+#: introduction.html:232
+msgid ""
+"Unlike Windows and OS X, Linux is not created and supported by just one "
+"company. It is supported by Intel, Redhat, Linaro, Samsung, IBM, SUSE, Texas"
+" Instruments, Google, Canonical, Oracle, AMD, and Microsoft. Over 4,000 "
+"developers contributed to Linux over the last 15 years."
+msgstr ""
+"A diferència de Windows i OS X, Linux no s'ha creat i mantingut només per "
+"una companyia. Hi donen suport Intel, Redhat, Linaro, Samsung, IBM, SUSE, "
+"Texas Instruments, Google, Canonical, Oracle, AMD i Microsoft. Cap a 4.000 "
+"desenvolupadors hi han contribuït aquests darrers 15 anys."
+
+#: introduction.html:238
+msgid ""
+"Whether you are a home user of Ubuntu Budgie, a Ubuntu Budgie software or "
+"application developer, or an employee of an organization that uses the "
+"operating system, you are a member of the Linux and Open Source communities "
+"and benefit from the efforts of the developers who contribute to Ubuntu "
+"Budgie and its related projects: Linux, Budgie desktop, and Ubuntu. Members "
+"of the community run Linux on almost any hardware, from the prettiest "
+"Macbook to the cheapest netbook, from the newest Chromebook to some very old"
+" machines designed for Windows, and from the most powerful Internet servers "
+"to the smallest smart thermostat."
+msgstr ""
+"Tant si sou un usuari domèstic d'Ubuntu Budgie, un programari d'Ubuntu "
+"Budgie o un desenvolupador d'aplicacions, o un empleat d'una organització "
+"que usa el sistema operatiu, sou membre de les comunitats Linux i de codi "
+"obert i us beneficieu dels esforços dels desenvolupadors que contribueixen a"
+" l'Ubuntu Budgie i els seus projectes relacionats: Linux, escriptori Budgie "
+"i Ubuntu. Els membres de la comunitat fan servir Linux amb gairebé qualsevol"
+" maquinari, des del Macbook més bonic fins al portàtil petit més barat, des "
+"del Chromebook més recent fins a algunes màquines molt antigues dissenyades "
+"per a Windows, i des dels servidors d'Internet més potents fins al termòstat"
+" intel·ligent més petit."

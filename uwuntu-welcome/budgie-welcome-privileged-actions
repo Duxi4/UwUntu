@@ -1,0 +1,247 @@
+#!/usr/bin/python3
+# -*- coding:utf-8 -*-
+#
+# Copyright 2016 Ubuntu Mate
+# Copyright 2016-2020 Ubuntu Budgie Developers
+#
+# budgie-welcome is free software: you can redistribute it and/or modify
+# it under the temms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# Ubuntu Budgie welcome is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with Ubuntu Budgie welcome. If not, see <http://www.gnu.org/licenses/>.
+#
+import subprocess
+import sys
+import json
+from softwareproperties.SoftwareProperties \
+  import SoftwareProperties, shortcut_handler
+import aptsources
+try:
+    import distro
+except:
+    import platform
+import glob
+
+'''
+ Should replace apt command with python-apt module.
+'''
+
+def check_if_installed_source(release_code, source_name):
+
+    source_part = source_name[4:]
+    for file in glob.glob("/etc/apt/sources.list/*.list"):
+        with open (file) as f:
+            for line in f:
+                if source_part in line and line.startswith("deb"):
+                    return True
+
+    with open ('/etc/apt/sources.list') as f:
+        for line in f:
+            if line.startswith(source_name):
+                return True
+
+    return False
+
+
+def check_if_installed_ppa(release_code, ppa_name):
+    found = False
+
+    # check if first three letters is "deb" or "ppa"
+    # deb can be found in both /etc/apt/sources.list as well as
+    # in /etc/apt/sources.list.d
+
+
+    if ppa_name.startswith("deb"):
+        return check_if_installed_source(release_code, ppa_name)
+
+    # for the first element of the codename (e.g. zesty)
+    # repo split by the / character to get an array
+    # first element is the ppa organisation and second
+    # is the ppa name
+    ppa = ppa_name[4:].split('/')
+
+    filename = ppa[0] + "-ubuntu-" + ppa[1] + "-" + \
+        release_code + ".list"
+    filename = '/etc/apt/sources.list.d/' + filename
+
+    p = subprocess.Popen(['grep', '^deb\ http', filename])
+
+    retval = p.wait()
+
+    if retval == 0:
+        found = True
+
+    return found
+
+def get_release_code():
+    release_code = ""
+    try:
+        release_code = distro.codename().split(' ')[0].lower()
+    except:
+        release_code = platform.dist()[2]  # → trusty, wily, xenial
+
+    return release_code
+
+def add_repos(repos, key_commands):
+
+    if not repos: return 0
+
+    release_code = get_release_code()
+
+    if "all" in repos : repos = repos["all"]
+    else : repos = repos.get(release_code)
+
+    # possibly repo is not required for this release
+    if not repos: return 0
+
+    sp = SoftwareProperties()
+
+    force_update = False
+
+    for repo in repos:
+        # check if its a component that should be added/removed
+        aptdistro = aptsources.distro.get_distro()
+        aptdistro.get_sources(sp.sourceslist)
+        components = [comp.name for comp in aptdistro.source_template.components]
+
+        if repo in components:
+            if repo not in aptdistro.enabled_comps:
+                force_update = True
+                aptdistro.enable_component(repo)
+        else:
+            if check_if_installed_ppa( release_code, repo ) == False:
+                sp.add_source_from_shortcut(shortcut_handler(repo))
+                force_update = True
+    sp.sourceslist.save()
+
+    if key_commands:
+        for key_command in key_commands:
+            subprocess.call(key_command, shell=True)
+
+    if force_update:
+        p = subprocess.Popen(['apt', 'update'])
+
+        return p.wait()
+
+    return False
+
+def install(fname, code):
+    info = pdata.getPackageInfo(fname, code)
+    repos = info.get("repos")
+    snaps = info.get("snap")
+    packages = info.get("packages")
+    excludes = info.get("excludes")
+    key_commands = info.get("key-commands")
+    retval = 0
+
+    if snaps and len(snaps) > 0:
+        # we are dealing with snap installs
+        for snap in snaps:
+            process = subprocess.Popen(['snap', 'install', snap])
+            retval += process.wait()
+        return retval
+
+    # we are dealing with repo and package installs
+    retval = add_repos(repos, key_commands)
+
+    if excludes != None:
+        for exclude in excludes:
+            packages.append(exclude + '-')
+
+    if packages:
+        process = subprocess.Popen(['apt', 'install', '--allow-unauthenticated', '-y'] + packages)
+        retval += process.wait()
+
+        if retval != 0:
+            process = subprocess.Popen(['apt', 'update'])
+            retval = process.wait()
+            process = subprocess.Popen(['apt', 'install', '--allow-unauthenticated', '-y'] + packages)
+            retval += process.wait()
+
+    return retval
+
+def remove(fname, code):
+    info = pdata.getPackageInfo(fname, code)
+    snaps = info.get("snap")
+    retval = 0
+
+    if snaps and len(snaps) > 0:
+        # we are dealing with snap removals
+        for snap in snaps:
+            process = subprocess.Popen(['snap', 'remove', snap])
+            retval += process.wait()
+
+        return retval
+
+    # we are dealing with package removals
+    packages = info["packages"]
+
+    process = subprocess.Popen(['apt', 'remove', '-y'] + packages)
+
+    retval = process.wait()
+
+    return retval
+
+def run_script(fname, code):
+
+    process = subprocess.Popen(['sh', fname, code])
+
+    retval = process.wait()
+
+    return retval
+
+class PackageData(object):
+
+    def __init__(self, json_path):
+        # app._data_path + "/config/packages.json"
+        with open(json_path) as file:
+            self.data = json.load(file)
+
+    def getPackageInfo(self, filename, code):
+        release_code = get_release_code()
+        full_code = code + "#" + release_code
+        try:
+            if full_code in self.data[filename]:
+                return self.data[filename][full_code]
+
+            return self.data[filename][code]
+        except KeyError as e:
+            print(e)
+            return None
+
+if __name__ == "__main__":
+    '''
+        args[1]  action to perform (INSTALL/REMOVE/SCRIPT)
+        args[2]  file name in which package is listed
+        args[3]  code name for package
+        args[4]  path to json file containing package details
+    '''
+
+    args = sys.argv
+
+    if len(args) < 5:
+        print("Expected arguments not found")
+        sys.exit(-1)
+
+    action = args[1]
+    fname = args[2]
+    code = args[3]
+    json_path = args[4]
+
+    if action == 'INSTALL':
+        pdata = PackageData(json_path)
+        retval = install(fname, code)
+    elif action == 'REMOVE':
+        pdata = PackageData(json_path)
+        retval = remove(fname, code)
+    elif action == 'SCRIPT':
+        # fname -> script name, code -> requires root privilege?
+        retval = run_script(fname, code)
+    sys.exit(retval)

@@ -1,0 +1,17 @@
+how to get set an applet setting
+
+gsettings set com.solus-project.budgie-menu:/com/solus-project/budgie-panel/instance/budgie-menu/{636b5915-4ce8-11e7-ab98-08002760db7d}/ enable-menu-label true
+
+"instance/budgie-menu" - found that by looking at the source code
+
+{636b5915-4ce8-11e7-ab98-08002760db7d} 
+
+more complicated - have to get the panel applets key value that is an array
+
+then test each array element in budgie-panel - applets - {keyvalue element} name "Budgie Menu" - 
+if it matches the {keyvalue element} is used for the gsettings value above
+ 
+windows 7: roll over should be on
+compact off
+menu label off
+show headers on

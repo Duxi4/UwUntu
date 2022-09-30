@@ -1,0 +1,116 @@
+# 
+# Translators:
+# 5bd67516dadc85136e0fddcac45f0b6d_e8e2c3e <e12cf6b66acd8ee74b5c15e721f407e5_589667>, 2017
+# Muhammed Yasin Özsaraç (Harnapazade) <myasinozsarac@gmail.com>, 2017
+# Emre JILTA <jilta.e@gmail.com>, 2018
+# Bengünur <bengunur2@gmail.com>, 2021
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: Bengünur <bengunur2@gmail.com>, 2021\n"
+"Language-Team: Turkish (https://www.transifex.com/ubuntu-budgie/teams/72251/tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: community.html:15
+msgid "Community"
+msgstr "Topluluk"
+
+#: community.html:20
+msgid "Get Support"
+msgstr "Yardım Alın"
+
+#: community.html:21
+msgid ""
+"To get support for Ubuntu Budgie specific issues, the Ubuntu Budgie "
+"Discourse website is the best place to go. You can raise issues and help "
+"other members of our growing community."
+msgstr ""
+
+#: community.html:25
+msgid ""
+"It appears you are not connected to the Internet. Please check your "
+"connection to access this content."
+msgstr ""
+"İnternet'e bağlı olmadığınız anlaşılıyor. Lütfen bu içeriğe erişmek için "
+"bağlantınızı kontrol edin."
+
+#: community.html:28
+msgid "Sorry, Welcome was unable to establish a connection."
+msgstr "Üzgünüz, Hoşgeldiniz Uygulaması bağlantı kuramadı."
+
+#: community.html:31
+msgid "Retry"
+msgstr "Yeniden Dene"
+
+#: community.html:40
+msgid ""
+"An alternative way to get in touch is via our official IRC (Internet Relay "
+"Chat) channel."
+msgstr ""
+"İletişim kurmanın alternatif bir yolu resmi IRC (Internet Relay Chat) "
+"kanalımızdır."
+
+#: community.html:42
+msgid ""
+"If you disconnect from the channel you will not receive a notification of "
+"any reply. So either leave an IRC session open - or we recommend connecting "
+"to all ubuntu IRC channels via an IRC bouncer."
+msgstr ""
+"Kanal bağlantısını keserseniz herhangi bir cevap bildirimi alamazsınız. Ya "
+"bir IRC oturumunu açık bırakın - ya da bir IRC bouncer kullanarak tüm ubuntu"
+" IRC kanallarına bağlanmanızı öneririz."
+
+#: community.html:48
+msgid "#ubuntu-budgie on Libera Chat"
+msgstr "#ubuntu-budgie Libera Sohbetinde"
+
+#: community.html:57
+msgid "Forum"
+msgstr "Forum"
+
+#: community.html:58
+msgid ""
+"You can also get support for Ubuntu Budgie through these official Ubuntu "
+"forums:"
+msgstr ""
+
+#: community.html:69
+msgid "Social Networks"
+msgstr "Sosyal Ağlar"
+
+#: community.html:70
+msgid "Ubuntu Budgie is active on the following social networks."
+msgstr ""
+
+#: community.html:80
+msgid "Facebook Group"
+msgstr "Facebook Grubu"
+
+#: community.html:83
+msgid "Facebook Page"
+msgstr "Facebook Sayfası"
+
+#: community.html:114
+msgid "Local Communities"
+msgstr "Yerel Topluluklar"
+
+#: community.html:115
+msgid ""
+"In addition to global communities, Ubuntu Budgie also encourages local "
+"communities to support users coming from diverse backgrounds. In this "
+"section, you can discover our local communities. If you are interested to "
+"manage a local community for Ubuntu Budgie please let us know, so that we "
+"can list it here and improve its visibility."
+msgstr ""
+
+#: community.html132, 140
+msgid "Ubuntu Budgie Brasil"
+msgstr "Ubuntu Budgie Brezilya"

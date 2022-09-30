@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/plank
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_GB]=budgie-plank
+Name=budgie-plank
+Comment[en_GB]=plank dock for budgie-desktop
+Comment=plank dock for budgie-desktop

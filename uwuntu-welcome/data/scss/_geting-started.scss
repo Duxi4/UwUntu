@@ -1,0 +1,168 @@
+/************************
+ * Getting Started - Push Menu (Index)
+*************************/
+#index-menu {
+    height: 100%;
+    width: 270px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    position: fixed;
+    background: #404552;
+    color: #fff;
+    z-index: 8;
+    display: none;
+  }
+  
+  .index-btn {
+    width: 100%;
+    text-align: left;
+  }
+  
+  #index-close {
+    float: right;
+    position: relative;
+    text-align: right;
+    color: #fff;
+  }
+  
+  .topicContents {
+    margin-bottom: 16px;
+    display: none;
+  }
+  
+  #index-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    cursor: default;
+    z-index: 8;
+  }
+  
+  /************************
+   * Getting Started - System Specifications
+  *************************/
+  .nav-pills > .active > a,
+  .nav-pills > .active > a:hover,
+  .nav-pills > .active > a:focus {
+    background: none;
+    color: black;
+  }
+  
+  #specs-icon {
+    height: auto;
+    margin: auto;
+    position: absolute;
+    margin-top: 120px;
+  }
+  
+  #specs-icon img {
+    width: 180px;
+    height: auto;
+    margin-bottom: 80px;
+  }
+  
+  #specs-loading {
+    width: 80%;
+    height: 25px;
+    top: 100px; bottom: 0; left: 0; right: 0;
+    margin: auto;
+    position: absolute;
+    text-align: center;
+  }
+  
+  #specs-box {
+    left: 25%;
+    width: 74%;
+    padding: 4px;
+    position: relative;
+  }
+  
+  .specs-box h4 {
+    color: #758A53;
+  }
+  
+  .specs-error {
+    color: #FF0000;
+  }
+  
+  #specs-more .icon {
+    width: 80px
+  }
+  
+  .secondary-value {
+    opacity: 0.5;
+  }
+  
+  .secondary-value:hover {
+    opacity: 1;
+  }
+  
+  #disk-usage {
+    width: 100%;
+    height: 8px;
+    background-color: #C8C8C8;
+    border: 1px solid #8C8C8C;
+    overflow: hidden;
+  }
+  
+  .disk-line {
+    float: left;
+    height: 100%;
+  }
+  
+  #disk-used {
+    background-color: #87A556;
+  }
+  
+  #disk-free {
+    background-color: #C2D3A6;
+  }
+  
+  #disk-other {
+    background-color: #484848;
+  }
+  
+  .disk-legend {
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+    float: left;
+    vertical-align: middle;
+    margin: 4px;
+  }
+  
+  /************************
+  * Getting Started - Shortcuts
+  *************************/
+  .shortcuts .material-icons {
+    color: #888;
+    font-size: 18px;
+  }
+  
+  /************************
+  * Getting Started - Browser Ballot
+  ************************/
+  
+  .application {
+    padding: 5px;
+  }
+  
+  .application img {
+    padding-bottom: 5px;
+    width: 72px;
+  }
+  
+  .application .btn {
+    max-width: 160px;
+    display: block;
+    margin: auto;
+  }
+  
+  

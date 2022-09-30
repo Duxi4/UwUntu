@@ -1,0 +1,105 @@
+# 
+# Translators:
+# Davidmp <medipas@gmail.com>, 2021
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: Davidmp <medipas@gmail.com>, 2021\n"
+"Language-Team: Catalan (https://www.transifex.com/ubuntu-budgie/teams/72251/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: index.html:14
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: index.html:24
+msgid "Choose an option to discover your new operating system."
+msgstr "Trieu una opció per descobrir el nou sistema operatiu."
+
+#: index.html:36
+msgid "Introduction"
+msgstr "Introducció"
+
+#: index.html:42
+msgid "Features"
+msgstr "Característiques"
+
+#: index.html:48
+msgid "Getting Started"
+msgstr "Començar"
+
+#: index.html:54
+msgid "Installation Help"
+msgstr "Ajuda per a la instal·lació"
+
+#: index.html60, 117
+msgid "Recommendations"
+msgstr "Recomanacions"
+
+#: index.html:78
+msgid "Online Store"
+msgstr "Botiga en línia"
+
+#: index.html:84
+msgid "Community"
+msgstr "Comunitat"
+
+#: index.html:90
+msgid "Get Involved"
+msgstr "Involucreu-vos-hi"
+
+#: index.html:96
+msgid "Donate"
+msgstr "Feu una donació"
+
+#: index.html:106
+msgid "Install Now"
+msgstr "Instal·la'l ara"
+
+#: index.html:113
+msgid "Install Software"
+msgstr "Instal·la programari"
+
+#: index.html:115
+msgid "Budgie Extras"
+msgstr "Extres del Budgie"
+
+#: index.html:118
+msgid "Software Center"
+msgstr "Centre de programari"
+
+#: index.html:119
+msgid "Snap Apps"
+msgstr "Aplicacions Snap"
+
+#: index.html:121
+msgid "Flatpak Apps"
+msgstr "Aplicacions Flatpak"
+
+#: index.html:123
+msgid "Gaming"
+msgstr "Jocs"
+
+#: index.html:129
+msgid "Themes & Layouts"
+msgstr "Temes i disposicions"
+
+#: index.html:139
+msgid "Get Support:"
+msgstr "Obtingueu suport:"
+
+#: index.html:151
+msgid "Facebook Group"
+msgstr "Grup de Facebook"
+
+#: index.html:154
+msgid "Facebook Page"
+msgstr "Pàgina de Facebook"

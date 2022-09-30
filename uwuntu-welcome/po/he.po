@@ -1,0 +1,153 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Translators:
+# Yaron Shahrabani <sh.yaron@gmail.com>, 2022
+# Omer I.S. <omeritzicschwartz@gmail.com>, 2022
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2022-09-12 22:06+0100\n"
+"PO-Revision-Date: 2017-03-11 16:44+0000\n"
+"Last-Translator: Omer I.S. <omeritzicschwartz@gmail.com>, 2022\n"
+"Language-Team: Hebrew (https://www.transifex.com/ubuntu-budgie/teams/72251/"
+"he/)\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % "
+"1 == 0) ? 1: (n % 10 == 0 && n % 1 == 0 && n > 10) ? 2 : 3;\n"
+
+#: budgie-welcome:468
+msgid ""
+"Seems that GNOME Software is not installed. If this problem persists even "
+"after installing GNOME Software, please contact us with following error "
+"message"
+msgstr ""
+"נראה שלא מותקן אצלך היישום „GNOME תכנה”. אם הבעיה תישאר גם לאחר התקנת „GNOME "
+"תכנה”, נא ליצור איתנו קשר ולצרף את הודעת השגיאה שלהלן"
+
+#: budgie-welcome:716
+msgid "Following tasks are in progress"
+msgstr "הפעולות הבאות מתבצעות כרגע"
+
+#: budgie-welcome:723 budgie-welcome:1891 budgie-welcome:1908
+#: budgie-welcome:1936 budgie-welcome:1942 budgie-welcome:2404
+msgid "Budgie Welcome"
+msgstr "תוכנית קבלת הפנים של Budgie"
+
+#: budgie-welcome:727
+msgid "Budgie Desktop"
+msgstr "שולחן העבודה Budgie"
+
+#: budgie-welcome:854
+msgid ""
+"The following third-party repositories need to be added to complete the "
+"installation:"
+msgstr "להשלמת ההתקנה צריך להוסיף את מאגרי הצד השלישי הבאים:"
+
+#: budgie-welcome:886 budgie-welcome:908
+msgid ""
+"Third-Party repositories and their packages are not supported by Ubuntu. You "
+"should only continue if you trust the maintainers of these repositories."
+msgstr ""
+"אובונטו אינה תומכת במאגרי צד שלישי ובחבילות שבהם. יש להמשיך אך ורק אם מתחזקי "
+"המאגרים האלה הם מהימן בשבילך."
+
+#: budgie-welcome:889 budgie-welcome:911
+msgid "Continue with the installation?"
+msgstr "להמשיך בהתקנה?"
+
+#: budgie-welcome:895 budgie-welcome:917
+msgid "Third-Party Repositories"
+msgstr "מאגרי צד שלישי"
+
+#: budgie-welcome:906
+msgid ""
+"One or more packages need to be installed from a third-party repository that "
+"you have previously added."
+msgstr "יש צורך בהתקנת חבילה אחת או יותר ממאגר צד שלישי שהוספת קודם לכן."
+
+#: budgie-welcome:1214
+msgid "Welcome App"
+msgstr "תוכנית קבלת הפנים"
+
+#: budgie-welcome:1565
+msgid "Could not gather data."
+msgstr "לא היה ניתן להוריד את הנתונים."
+
+#: budgie-welcome:1645
+msgid "GB"
+msgstr "ג״ב"
+
+#: budgie-welcome:1646
+msgid "GiB"
+msgstr "GiB"
+
+#: budgie-welcome:1647
+msgid "MB"
+msgstr "מ״ב"
+
+#: budgie-welcome:1648
+msgid "MiB"
+msgstr "MiB"
+
+#: budgie-welcome:1893
+msgid ""
+"This snap is running on a distro that is unrecognized or on a development "
+"release of Ubuntu that has not yet received its snap configuration.  Full "
+"snap capabilities are unlikely to work."
+msgstr ""
+"snap זה מופעל על מערכת בלתי מזוהה או על מהדורת פיתוח של אובונטו שטרם קיבלה "
+"את הגדרות ה־snap שלה. היכולות המלאות של snap כנראה לא תעבודנה."
+
+#: budgie-welcome:1910
+msgid ""
+"This snap is running on version of budgie desktop that is no longer "
+"supported. Please upgrade to a supported version of the distro."
+msgstr ""
+"snap זה מריץ גרסה של Budgie שאינה נתמכת עוד. נא לשדרג לגרסה נתמכת של ההפצה."
+
+#: budgie-welcome:1957
+msgid "Status"
+msgstr "מצב"
+
+#: budgie-welcome:2050
+msgid " is in progress. Please wait for it to complete"
+msgstr "בתהליך. נא להמתין לסיומו"
+
+#: budgie-welcome:2405
+msgid "Find out about your operating system"
+msgstr "מגלים עוד על מערכת ההפעלה"
+
+#: budgie-welcome:2407
+msgid "Budgie Makeovers & Layouts"
+msgstr ""
+
+#: budgie-welcome:2408
+msgid "Give the desktop a makeover with new themes, icons, fonts & layouts"
+msgstr ""
+"אפשר לשדרג את הסגנון של שולחן העבודה עם ערכות נושא ופריסות חדשות, סמלים "
+"וגופנים חדשים."
+
+#: budgie-welcome:2410
+msgid "Budgie Extras"
+msgstr "דברים נוספים ל־Budgie"
+
+#: budgie-welcome:2411
+msgid ""
+"Customize the desktop with applets and mini-applications to provide extra "
+"capabilities"
+msgstr "אפשר להתאים אישית את שולחן העבודה עם יישומונים שמוסיפים יכולות חדשות"
+
+#: budgie-welcome:2414
+msgid "Budgie Discourse"
+msgstr "ה־Discourse של Budgie"
+
+#: budgie-welcome:2415
+msgid "Be part of the Ubuntu Budgie Community"
+msgstr "לוקחים חלק בקהילת „אובונטו Budgie”"

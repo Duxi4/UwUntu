@@ -1,0 +1,44 @@
+/*Popup message */
+#popup-message-window {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1050;
+    overflow: hidden;
+    padding-top: 150px;
+    text-align: center;
+    outline: 0;
+    background: rgba(255, 255, 255, 0.8);
+    color: black;
+  }
+  
+  #popup-message-container {
+    background: #404552;
+    width: 50%;
+    margin: auto;
+    padding: 15px;
+    color: white;
+    max-height: 400px;
+  }
+  
+  #popup-message {
+    text-align: left;
+  }
+  
+  #details {
+    color: black;
+    width: 100%
+  }
+  
+  #status-table-container {
+    height: 200px;
+    overflow: scroll;
+  }
+  
+  #status-table-container th {
+    text-align: center
+  }
+  

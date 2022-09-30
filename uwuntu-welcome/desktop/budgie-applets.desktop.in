@@ -1,0 +1,12 @@
+[Desktop Entry]
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;System;
+StartupNotify=false
+Name=Budgie Extras
+Exec=budgie-welcome --jump-to=budgie-applets
+Icon=distributor-logo-ubuntu-budgie
+Comment=Customize the desktop with applets and mini-applications to provide extra capabilities
+Keywords=desktop;preferences;applets
+OnlyShowIn=Budgie;
+StartupWMClass=budgie-welcome

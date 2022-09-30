@@ -1,0 +1,108 @@
+/************************
+ * Content
+*************************/
+
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-bottom: 5%;
+}
+
+@media screen and (max-height: 600px) {
+  .content {
+    margin-top: 0;
+  }
+}
+
+#content {
+    padding-top: 32px;
+    padding-bottom: 64px;
+  }
+
+  .btn-showcase {
+    margin: 10px 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .btn-showcase .btn {
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    line-height: 1.4em;
+  }
+
+  .btn-showcase .btn-lg {
+    font-size: 1rem;
+    text-transform: uppercase;
+    height: 40px;
+    width: 90%;
+    text-align: center;
+    line-height: 2.2em;
+    margin: auto 5%;
+  }
+
+  .button-group .btn-icon {
+    vertical-align: middle;
+    color: #4c8ac9;
+    width: 20px;
+  }
+
+  .button-group .btn {
+    width: 80%;
+  }
+
+  .button-group .material-icons {
+    font-size: 28px;
+  }
+
+  img.button-icon {
+    height: 1.5rem;
+  }
+
+  .button-text {
+    vertical-align: middle;
+  }
+
+  #content h2 {
+    font-size: 24px;
+  }
+
+  #content h3 {
+    font-size: 20px;
+  }
+
+  /* Center images within the div */
+  div .center-inside {
+    position: relative;
+    height: 100%;
+    min-height: 50px;
+    line-height: 50px;
+    text-align: center;
+  }
+
+
+  /* Prevent accidental dragging on images and links */
+  img, a {
+    -webkit-user-drag: none;
+    user-drag: none;
+  }
+
+  /* Collapsible Sub-Sections */
+  .sub-collapse {
+    cursor: pointer;
+  }
+
+  .sub-collapse:hover {
+    text-decoration: none;
+  }
+
+  /* Any link (href / onclick) shows the pointing cursor */
+  a {
+    cursor: pointer;
+  }

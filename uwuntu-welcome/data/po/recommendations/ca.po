@@ -1,0 +1,335 @@
+# 
+# Translators:
+# Davidmp <medipas@gmail.com>, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-22 21:33+0000\n"
+"Last-Translator: Davidmp <medipas@gmail.com>, 2022\n"
+"Language-Team: Catalan (https://www.transifex.com/ubuntu-budgie/teams/72251/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: recommendations.html:15
+msgid "Recommendations"
+msgstr "Recomanacions"
+
+#: recommendations.html:20
+msgid "Backports repository"
+msgstr "Repositori Backports"
+
+#: recommendations.html:22
+msgid ""
+"To provide the most up-to-date versions of budgie-desktop and other "
+"associated packages, we recommend to enable the Ubuntu Budgie backports "
+"repository."
+msgstr ""
+"Per proporcionar les versions més actualitzades de budgie-desktop i altres "
+"paquets associats, us recomanem que habiliteu el dipòsit de backports de "
+"l'Ubuntu Budgie."
+
+#: recommendations.html:27
+msgid "Repository is installed"
+msgstr "El repositori està instal·lat."
+
+#: recommendations.html:30
+msgid "Enable Ubuntu Budgie backports repository"
+msgstr "Habilita el dipòsit de backports d'Ubuntu Budgie"
+
+#: recommendations.html33, 106, 139, 164, 181, 197, 214
+msgid "Applying Changes..."
+msgstr "S'apliquen els canvis..."
+
+#: recommendations.html:37
+msgid "Snap Applications"
+msgstr "Aplicacions Snap"
+
+#: recommendations.html:42
+msgid ""
+"<strong>Snap</strong> is a new generation application packaging format "
+"developed by <em>Canonical</em>. Even though it was initially developed just"
+" for different Ubuntu platforms, currently it works in many other GNU/Linux "
+"distributions. It will help application developers to provide a unified "
+"package that can work on different platforms. By using snap package format, "
+"applications can have their own version of libraries and there is no need to"
+" worry about libraries installed in underlying operating system. Snap "
+"packages enable developers to bring much newer versions of apps to Ubuntu "
+"Budgie. Newer versions of KDE, GNOME, browsers or other desktop environment "
+"apps will usually build easily on older LTS releases but the complexities of"
+" packaging and providing updates have prevented us from delivering them in "
+"the past."
+msgstr ""
+"<strong>Snap</strong> és un format d'empaquetament d'aplicacions de nova "
+"generació desenvolupat per <em>Canonical</em>. Tot i que inicialment es va "
+"desenvolupar només per a diferents plataformes d'Ubuntu, actualment funciona"
+" en moltes altres distribucions GNU/Linux. Ajudarà els desenvolupadors "
+"d'aplicacions a oferir un paquet unificat que pugui funcionar en plataformes"
+" diferents. Mitjançant l'ús del format de paquet snap, les aplicacions poden"
+" tenir la seva versió de biblioteques i no cal que us preocupeu per les "
+"biblioteques instal·lades al sistema operatiu subjacent. Els paquets snap "
+"permeten als desenvolupadors portar versions molt més noves d'aplicacions a "
+"l'Ubuntu Budgie. Les versions més noves de KDE, GNOME, navegadors o altres "
+"aplicacions d'entorns d'escriptori normalment es construiran fàcilment amb "
+"versions LTS més antigues, però la complexitat de l'empaquetat i la "
+"prestació d'actualitzacions ens han impedit en el passat."
+
+#: recommendations.html55, 122
+msgid "Learn more"
+msgstr "Apreneu-ne més"
+
+#: recommendations.html:57
+msgid "Snap user guide"
+msgstr "Guia d'ús d'Snap"
+
+#: recommendations.html:59
+msgid "Search Snap Apps"
+msgstr "Cerca d'aplicacions Snap"
+
+#: recommendations.html:60
+msgid ""
+"If there’s a barrier to Snap app adoption (aside from few apps being made "
+"available in the format) it’s knowing which packages are available in the "
+"Snap app store. Well, wonder not. Simply pop open a terminal and run the "
+"following command:"
+msgstr ""
+"Si hi ha una barrera per a l'adopció d'aplicacions Snap (a part que hi ha "
+"poques aplicacions  disponibles en el format), és saber quins paquets estan "
+"disponibles a la botiga d'aplicacions Snap. Bé, no us ho pregunteu. "
+"Simplement obriu un terminal i executeu l'ordre següent:"
+
+#: recommendations.html:66
+msgid ""
+"The find command lets you quickly search for and discover snaps available to"
+" install from the command line. It can be run with a query after it (e.g., "
+"‘snap find email‘, ‘snap find media’, ‘snap find messaging‘) or without."
+msgstr ""
+"L'odre de cerca (find) us permet de cercar ràpidament i descobrir snaps "
+"disponibles per instal·lar des de la línia d'ordres. Es pot executar amb una"
+" consulta a continuació (per exemple: snap find email, snap find media, snap"
+" find messaging) o sense."
+
+#: recommendations.html:69
+msgid "When run without a query you’ll instead see a list of featured snaps."
+msgstr ""
+"Quan s'executi sense una consulta, veureu una llista de snaps disponibles."
+
+#: recommendations.html:70
+msgid "See installed apps"
+msgstr "Vegeu les aplicacions instal·lades"
+
+#: recommendations.html:71
+msgid ""
+"Installed some Snaps but can’t remember what? Don’t panic. Use the list "
+"command to see an up-to-date list of all Snap apps installed on your system:"
+msgstr ""
+"Heu instal·lat snaps però no podeu recordar quines? No patiu. Useu l'ordre "
+"\"list\" per veure una llista d'aplicacions d'Snap instal·lades al sistema:"
+
+#: recommendations.html:74
+msgid ""
+"This list also shows you their version number, revision number and the name "
+"of the developer who uploaded it (handy when there are multiple versions of "
+"the same app in the store, e.g., Telegram)."
+msgstr ""
+"Aquesta llista també us mostra el número de versió, el número de revisió i "
+"el nom del desenvolupador que l'ha penjat (pràctic quan hi ha diverses "
+"versions de la mateixa aplicació a la botiga, p. ex., Telegram)."
+
+#: recommendations.html:77
+msgid "Install & Remove Snap Apps"
+msgstr "Instal·la i suprimeix aplicacions Snap"
+
+#: recommendations.html:78
+msgid ""
+"If you’re used to managing software using apt you’ll instantly find the "
+"analogous snap commands easy to remember. You install snap apps with the "
+"‘install’ command, and remove them using the ‘remove’ command."
+msgstr ""
+"Si esteu acostumat a gestionar programari usant apt, trobareu fàcilment les "
+"ordres de snap anàlogues de manera fàcil de recordar. Podeu instal·lar "
+"aplicacions amb l'ordre \"install\" i suprimir-les mitjançant l'ordre "
+"\"remove\"."
+
+#: recommendations.html:83
+msgid "See details of an App"
+msgstr "Vegeu els detalls d'una aplicació"
+
+#: recommendations.html:84
+msgid ""
+"You can use this to see detailed information about any snap application, "
+"whether it is installed or not. This info includes the application’s release"
+" channel, confinement status, size, number of revisions, and more. The snap "
+"info --verbose offers a greater overview."
+msgstr ""
+"Podeu usar-ho per veure informació detallada sobre qualsevol aplicació snap,"
+" tant si està instal·lada o com si no ho està. Aquesta informació inclou el "
+"canal de publicació de l'aplicació, l'estat de confinament, la mida, el "
+"nombre de revisions i molt més. La informació de snap --verbose n'ofereix "
+"una visió més detallada."
+
+#: recommendations.html:90
+msgid "Update a Snap App"
+msgstr "Actualitzeu una aplicació Snap"
+
+#: recommendations.html:92
+msgid ""
+"Rather helpfully you probably won’t ever need to remember to install an "
+"update to a Snap app. This is because Snapd runs in the background and "
+"handles updates automatically (you can, ofc, revert a Snap update or install"
+" a specific revision)."
+msgstr ""
+"És molt útil que mai no hàgiu de recordar instal·lar una actualització d'una"
+" aplicació Snap. Això es deu al fet que Snapd s'executa en segon pla i "
+"gestiona les actualitzacions automàticament (podeu, per exemple, revertir "
+"una actualització de Snap o instal·lar-ne una revisió específica)."
+
+#: recommendations.html:98
+msgid "Reference"
+msgstr "Referència"
+
+#: recommendations.html:101
+msgid "Snap is already installed"
+msgstr "L'Snap ja està instal·lat."
+
+#: recommendations.html:104
+msgid "Install Snap"
+msgstr "Instal·la l'Snap"
+
+#: recommendations.html:111
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: recommendations.html:116
+msgid ""
+"<strong>Flatpak</strong> is a new generation application distribution "
+"framework for GNU/Linux platforms. It introduces a unified packaging format "
+"across all GNU/Linux distributions. That means a single package can work on "
+"any platform. Flatpak helps application developers to ship their application"
+" in a single format which can be installed in any GNU/Linux distribution "
+"without worrying about the underlying operating system and its built-in "
+"libraries."
+msgstr ""
+"<strong>Flatpak</strong> és un marc de distribució d'aplicacions de nova "
+"generació per a plataformes GNU / Linux. Introdueix un format d'empaquetatge"
+" unificat per a totes les distribucions de GNU / Linux. Això vol dir que un "
+"únic paquet pot funcionar en qualsevol plataforma. Flatpak ajuda els "
+"desenvolupadors d'aplicacions a enviar la seva aplicació en un sol format "
+"que es pugui instal·lar en qualsevol distribució GNU / Linux sense "
+"preocupar-se del sistema operatiu subjacent i de les biblioteques "
+"incorporades."
+
+#: recommendations.html:125
+msgid ""
+"Ubuntu Budgie recommends installing <strong>Flatpak</strong> as it will open"
+" a new world of possibilities for you. With Flatpak, you can enjoy the "
+"latest release of different software packages as soon as it is packaged by "
+"the upstream project and you don't have to wait for your distribution to "
+"package it for you."
+msgstr ""
+"L'Ubuntu Budgie recomana instal·lar <strong>Flatpak</strong>, ja que us "
+"obrirà un món nou de possibilitats. Amb Flatpak, podeu gaudir de la darrera "
+"versió de diferents paquets de programari tan bon punt el projecte "
+"s'empaqueta i no cal que espereu que la vostra distribució l'empaqueti."
+
+#: recommendations.html:130
+msgid ""
+"Being a user friendly GNU/Linux distribution, Ubuntu Budgie allows you to "
+"install Flatpak with a single click. After first time configuration, you can"
+" use GNOME Software to install Flatpak packages."
+msgstr ""
+"Com que és una distribució GNU/Linux fàcil d'usar, l'Ubuntu Budgie us permet"
+" instal·lar el Flatpak amb un sol clic. Després de la primera configuració, "
+"podeu usar el programari GNOME per instal·lar paquets de Flatpak."
+
+#: recommendations.html:134
+msgid "Flatpak is installed. Please reboot for the service to start"
+msgstr "Flatpak està instal·lat. Reinicieu per iniciar-ne el servei."
+
+#: recommendations.html:137
+msgid "Install & Configure Flatpak"
+msgstr "Instal·leu i configureu Flatpak"
+
+#: recommendations.html:149
+msgid ""
+"<strong>Dropbox</strong> is a popular proprietary file sharing and storage "
+"solution."
+msgstr ""
+"<strong>Dropbox</strong> és una solució popular i privada d’emmagatzematge i"
+" compatició de fitxers."
+
+#: recommendations.html:153
+msgid ""
+"After installing, logout and login and follow the dropbox instructions that "
+"are then displayed."
+msgstr ""
+"Després de la instal·lació, sortiu de la sessió i torneu-hi a entrar i "
+"seguiu les instruccions del Dropbox que es mostrin."
+
+#: recommendations.html:158
+msgid "Dropbox is installed"
+msgstr "El Dropbox està instal·lat"
+
+#: recommendations.html:161
+msgid "Install & Configure Dropbox"
+msgstr "Instal·leu i configureu el Dropbox"
+
+#: recommendations.html:171
+msgid ""
+"Nemo Share allows you to quickly share a folder from the Nemo file manager "
+"without requiring root access."
+msgstr ""
+"La compartició de Nemo us permet compartir de forma ràpida una carpeta des "
+"del gestor de fitxers Nemo sense necessitat d’accés de root."
+
+#: recommendations.html:176
+msgid "Nemo Share is installed"
+msgstr "Nemo Share està instal·lat"
+
+#: recommendations.html:179
+msgid "Install Nemo Share"
+msgstr "Instal·la el Nemo Share"
+
+#: recommendations.html:188
+msgid ""
+"Nemo Preview allows you to quickly view the contents of a highlighted file "
+"from the Nemo file manager. Just press space to toggle the preview on and "
+"off."
+msgstr ""
+"La previsualització del Nemo us permet veure ràpidament el contingut d’un "
+"fitxer ressaltat des del gestor de fitxers Nemo. Només cal que premeu la "
+"barra d'espai per activar i desactivar la previsualització."
+
+#: recommendations.html:192
+msgid "Nemo Preview is installed"
+msgstr "El Nemo Preview està instal·lat."
+
+#: recommendations.html:195
+msgid "Install Nemo Preview"
+msgstr "Instal·la el Nemo Preview"
+
+#: recommendations.html:204
+msgid ""
+"Gutenprint is a suite of <a onclick=\"cmd('link?http://gimp-"
+"print.sourceforge.net/p_Supported_Printers.php')\">thousands</a> of printer "
+"drivers which includes drivers for Epson and Canon printers. Gutenprint "
+"supports only the printer part of multi-function devices."
+msgstr ""
+"Gutenprint és un conjunt de <a onclick=\"cmd('link?http://gimp-"
+"print.sourceforge.net/p_Supported_Printers.php')\">milers</a> de "
+"controladors d’impressora que inclou controladors per a impressores Epson i "
+"Canon. Gutenprint només admet la part de la impressora dels dispositius "
+"multifunció."
+
+#: recommendations.html:209
+msgid "Gutenprint is installed"
+msgstr "Gutenprint està instal·lat"
+
+#: recommendations.html:212
+msgid "Install Gutenprint"
+msgstr "Instal·la Gutenprint"

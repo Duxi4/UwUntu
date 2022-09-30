@@ -1,0 +1,112 @@
+name: ubuntu-budgie-welcome
+version: '0.18.3'
+summary: Welcome screen to greet new Ubuntu Budgie users on their first login.
+description: |
+  The ubuntu-budgie-welcome application was designed to greet a new user at the
+  first run after installing Ubuntu Budgie. This app will show you around
+  the official Ubuntu flavour, make a few recommendations, showcase some
+  of the available budgie applets (to personalize your desktop), and ease the
+  installation effort around a few common applications.
+
+grade: stable
+confinement: classic
+base: core20
+
+# this line enables LZO compression for the snap
+compression: lzo
+
+apps:
+  budgie-welcome:
+    command: usr/bin/budgie-welcome
+    desktop: usr/share/applications/budgie-welcome.desktop
+    environment:
+      # daemons execute as root so the python paths must be updated
+      PYTHONPATH: $SNAP/lib/python3.8/site-packages:$PYTHONPATH
+
+  budgie-themes:
+    command: usr/bin/budgie-welcome --jump-to=default
+    desktop: usr/share/applications/budgie-themes.desktop
+
+  budgie-applets:
+    command: usr/bin/budgie-welcome --jump-to=budgie-applets
+    desktop: usr/share/applications/budgie-applets.desktop
+
+  budgie-discourse:
+    command: xdg-open "https://discourse.ubuntubudgie.org"
+    desktop: usr/share/applications/budgie-discourse.desktop
+
+parts:
+  budgie-welcome:
+    plugin: nil
+    build-environment:
+      - PYTHONPATH: $SNAPCRAFT_PART_INSTALL/usr/lib/python3/dist-packages:$PYTHONPATH
+    build-packages:
+      - python3
+      - python3-polib
+      - gettext
+      - node-uglify
+      - xdg-utils
+      - sassc
+    stage-packages:
+      - python3-apt
+      - xdg-utils
+    override-build: |
+      snapcraftctl build
+      cd $SNAPCRAFT_PROJECT_DIR
+      sh ./sassc-compile.sh
+      cd scripts && ./rebuild-translations.sh
+      cd ../ && uglifyjs -o data/js/bootstrap.min.js data/js/bootstrap.js && uglifyjs -o data/js/baguetteBox.min.js data/js/baguetteBox.js  && uglifyjs -o data/js/popper.min.js data/js/popper.js
+      mkdir -p $SNAPCRAFT_PART_INSTALL/usr/share/budgie-welcome/
+      cp -r data/* $SNAPCRAFT_PART_INSTALL/usr/share/budgie-welcome/
+      mkdir -p $SNAPCRAFT_PART_INSTALL/usr/share/locale/
+      cp -r locale/* $SNAPCRAFT_PART_INSTALL/usr/share/locale/
+      cp -p budgie-welcome $SNAPCRAFT_PART_INSTALL/usr/bin/
+      mkdir -p $SNAPCRAFT_PART_INSTALL/usr/lib/budgie-welcome
+      cp budgie-welcome-privileged-actions $SNAPCRAFT_PART_INSTALL/usr/lib/budgie-welcome
+      cp budgie-welcome.1 $SNAPCRAFT_PART_INSTALL/usr/share/man/man1
+
+      mkdir -p $SNAPCRAFT_PART_INSTALL/usr/share/icons/hicolor/
+      cp -a hicolor/* $SNAPCRAFT_PART_INSTALL/usr/share/icons/hicolor/
+      # Modify the icon paths for the snap.
+      mkdir -p $SNAPCRAFT_PART_INSTALL/usr/share/applications/
+      # sed 's|Icon=distributor-logo-ubuntu-budgie|Icon=${SNAP}/usr/share/icons/hicolor/scalable/apps/distributor-logo-ubuntu-budgie\.svg|' desktop/budgie-welcome.desktop > $SNAPCRAFT_PART_INSTALL/usr/share/applications/budgie-welcome.desktop
+      # sed 's|Icon=distributor-logo-ubuntu-budgie|Icon=${SNAP}/usr/share/icons/hicolor/scalable/apps/distributor-logo-ubuntu-budgie\.svg|' desktop/budgie-applets.desktop > $SNAPCRAFT_PART_INSTALL/usr/share/applications/budgie-applets.desktop
+      # sed 's|Icon=distributor-logo-ubuntu-budgie|Icon=${SNAP}/usr/share/icons/hicolor/scalable/apps/distributor-logo-ubuntu-budgie\.svg|' desktop/budgie-themes.desktop > $SNAPCRAFT_PART_INSTALL/usr/share/applications/budgie-themes.desktop
+      # sed 's|Icon=distributor-logo-ubuntu-budgie|Icon=${SNAP}/usr/share/icons/hicolor/scalable/apps/distributor-logo-ubuntu-budgie\.svg|' desktop/budgie-discourse.desktop > $SNAPCRAFT_PART_INSTALL/usr/share/applications/budgie-discourse.desktop
+
+      cp desktop/*.desktop $SNAPCRAFT_PART_INSTALL/usr/share/applications/
+    prime:
+      - usr/bin/
+      - usr/share/budgie-welcome/
+      - usr/share/icons/hicolor/*/apps/distributor-logo-ubuntu-budgie.svg
+      - usr/share/locale/
+      - usr/share/applications/
+      - usr/lib/budgie-welcome/
+      - usr/share/man/man1/budgie-welcome.1
+
+  wrapper:
+    after:
+      - budgie-welcome
+    plugin: dump
+    override-build: |
+      chmod +x bin/wrapper
+      snapcraftctl build
+    source: files/
+
+
+apps:
+  budgie-welcome:
+    command: bin/wrapper $SNAP/usr/bin/budgie-welcome
+    desktop: usr/share/applications/budgie-welcome.desktop
+
+  budgie-applets:
+    command: bin/wrapper $SNAP/usr/bin/budgie-welcome
+    desktop: usr/share/applications/budgie-applets.desktop
+
+  budgie-themes:
+    command: bin/wrapper $SNAP/usr/bin/budgie-welcome
+    desktop: usr/share/applications/budgie-themes.desktop
+
+  budgie-discourse:
+    command: bin/wrapper $SNAP/usr/bin/xdg-open
+    desktop: usr/share/applications/budgie-discourse.desktop

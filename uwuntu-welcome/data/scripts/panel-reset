@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# Just give sometime for panel to restart
+gsettings reset-recursively com.solus-project.budgie-panel
+sleep 2
+nohup budgie-panel --replace &
+

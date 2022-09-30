@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient11220" x1="291" gradientUnits="userSpaceOnUse" y1="172" gradientTransform="matrix(0,-1,1,0,-140,352)" x2="349" y2="172">
+   <stop stop-color="#e5e5e5" offset="0"/>
+   <stop stop-color="#f2f2f2" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4026" x1="463" gradientUnits="userSpaceOnUse" y1="41" gradientTransform="matrix(2,0,0,2,-864,-80)" x2="463" y2="71">
+   <stop stop-color="#729fcf" offset="0"/>
+   <stop stop-color="#4777ab" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Sam Hewitt</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:source/>
+    <cc:license rdf:resource=""/>
+    <dc:title/>
+    <dc:subject>
+     <rdf:Bag/>
+    </dc:subject>
+    <dc:date/>
+    <dc:rights>
+     <cc:Agent>
+      <dc:title/>
+     </cc:Agent>
+    </dc:rights>
+    <dc:publisher>
+     <cc:Agent>
+      <dc:title/>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:identifier/>
+    <dc:relation/>
+    <dc:language/>
+    <dc:coverage/>
+    <dc:description/>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title/>
+     </cc:Agent>
+    </dc:contributor>
+   </cc:Work>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect opacity=".1" style="color:#bebebe;enable-background:accumulate" ry="12.5" height="60" width="60" y="3" x="2"/>
+ <path style="color:#bebebe;enable-background:accumulate" fill="url(#linearGradient11220)" d="m14.5 2.5c-6.66 0-12 5.34-12 12v35c0 6.66 5.34 12 12 12h35c6.66 0 12-5.34 12-12v-35c0-6.66-5.34-12-12-12h-35z"/>
+ <path style="color:#000000;enable-background:accumulate" fill="url(#linearGradient4026)" d="m32 12c-11.069 0-20 8.931-20 20s8.931 20 20 20 20-8.931 20-20-8.931-20-20-20zm-9.25 10h2.5c0.42616 0 0.75 0.3303 0.75 0.75v2.5c0 0.42-0.324 0.75-0.75 0.75h-2.5c-0.426 0-0.75-0.33-0.75-0.75v-2.5c0-0.42 0.324-0.75 0.75-0.75zm8 0h2.5c0.42616 0 0.75 0.3303 0.75 0.75v2.5c0 0.42-0.324 0.75-0.75 0.75h-2.5c-0.426 0-0.75-0.33-0.75-0.75v-2.5c0-0.42 0.324-0.75 0.75-0.75zm8 0h2.5c0.42616 0 0.75 0.3303 0.75 0.75v2.5c0 0.42-0.324 0.75-0.75 0.75h-2.5c-0.426 0-0.75-0.33-0.75-0.75v-2.5c0-0.42 0.324-0.75 0.75-0.75zm-16.25 8.062c0.092-0.0382 0.1434 0 0.25 0h2.5c0.42616 0 0.75 0.3303 0.75 0.75v2.4375c0 0.4197-0.32384 0.8125-0.75 0.8125h-2.5c-0.426 0-0.75-0.392-0.75-0.812v-2.4375c0-0.31477 0.22372-0.6353 0.5-0.75zm8 0c0.092-0.0382 0.1434 0 0.25 0h2.5c0.42616 0 0.75 0.3303 0.75 0.75v2.4375c0 0.4197-0.32384 0.8125-0.75 0.8125h-2.5c-0.426 0-0.75-0.392-0.75-0.812v-2.4375c0-0.31477 0.22372-0.6353 0.5-0.75zm8 0c0.092-0.0382 0.1434 0 0.25 0h2.5c0.42616 0 0.75 0.3303 0.75 0.75v2.4375c0 0.4197-0.32384 0.8125-0.75 0.8125h-2.5c-0.426 0-0.75-0.392-0.75-0.812v-2.4375c0-0.31477 0.22372-0.6353 0.5-0.75zm-15.75 7.94h2.5c0.42616 0 0.75 0.3303 0.75 0.75v2.5c0 0.4197-0.32384 0.75-0.75 0.75h-2.5c-0.42616 0-0.75-0.3303-0.75-0.75v-2.5c0-0.4197 0.32384-0.75 0.75-0.75zm8 0h2.5c0.42616 0 0.75 0.3303 0.75 0.75v2.5c0 0.4197-0.32384 0.75-0.75 0.75h-2.5c-0.42616 0-0.75-0.3303-0.75-0.75v-2.5c0-0.4197 0.32384-0.75 0.75-0.75zm8 0h2.5c0.42616 0 0.75 0.3303 0.75 0.75v2.5c0 0.4197-0.32384 0.75-0.75 0.75h-2.5c-0.42616 0-0.75-0.3303-0.75-0.75v-2.5c0-0.4197 0.32384-0.75 0.75-0.75z"/>
+ <path opacity=".2" d="m32 12c-11.069 0-20 8.9306-20 20 0 0.16756-0.004 0.33344 0 0.5 0.265-10.837 9.098-19.5 20-19.5s19.735 8.664 20 19.5c0.004-0.167 0-0.332 0-0.5 0-11.069-8.931-20-20-20zm-10 13.25v1c0 0.4197 0.32384 0.75 0.75 0.75h2.5c0.426 0 0.75-0.33 0.75-0.75v-1c0 0.42-0.324 0.75-0.75 0.75h-2.5c-0.426 0-0.75-0.33-0.75-0.75zm8 0v1c0 0.4197 0.32384 0.75 0.75 0.75h2.5c0.426 0 0.75-0.33 0.75-0.75v-1c0 0.42-0.324 0.75-0.75 0.75h-2.5c-0.426 0-0.75-0.33-0.75-0.75zm8 0v1c0 0.4197 0.32384 0.75 0.75 0.75h2.5c0.426 0 0.75-0.33 0.75-0.75v-1c0 0.42-0.324 0.75-0.75 0.75h-2.5c-0.426 0-0.75-0.33-0.75-0.75zm-16 8v1c0 0.4197 0.32384 0.8125 0.75 0.8125h2.5c0.42616 0 0.75-0.3928 0.75-0.8125v-1c0 0.4197-0.32384 0.8125-0.75 0.8125h-2.5c-0.426 0-0.75-0.392-0.75-0.812zm8 0v1c0 0.4197 0.32384 0.8125 0.75 0.8125h2.5c0.42616 0 0.75-0.3928 0.75-0.8125v-1c0 0.4197-0.32384 0.8125-0.75 0.8125h-2.5c-0.426 0-0.75-0.392-0.75-0.812zm8 0v1c0 0.4197 0.32384 0.8125 0.75 0.8125h2.5c0.42616 0 0.75-0.3928 0.75-0.8125v-1c0 0.4197-0.32384 0.8125-0.75 0.8125h-2.5c-0.426 0-0.75-0.392-0.75-0.812zm-16 8v1c0 0.4197 0.32384 0.75 0.75 0.75h2.5c0.426 0 0.75-0.33 0.75-0.75v-1c0 0.42-0.324 0.75-0.75 0.75h-2.5c-0.426 0-0.75-0.33-0.75-0.75zm8 0v1c0 0.4197 0.32384 0.75 0.75 0.75h2.5c0.426 0 0.75-0.33 0.75-0.75v-1c0 0.42-0.324 0.75-0.75 0.75h-2.5c-0.426 0-0.75-0.33-0.75-0.75zm8 0v1c0 0.4197 0.32384 0.75 0.75 0.75h2.5c0.426 0 0.75-0.33 0.75-0.75v-1c0 0.42-0.324 0.75-0.75 0.75h-2.5c-0.426 0-0.75-0.33-0.75-0.75z" style="color:#000000;enable-background:accumulate"/>
+ <path opacity="0.13" style="color:#bebebe;enable-background:accumulate" d="m14.5 3c-6.3883 0-11.5 5.1117-11.5 11.5v1c0-6.3883 5.1117-11.5 11.5-11.5h35c6.388 0 11.5 5.1117 11.5 11.5v-1c0-6.3883-5.112-11.5-11.5-11.5h-35z" fill="#fff"/>
+ <path opacity="0.41" d="m49.5 62c6.388 0 11.5-5.112 11.5-11.5v-1c0 6.388-5.112 11.5-11.5 11.5h-35c-6.3883 0-11.5-5.112-11.5-11.5v1c0 6.388 5.1117 11.5 11.5 11.5h35z" style="color:#bebebe;enable-background:accumulate"/>
+ <path opacity=".1" style="color:#bebebe;enable-background:accumulate" d="m14.5 61c-6.3883 0-11.5-5.112-11.5-11.5v-1c0 6.388 5.1117 11.5 11.5 11.5h35c6.388 0 11.5-5.112 11.5-11.5v1c0 6.388-5.112 11.5-11.5 11.5h-35z" fill="#fff"/>
+ <path opacity="0.41" style="color:#bebebe;enable-background:accumulate" d="m14.5 2c-6.925 0-12.5 5.575-12.5 12.5v35c0 6.925 5.575 12.5 12.5 12.5h35c6.925 0 12.5-5.575 12.5-12.5v-35c0-6.925-5.575-12.5-12.5-12.5h-35zm0 1h35c6.388 0 11.5 5.1117 11.5 11.5v35c0 6.388-5.112 11.5-11.5 11.5h-35c-6.3883 0-11.5-5.112-11.5-11.5v-35c0-6.3883 5.1117-11.5 11.5-11.5z"/>
+</svg>

@@ -1,0 +1,110 @@
+# 
+# Translators:
+# Pad Padington <diecolabuechse@gmail.com>, 2017
+# da117c95c1d6125ee7d2e38d16e313dd_17e5349, 2017
+# Carsten, 2017
+# 602bbda2c6fb9fe8c581051c07286463_e503c23, 2017
+# fd0badd786d230003e572856fa987370, 2018
+# Ettore Atalan <atalanttore@googlemail.com>, 2021
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-15 13:49+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>, 2021\n"
+"Language-Team: German (Germany) (https://www.transifex.com/ubuntu-budgie/teams/72251/de_DE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: index.html:14
+msgid "Main Menu"
+msgstr "Hauptmenü"
+
+#: index.html:24
+msgid "Choose an option to discover your new operating system."
+msgstr "Wählen Sie eine Option, um Ihr neues Betriebssystem zu entdecken."
+
+#: index.html:36
+msgid "Introduction"
+msgstr "Einführung"
+
+#: index.html:42
+msgid "Features"
+msgstr "Funktionen"
+
+#: index.html:48
+msgid "Getting Started"
+msgstr "Loslegen"
+
+#: index.html:54
+msgid "Installation Help"
+msgstr "Hilfe bei der Installation"
+
+#: index.html60, 117
+msgid "Recommendations"
+msgstr "Empfehlungen"
+
+#: index.html:78
+msgid "Online Store"
+msgstr "Onlineshop"
+
+#: index.html:84
+msgid "Community"
+msgstr "Community"
+
+#: index.html:90
+msgid "Get Involved"
+msgstr "Mitmachen"
+
+#: index.html:96
+msgid "Donate"
+msgstr "Spenden"
+
+#: index.html:106
+msgid "Install Now"
+msgstr "Jetzt installieren"
+
+#: index.html:113
+msgid "Install Software"
+msgstr "Software installieren"
+
+#: index.html:115
+msgid "Budgie Extras"
+msgstr "Budgie Extras"
+
+#: index.html:118
+msgid "Software Center"
+msgstr "Software Center"
+
+#: index.html:119
+msgid "Snap Apps"
+msgstr "Snap Anwendungen"
+
+#: index.html:121
+msgid "Flatpak Apps"
+msgstr "Flatpak Anwendungen"
+
+#: index.html:123
+msgid "Gaming"
+msgstr "Spielen"
+
+#: index.html:129
+msgid "Themes & Layouts"
+msgstr ""
+
+#: index.html:139
+msgid "Get Support:"
+msgstr "Hilfe erhalten:"
+
+#: index.html:151
+msgid "Facebook Group"
+msgstr "Facebook Gruppe"
+
+#: index.html:154
+msgid "Facebook Page"
+msgstr "Facebook Seite"

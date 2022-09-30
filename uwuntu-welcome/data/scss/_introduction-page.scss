@@ -1,0 +1,55 @@
+/************************
+ * Introduction Page
+*************************/
+.slogan-box {
+    position: relative;
+    top: -20px;
+    margin-left: -20px;
+    margin-right: -20px;
+    height: 440px;
+    z-index: 8
+  }
+  
+  .slogan-area {
+    display: block;
+    width: 100%;
+    padding-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  
+  .slogan-text {
+    margin-top: 32px;
+    margin-bottom: 24px;
+    display: block;
+    font-size: 32px;
+  }
+  
+  .apps-table {
+    width: 100%;
+    margin-bottom: 8px;
+  }
+  .apps-table th, .apps-table td {
+    width: 20%;
+    text-align: center;
+  }
+  .apps-table img {
+    height: 64px;
+  }
+  
+  @keyframes rotateIn {
+    0% {
+      transform-origin: center;
+      transform: rotate3d(0, 0, 1, 200deg);
+      opacity: 0;
+    }
+  
+    100% {
+      transform-origin: center;
+      transform: none;
+      opacity: 1;
+    }
+  }
+  
+  

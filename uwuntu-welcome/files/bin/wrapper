@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+case "$SNAP_ARCH" in
+    i386) ARCH="i386-linux-gnu" ;;
+    amd64) ARCH="x86_64-linux-gnu" ;;
+    s390x) ARCH="s390x-linux-gnu" ;;
+    ppc64el) ARCH="powerpc64le-linux-gnu" ;;
+    armhf) ARCH="arm-linux-gnueabihf" ;;
+    arm64) ARCH="aarch64-linux-gnu" ;;
+esac
+
+# Create $XDG_RUNTIME_DIR if not exists (to be removed when https://pad.lv/1656340 is fixed)
+[ -n "$XDG_RUNTIME_DIR" ] && mkdir -p $XDG_RUNTIME_DIR -m 700
+
+export DISABLE_WAYLAND=1
+export LIBGL_ALWAYS_SOFTWARE=1
+
+exec "$@"

@@ -1,0 +1,114 @@
+{
+  "bionic" : [
+    {
+        "panel-attrib" : {
+          "enable-shadow": false,
+          "size" : 47,
+          "transparency": "none"
+      }
+    },
+    {
+        "panel-attrib" : {
+          "enable-shadow": false,
+          "size" : 37,
+          "transparency": "none"
+      }
+    },
+    {
+      "SCHEMA": "org.gnome.desktop.interface",
+      "VALUES": {
+        "cursor-theme": "DMZ-Black",
+        "gtk-theme": "Materia-compact",
+        "icon-theme": "Numix-Circle",
+        "monospace-font-name": "Noto Mono 11",
+        "font-name": "Noto Sans UI 11",
+        "document-font-name": "Noto Sans UI 11"
+      }
+    },
+    {
+      "SCHEMA": "org.gnome.desktop.background",
+      "VALUES": {
+        "color-shading-type": "solid",
+        "picture-options": "stretched",
+        "picture-uri": "file:////usr/share/backgrounds/budgie/ubuntu_budgie_wallpaper3.jpg",
+        "primary-color": "#008094"
+      }
+    },
+    {
+      "SCHEMA": "com.solus-project.budgie-panel",
+      "VALUES": {
+        "builtin-theme": false,
+        "dark-theme": true
+      }
+    },
+    {
+      "SCHEMA": "org.gnome.desktop.wm.preferences",
+      "VALUES": {
+        "titlebar-font": "Noto Sans UI Bold 11",
+        "theme": "Materia-compact"
+      }
+    },
+    {
+      "SCHEMA": "org.gnome.nautilus.desktop",
+      "VALUES": {
+        "font": "Noto Sans UI 11"
+      }
+    }
+  ],
+  "default" : [
+    {
+        "panel-attrib" : {
+          "enable-shadow": false,
+          "size" : 47,
+          "transparency": "none"
+      }
+    },
+    {
+        "panel-attrib" : {
+          "enable-shadow": false,
+          "size" : 37,
+          "transparency": "none"
+      }
+    },
+    {
+      "SCHEMA": "org.gnome.desktop.interface",
+      "VALUES": {
+        "cursor-theme": "DMZ-Black",
+        "gtk-theme": "Materia-compact",
+        "icon-theme": "Numix-Circle",
+        "monospace-font-name": "Noto Mono 11",
+        "font-name": "Noto Sans UI 11",
+        "document-font-name": "Noto Sans UI 11"
+      }
+    },
+    {
+      "SCHEMA": "org.gnome.desktop.background",
+      "VALUES": {
+        "color-shading-type": "solid",
+        "picture-options": "stretched",
+        "picture-uri": "file:////usr/share/backgrounds/budgie/ubuntu_budgie_wallpaper3.jpg",
+        "primary-color": "#008094"
+      }
+    },
+    {
+      "SCHEMA": "com.solus-project.budgie-panel",
+      "VALUES": {
+        "builtin-theme": false,
+        "dark-theme": true
+      }
+    },
+    {
+      "SCHEMA": "org.gnome.desktop.wm.preferences",
+      "VALUES": {
+        "titlebar-font": "Noto Sans UI Bold 11",
+        "theme": "Materia-compact"
+      }
+    },
+    {
+      "SCHEMA": "org.nemo.desktop",
+      "VALUES": {
+        "font": "Noto Sans UI 11"
+      }
+    }
+  ]
+}

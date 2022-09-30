@@ -1,0 +1,315 @@
+# 
+# Translators:
+# Jose Luis Tirado <joseluis.tirado@gmail.com>, 2017
+# Adolfo Jayme-Barrientos, 2017
+# Yábir Benchakhtir <yabirgb@gmail.com>, 2017
+# Oscar Hernandez <oscaralejandro_3@hotmail.com>, 2017
+# Byron Yepez, 2017
+# Daniel Hernandez, 2018
+# Miguel Morales <miguelmorales85@gmail.com>, 2018
+# Chemabj <jmbelvar81@outlook.com>, 2018
+# Alfredo Altamirano <alfredo_11@hotmail.com>, 2019
+# Foximus <oscarhernandeztrinitarias380@gmail.com>, 2021
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: 2017-03-22 21:33+0000\n"
+"Last-Translator: Foximus <oscarhernandeztrinitarias380@gmail.com>, 2021\n"
+"Language-Team: Spanish (https://www.transifex.com/ubuntu-budgie/teams/72251/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: recommendations.html:15
+msgid "Recommendations"
+msgstr "Recomendaciones"
+
+#: recommendations.html:20
+msgid "Backports repository"
+msgstr "Repositorio de Backports"
+
+#: recommendations.html:22
+msgid ""
+"To provide the most up-to-date versions of budgie-desktop and other "
+"associated packages, we recommend to enable the Ubuntu Budgie backports "
+"repository."
+msgstr ""
+
+#: recommendations.html:27
+msgid "Repository is installed"
+msgstr "Repositorio instalado"
+
+#: recommendations.html:30
+msgid "Enable Ubuntu Budgie backports repository"
+msgstr ""
+
+#: recommendations.html33, 106, 139, 164, 181, 197, 214
+msgid "Applying Changes..."
+msgstr "Aplicando cambios…"
+
+#: recommendations.html:37
+msgid "Snap Applications"
+msgstr "Aplicaciones Snap"
+
+#: recommendations.html:42
+msgid ""
+"<strong>Snap</strong> is a new generation application packaging format "
+"developed by <em>Canonical</em>. Even though it was initially developed just"
+" for different Ubuntu platforms, currently it works in many other GNU/Linux "
+"distributions. It will help application developers to provide a unified "
+"package that can work on different platforms. By using snap package format, "
+"applications can have their own version of libraries and there is no need to"
+" worry about libraries installed in underlying operating system. Snap "
+"packages enable developers to bring much newer versions of apps to Ubuntu "
+"Budgie. Newer versions of KDE, GNOME, browsers or other desktop environment "
+"apps will usually build easily on older LTS releases but the complexities of"
+" packaging and providing updates have prevented us from delivering them in "
+"the past."
+msgstr ""
+
+#: recommendations.html55, 122
+msgid "Learn more"
+msgstr "Más información"
+
+#: recommendations.html:57
+msgid "Snap user guide"
+msgstr "Guía de usuario de Snap"
+
+#: recommendations.html:59
+msgid "Search Snap Apps"
+msgstr "Buscar aplicaciones Snap"
+
+#: recommendations.html:60
+msgid ""
+"If there’s a barrier to Snap app adoption (aside from few apps being made "
+"available in the format) it’s knowing which packages are available in the "
+"Snap app store. Well, wonder not. Simply pop open a terminal and run the "
+"following command:"
+msgstr ""
+"Si hay un obstáculo para adoptar aplicaciones Snap (sin contar las pocas "
+"apps siendo desarrolladas en este formato) es conocer que paquetes están "
+"disponibles en la lista de aplicaciones de Snap. Bien, no te preocupes más. "
+"Simplemente abre una terminal y ejecuta la siguiente orden."
+
+#: recommendations.html:66
+msgid ""
+"The find command lets you quickly search for and discover snaps available to"
+" install from the command line. It can be run with a query after it (e.g., "
+"‘snap find email‘, ‘snap find media’, ‘snap find messaging‘) or without."
+msgstr ""
+"La orden «find» le permite buscar rápidamente y descubrir desde la línea de "
+"órdenes Snaps disponibles para ser instaladas. Se puede ejecutar con una "
+"consulta tras ella (por ejemplo, «snap find email», «snap find media», «snap"
+" find messaging») o sin consulta."
+
+#: recommendations.html:69
+msgid "When run without a query you’ll instead see a list of featured snaps."
+msgstr "Si lo ejecuta sin una consulta, verá una lista de «snaps» destacados."
+
+#: recommendations.html:70
+msgid "See installed apps"
+msgstr "Buscar aplicaciones instaladas"
+
+#: recommendations.html:71
+msgid ""
+"Installed some Snaps but can’t remember what? Don’t panic. Use the list "
+"command to see an up-to-date list of all Snap apps installed on your system:"
+msgstr ""
+"¿Instaló algunos «snaps» pero no recuerda cuáles? No se preocupe. Utilice la"
+" orden «list» para ver una lista actualizada de todas las aplicaciones Snap "
+"instaladas en su sistema:"
+
+#: recommendations.html:74
+msgid ""
+"This list also shows you their version number, revision number and the name "
+"of the developer who uploaded it (handy when there are multiple versions of "
+"the same app in the store, e.g., Telegram)."
+msgstr ""
+"Esta lista también muestra los números de versión y revisión y el nombre de "
+"los desarrolladores que los cargaron (lo cual es útil si hay varias "
+"versiones de la misma aplicación en la tienda, como es el caso de Telegram)."
+
+#: recommendations.html:77
+msgid "Install & Remove Snap Apps"
+msgstr "Instalar y desinstalar aplicaciones Snap"
+
+#: recommendations.html:78
+msgid ""
+"If you’re used to managing software using apt you’ll instantly find the "
+"analogous snap commands easy to remember. You install snap apps with the "
+"‘install’ command, and remove them using the ‘remove’ command."
+msgstr ""
+"Si se ha acostumbrado a gestionar programas a través de APT, no hallará "
+"difícil recordar las órdenes correspondientes de Snap. Para instalar "
+"aplicaciones en Snap, utilice «install»; para desinstalarlas, emplee "
+"«remove»."
+
+#: recommendations.html:83
+msgid "See details of an App"
+msgstr "Ver los detalles de una aplicación"
+
+#: recommendations.html:84
+msgid ""
+"You can use this to see detailed information about any snap application, "
+"whether it is installed or not. This info includes the application’s release"
+" channel, confinement status, size, number of revisions, and more. The snap "
+"info --verbose offers a greater overview."
+msgstr ""
+"Puedes utilizar esto para ver información detallada sobre cualquier "
+"aplicación snap, sin importar si esta instalada o no. Esta información "
+"incluye el canal de entrega de la aplicación, estado de confinamiento, "
+"tamaño, numero de revisiones y mas. El comando snap info --verbose ofrece "
+"una mayor visión general."
+
+#: recommendations.html:90
+msgid "Update a Snap App"
+msgstr "Actualizar una aplicación Snap"
+
+#: recommendations.html:92
+msgid ""
+"Rather helpfully you probably won’t ever need to remember to install an "
+"update to a Snap app. This is because Snapd runs in the background and "
+"handles updates automatically (you can, ofc, revert a Snap update or install"
+" a specific revision)."
+msgstr ""
+"Bastante útil, probablemente nunca necesitará recordar instalar una "
+"actualización a una aplicación Snap. Esto se debe a que Snapd se ejecuta en "
+"segundo plano y gestiona actualizaciones automáticamente (puede, por "
+"supuesto, revertir una actualización Snap o instalar una revisión "
+"específica)."
+
+#: recommendations.html:98
+msgid "Reference"
+msgstr "Referencia"
+
+#: recommendations.html:101
+msgid "Snap is already installed"
+msgstr "Ya se ha instalado Snap"
+
+#: recommendations.html:104
+msgid "Install Snap"
+msgstr "Instalar Snap"
+
+#: recommendations.html:111
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: recommendations.html:116
+msgid ""
+"<strong>Flatpak</strong> is a new generation application distribution "
+"framework for GNU/Linux platforms. It introduces a unified packaging format "
+"across all GNU/Linux distributions. That means a single package can work on "
+"any platform. Flatpak helps application developers to ship their application"
+" in a single format which can be installed in any GNU/Linux distribution "
+"without worrying about the underlying operating system and its built-in "
+"libraries."
+msgstr ""
+"<strong>Flatpack</strong> es un sistema de distribución de aplicaciones de "
+"nueva generación para plataformas GNU/Linux. Introduce un formato unificado "
+"de empaquetamiento a través de todas las distribuciones GNU/Linux, lo que "
+"significa que un solo paquete puede funcionar en cualquier plataforma. "
+"Flatpack ayuda a los desarrolladores a enviar sus aplicaciones en un unico "
+"formato que se puede instalar en cualquier distribuciones GNU/Linux sin "
+"tener que preocuparse acerca del sistema operativo subyacente y de sus "
+"librerías incorporadas."
+
+#: recommendations.html:125
+msgid ""
+"Ubuntu Budgie recommends installing <strong>Flatpak</strong> as it will open"
+" a new world of possibilities for you. With Flatpak, you can enjoy the "
+"latest release of different software packages as soon as it is packaged by "
+"the upstream project and you don't have to wait for your distribution to "
+"package it for you."
+msgstr ""
+
+#: recommendations.html:130
+msgid ""
+"Being a user friendly GNU/Linux distribution, Ubuntu Budgie allows you to "
+"install Flatpak with a single click. After first time configuration, you can"
+" use GNOME Software to install Flatpak packages."
+msgstr ""
+
+#: recommendations.html:134
+msgid "Flatpak is installed. Please reboot for the service to start"
+msgstr ""
+"Se ha instalado Flatpak. Reinicie el equipo para que el servicio se inicie"
+
+#: recommendations.html:137
+msgid "Install & Configure Flatpak"
+msgstr "Instalar y configurar Flatpak"
+
+#: recommendations.html:149
+msgid ""
+"<strong>Dropbox</strong> is a popular proprietary file sharing and storage "
+"solution."
+msgstr ""
+"<strong>Dropbox</strong> es una popular solución propietaria para almacenar "
+"y compartir archivos."
+
+#: recommendations.html:153
+msgid ""
+"After installing, logout and login and follow the dropbox instructions that "
+"are then displayed."
+msgstr ""
+"Después de instalar, cierre e inicie sesión y sigue las instrucciones del "
+"menú desplegable que será mostrado."
+
+#: recommendations.html:158
+msgid "Dropbox is installed"
+msgstr "Se ha instalado Dropbox"
+
+#: recommendations.html:161
+msgid "Install & Configure Dropbox"
+msgstr " Instalar y Configurar Dropbox "
+
+#: recommendations.html:171
+msgid ""
+"Nemo Share allows you to quickly share a folder from the Nemo file manager "
+"without requiring root access."
+msgstr ""
+"Nemo Share te permite compartir rápidamente una carpeta desde el "
+"administrador de archivos Nemo sin requerir acceso root."
+
+#: recommendations.html:176
+msgid "Nemo Share is installed"
+msgstr "Nemo Share está instalado"
+
+#: recommendations.html:179
+msgid "Install Nemo Share"
+msgstr "Instalar Nemo Share"
+
+#: recommendations.html:188
+msgid ""
+"Nemo Preview allows you to quickly view the contents of a highlighted file "
+"from the Nemo file manager. Just press space to toggle the preview on and "
+"off."
+msgstr ""
+
+#: recommendations.html:192
+msgid "Nemo Preview is installed"
+msgstr ""
+
+#: recommendations.html:195
+msgid "Install Nemo Preview"
+msgstr ""
+
+#: recommendations.html:204
+msgid ""
+"Gutenprint is a suite of <a onclick=\"cmd('link?http://gimp-"
+"print.sourceforge.net/p_Supported_Printers.php')\">thousands</a> of printer "
+"drivers which includes drivers for Epson and Canon printers. Gutenprint "
+"supports only the printer part of multi-function devices."
+msgstr ""
+
+#: recommendations.html:209
+msgid "Gutenprint is installed"
+msgstr "Gutenprint está instalado"
+
+#: recommendations.html:212
+msgid "Install Gutenprint"
+msgstr "Instalar Gutenprint"
