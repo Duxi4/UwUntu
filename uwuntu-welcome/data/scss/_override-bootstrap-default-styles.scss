@@ -14,7 +14,7 @@
   }
 
   .btn-inverse:active {
-    background-color: #5294e2;
+    background-color: #FFABE1;
   }
 
   .text-right {
@@ -31,12 +31,12 @@
   }
 
   .btn-primary {
-    background: #4c8ac9;
+    background: #915C86;
     transition: background 0.2s ease;
   }
 
   a.btn-primary.disabled {
-    background: lightblue;
+    background: #FFE6F7;
   }
 
   .btn-lg {
@@ -53,7 +53,7 @@
   a:not([href]):not([tabindex]),
   a:focus:not([href]):not([tabindex]),
   a:hover:not([href]):not([tabindex]) {
-    color: #337ab7
+    color: #DA8AC9
   }
 
   a:not([href]):not([tabindex]).btn,
@@ -61,6 +61,25 @@
   a:hover:not([href]):not([tabindex]).btn {
     color: white;
     overflow: hidden;
+  }
+
+  //UwU
+  .btn-primary:focus, .btn-primary:hover{
+    background-color: #DA8AC9!important;
+  }
+
+  a.badge-primary:focus,a.badge-primary:hover{
+    background-color: #DA8AC9;
+  }
+  
+  a.bg-primary:focus,a.bg-primary:hover,button.bg-primary:focus,button.bg-primary:hover{
+    background-color: #DA8AC9;
+  }
+  .btn-primary:not(:disabled):not(.disabled).active,.btn-primary:not(:disabled):not(.disabled):active,.show>.btn-primary.dropdown-toggle{
+    background-color: #DA8AC9;
+  }
+  .dropdown-toggle{
+    background-color: #915C86;
   }
 
   .text-md-justify {

@@ -21,7 +21,7 @@
 # along with Ubuntu Budgie welcome. If not, see <http://www.gnu.org/licenses/>.
 #
 
-""" Welcome App for Ubuntu Budgie and budgie-remix """
+""" Welcome App for Ubuntu Budgie, budgie-remix and UwUntu"""
 
 import re
 import apt
@@ -720,7 +720,7 @@ class AppView(WebKit2.WebView):
             popup.showMessage()
         elif uri == 'about':
             message = "<div class=\"text-md-center\">"
-            message += "<strong>" + _("Budgie Welcome") + "</strong><br>"
+            message += "<strong>" + _("UwUntu Welcome") + "</strong><br>"
             message += "Version {}".format(
                 systemstate.app_version
             )
@@ -1428,7 +1428,7 @@ class SystemState(object):
 
         if self.official:
             self.distroname = 'Ubuntu Budgie'
-            self.distro_wordmark = 'ubuntu-budgie-wordmark.svg'
+            self.distro_wordmark = 'uwuntu-logo.png'
         else:
             self.distroname = 'budgie-remix'
             self.distro_wordmark = 'budgie-remix-wordmark.svg'
@@ -1888,7 +1888,7 @@ class WelcomeApp(object):
                                         flags=0,
                                         message_type=Gtk.MessageType.INFO,
                                         buttons=Gtk.ButtonsType.OK,
-                                        text=_("Budgie Welcome"))
+                                        text=_("UwUntu Welcome"))
             dialog.format_secondary_text(
                 _("This snap is running on a distro that is unrecognized or on a development "
                   "release of Ubuntu that has not yet received its snap configuration.  Full "
@@ -1905,7 +1905,7 @@ class WelcomeApp(object):
                                             flags=0,
                                             message_type=Gtk.MessageType.WARNING,
                                             buttons=Gtk.ButtonsType.OK,
-                                            text=_("Budgie Welcome"))
+                                            text=_("UwUntu Welcome"))
                 dialog.format_secondary_text(
                     _("This snap is running on version of budgie desktop that is no longer "
                       "supported. Please upgrade to a supported version of the distro."))
@@ -1933,13 +1933,13 @@ class WelcomeApp(object):
         w = Gtk.Window()
         w.set_position(Gtk.WindowPosition.CENTER)
         #w.set_wmclass('budgie-welcome', _("Budgie Welcome"))
-        w.set_title(_("Budgie Welcome"))
+        w.set_title(_("UwUntu Welcome"))
 
         icon_dir = os.path.join(self._data_path, 'img', 'distro-icon.svg')
         w.set_icon_from_file(icon_dir)
 
         # Turn window into a CSD styled application and create menu entries.
-        header = Gtk.HeaderBar(title=_("Budgie Welcome"))
+        header = Gtk.HeaderBar(title=_("UwUntu Welcome"))
         header.props.show_close_button = True
         w.set_titlebar(header)
 
@@ -2157,7 +2157,7 @@ class Arguments(object):
             if arg == '--help' or arg == '-h':
                 print(
                     '\nWelcome App Parameters\n  Intended for debugging and testing purposes only!\n')
-                print('\nUsage: budgie-welcome [arguments]')
+                print('\nUsage: uwuntu-welcome [arguments]')
                 #     | Command                      | Help Text                                     |
                 print(
                     '  -d, --dev, --debug           Disables locales and is very verbose')
@@ -2194,7 +2194,7 @@ class Arguments(object):
 
             elif arg == '-V' or arg == '--version':
                 versions = find_app_version()
-                print("Budgie Welcome" + " " + \
+                print("UwUntu Welcome" + " " + \
                       versions[0] + "\n" + "Budgie Desktop" + " " + versions[1])
                 exit()
 
@@ -2401,18 +2401,18 @@ def desktop_files():
         built with translated Names and Comments
     """
 
-    Name = _("Budgie Welcome")
+    Name = _("UwUntu Welcome")
     Comment = _("Find out about your operating system")
 
-    Name = _("Budgie Makeovers & Layouts")
+    Name = _("UwUntu Makeovers & Layouts")
     Comment = _("Give the desktop a makeover with new themes, icons, fonts & layouts")
 
-    Name = _("Budgie Extras")
+    Name = _("UwUntu Extras")
     Comment = _(
         "Customize the desktop with applets and mini-applications to provide extra capabilities")
 
-    Name = _("Budgie Discourse")
-    Comment = _("Be part of the Ubuntu Budgie Community")
+    Name = _("UwUntu Discourse")
+    Comment = _("Be part of the UwUntu Community")
 
 
 def whereami():

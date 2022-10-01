@@ -25,7 +25,7 @@ msgstr ""
 
 #: budgie-welcome:723 budgie-welcome:1891 budgie-welcome:1908
 #: budgie-welcome:1936 budgie-welcome:1942 budgie-welcome:2404
-msgid "Budgie Welcome"
+msgid "UwUntu Welcome"
 msgstr ""
 
 #: budgie-welcome:727
@@ -97,7 +97,7 @@ msgid "Find out about your operating system"
 msgstr ""
 
 #: budgie-welcome:2407
-msgid "Budgie Makeovers & Layouts"
+msgid "UwUntu Makeovers & Layouts"
 msgstr ""
 
 #: budgie-welcome:2408
