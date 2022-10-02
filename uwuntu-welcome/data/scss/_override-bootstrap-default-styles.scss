@@ -1,6 +1,25 @@
 /******************************
  * Override default bootstrap styles
 *******************************/
+
+/*SCROLLBAR*/
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  	background: #DF8A94; 
+}
+
+::-webkit-scrollbar-thumb {
+  	background: #FF00E2; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  	background: #a30091; 
+}
+/*END SCROLLBAR*/
+
 .btn-inverse {
     color: white;
     background-color: #404552;
@@ -81,6 +100,21 @@
   .dropdown-toggle{
     background-color: #915C86;
   }
+
+  .alert, .alert-warning{
+    background-color: #FFABE1;
+    color: #915C86;
+  }
+
+  .btn-warning, .btn-warning:hover, .btn-warning:focus{
+    background-color: #845B84;
+    color: #937DC2;
+  }
+
+  .kofi:hover{
+    background-color: #EAEAEA;
+  }
+
 
   .text-md-justify {
     text-align: justify

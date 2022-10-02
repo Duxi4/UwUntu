@@ -1431,7 +1431,7 @@ class SystemState(object):
             self.distro_wordmark = 'uwuntu-logo.png'
         else:
             self.distroname = 'budgie-remix'
-            self.distro_wordmark = 'budgie-remix-wordmark.svg'
+            self.distro_wordmark = 'uwuntu-logo.png'
 
     def autostart_check(self):
         # Ensure our autostart directories exist
@@ -2289,7 +2289,7 @@ def find_app_version(cache=apt.Cache()):
         elif package == 'budgie-welcome' and 'SNAP_VERSION' in os.environ:
             versions.append(os.environ['SNAP_VERSION'])
         else:
-            versions.append('NA')
+            versions.append('1.0')
 
     return versions
 
