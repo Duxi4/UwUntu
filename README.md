@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src=".readmeimgs/logo.png" alt="UwUntu Logo">
+    <img src=".readmeimgs/logo.png" alt="UwUntu Logo" width="480">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
