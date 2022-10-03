@@ -1,3 +1,4 @@
+<br id="readme-top"/>
 <!-- Shields -->
 [![Stargazers][stars-shield]][stars-url]
 [![gotoweb][gotoweb-shield]][gotoweb-url]
@@ -6,7 +7,7 @@
 [![Discord][discord-shield]][discord-url]
 
 <!-- PROJECT LOGO -->
-<br id="readme-top"/>
+<br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src=".readmeimgs/logo.png" alt="UwUntu Logo" width="480">
