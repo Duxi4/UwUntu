@@ -62,19 +62,35 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<br />
+<br />
+
 <!-- Aisleriot Cards -->
 ## Aisleriot Cards
 ### Set 1
 ### Set 2
 ### Create Your Own Set
+
 <!-- Background Files -->
 ## Background Files
+<br />
+<br />
+
 <!-- Neofetch Configuration -->
 ## Neofetch Configuration
+<br />
+<br />
 <!-- UwUntu Related Repositories -->
 ## UwUntu Related Repositories
+
+<br />
+<br />
 <!-- Community -->
 ## Community
+<p>
+To get support for UwUntu specific issues, the UwUntu Discord is the best place to go. You can raise issues and help other members of our growing community.
+</p>
+
 <!-- Help The Project -->
 ## Help The Project
 
