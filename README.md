@@ -73,23 +73,30 @@
 
 <!-- Background Files -->
 ## Background Files
+
 <br />
 <br />
 
 <!-- Neofetch Configuration -->
 ## Neofetch Configuration
+
 <br />
 <br />
+
 <!-- UwUntu Related Repositories -->
 ## UwUntu Related Repositories
 
 <br />
 <br />
+
 <!-- Community -->
 ## Community
 <p>
 To get support for UwUntu specific issues, the UwUntu Discord is the best place to go. You can raise issues and help other members of our growing community.
 </p>
+
+<br />
+<br />
 
 <!-- Help The Project -->
 ## Help The Project
@@ -103,6 +110,8 @@ In this process we fell in love with Linux and now we are planning to take this 
 <p>
 If you’d like to contribute to this project, knowledge about Linux is always welcome, and if you would like to support us even more a donation will always be appreciated.
 </p>
+
+<br />
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
