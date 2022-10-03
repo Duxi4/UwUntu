@@ -3,7 +3,7 @@
 [![gotoweb][gotoweb-shield]][gotoweb-url]
 [![KoFi][kofi-shield]][kofi-url]
 [![Tweet][tweet-shield]][tweet-url]
-[![Discord]][discord-shield]][discord-url]
+[![Discord][discord-shield]][discord-url]
 
 
 <!-- PROJECT LOGO -->
@@ -236,7 +236,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!--Discord server -->
 [discord-shield]:
-[discord-url]:https://discord.gg/US38bG9n8c
+[discord-url]: https://discord.gg/US38bG9n8c
 
 
 
