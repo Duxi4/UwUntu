@@ -1,11 +1,9 @@
 <!-- Shields -->
-<div align="center">
 [![Stargazers][stars-shield]][stars-url]
 [![gotoweb][gotoweb-shield]][gotoweb-url]
 [![KoFi][kofi-shield]][kofi-url]
 [![Tweet][tweet-shield]][tweet-url]
 [![Discord][discord-shield]][discord-url]
-</div>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -14,19 +12,16 @@
     <img src=".readmeimgs/logo.png" alt="UwUntu Logo" width="480">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">UwUntu OS official Github</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://uwuntuos.site">Download UwUntu</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://bugs.launchpad.net/uwuntu">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://answers.launchpad.net/uwuntu">Ask something</a>
   </p>
 </div>
 
