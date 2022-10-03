@@ -2,7 +2,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![gotoweb][gotoweb-shield]][gotoweb-url]
 [![KoFi][kofi-shield]][kofi-url]
-
+[![Tweet][tweet-shield]][tweet-url]
+[![Discord]][discord-shield]][discord-url]
 
 
 <!-- PROJECT LOGO -->
@@ -219,21 +220,23 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!--GITHUB STARS-->
 [stars-shield]: https://img.shields.io/github/stars/Duxi4/UwUntu?style=for-the-badge&logo=Linux&logoColor=C689C6&color=FFABE1
-
 [stars-url]: https://github.com/Duxi4/UwUntu/stargazers
+
 <!--UWUNTUOS.SITE-->
-[gotoweb-shield]: https://img.shields.io/badge/Website-uwuntuos.site?style=for-the-badge&logo=Internet%20Explorer&logoColor=C689C6&color=FFABE1
-
+[gotoweb-shield]: https://img.shields.io/badge/UwUntu%20Website-hi?style=for-the-badge&logo=Internet%20Explorer&logoColor=C689C6&color=FFABE1
 [gotoweb-url]: https://uwuntuos.site
-
 
 <!--KO-FI-->
 [kofi-shield]: https://img.shields.io/badge/Buy%20us%20a%20cofee-KoFi?style=for-the-badge&logo=KoFi&logoColor=C689C6&color=FFABE1
-
 [kofi-url]: https://ko-fi.com/uwuntu
 
+<!-- Tweet about us-->
+[tweet-shield]: https://img.shields.io/badge/Join%20our%20discord-hi?style=for-the-badge&logo=Discord&logoColor=C689C6&color=FFABE1
+[tweet-url]: https://bit.ly/380p4nL
 
-
+<!--Discord server -->
+[discord-shield]:
+[discord-url]:https://discord.gg/US38bG9n8c
 
 
 
