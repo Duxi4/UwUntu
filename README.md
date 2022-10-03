@@ -36,16 +36,16 @@
     <li>
       <a href="#aisleriot-cards">Aisleriot Cards</a>
       <ul>
-        <li><a href="#ac-set1">Set 1</a></li>
-        <li><a href="#ac-set2">Set 2</a></li>
-        <li><a href="#ac-createset">Create Your Own Set</a></li>
+        <li><a href="#set-1">Set 1</a></li>
+        <li><a href="#set-2">Set 2</a></li>
+        <li><a href="#create-your-own-set">Create Your Own Set</a></li>
       </ul>
     </li>
-    <li><a href="#bgfiles">Background Files</a></li>
+    <li><a href="#background-files">Background Files</a></li>
     <li><a href="#neofetch">Neofetch</a></li>
-    <li><a href="#otherrepos">UwUntu Related Repositories</a></li>
+    <li><a href="#uwuntu-related-repositories">UwUntu Related Repositories</a></li>
     <li><a href="#community">Community</a></li>
-    <li><a href="#helptheproject">Help The Project</a></li>
+    <li><a href="#help-the-project">Help The Project</a></li>
   </ol>
 </details>
 <br />
@@ -206,14 +206,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- Aisleriot Cards -->
 ## Aisleriot Cards
+### Set 1
+### Set 2
+### Create Your Own Set
 <!-- Background Files -->
 ## Background Files
 <!-- Neofetch Configuration -->
 ## Neofetch Configuration
 <!-- UwUntu Related Repositories -->
 ## UwUntu Related Repositories
-## Community
-<!--  -->
+<!-- Community -->
 ## Community
 <!-- Help The Project -->
 ## Help The Project
