@@ -1,7 +1,7 @@
 <!-- Shields -->
 [![Stargazers][stars-shield]][stars-url]
 [![gotoweb][gotoweb-shield]][gotoweb-url]
-[[kofi-shield][kofi-url]]
+[![KoFi][kofi-shield]][kofi-url]
 
 
 
