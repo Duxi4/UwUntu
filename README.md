@@ -1,10 +1,10 @@
-<br id="readme-top"/>
 <!-- Shields -->
 [stars-shield][stars-url]
 [gotoweb-shield][gotoweb-url]
 [kofi-shield][kofi-url]
 [tweet-shield][tweet-url]
 [discord-shield][discord-url]
+
 <!--
 [![Stargazers][stars-shield]][stars-url]
 [![gotoweb][gotoweb-shield]][gotoweb-url]
