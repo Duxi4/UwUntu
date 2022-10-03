@@ -55,6 +55,7 @@
 ## About The Project
 <img src=".readmeimgs/desktops.gif" alt="Desktop Screenshots">
 
+<p>UwUntu is a distro of Ubuntu, meaning its easy enough for new users to go into it, but we gave it the customization we thought it needed to become an OS that we, at the UwUntu team, would use on our daily life.</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
