@@ -42,7 +42,7 @@
       </ul>
     </li>
     <li><a href="#background-files">Background Files</a></li>
-    <li><a href="#neofetch">Neofetch</a></li>
+    <li><a href="#neofetch-configuration">Neofetch Configuration</a></li>
     <li><a href="#uwuntu-related-repositories">UwUntu Related Repositories</a></li>
     <li><a href="#community">Community</a></li>
     <li><a href="#help-the-project">Help The Project</a></li>
