@@ -225,7 +225,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/Duxi4/UwUntu.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Duxi4/UwUntu?style=for-the-badge&logo=Linux
 [stars-url]: https://github.com/Duxi4/UwUntu/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
