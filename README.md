@@ -53,17 +53,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
+<img src=".readmeimgs/desktops.gif alt="Desktop Screenshots">
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 Use the `BLANK_README.md` to get started.
 
@@ -90,7 +84,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
@@ -221,9 +214,9 @@ Use this space to list resources you find helpful and would like to give credit 
 ## Help The Project
 
 
+<!-- SHORTCUTS -->
 
 <!-- SHIELDS LINKS -->
-
 <!--GITHUB STARS-->
 [stars-shield]: https://img.shields.io/github/stars/Duxi4/UwUntu?style=for-the-badge&logo=Linux&logoColor=C689C6&color=FFABE1
 [stars-url]: https://github.com/Duxi4/UwUntu/stargazers
@@ -244,6 +237,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [discord-shield]:https://img.shields.io/badge/Join%20our%20discord-hi?style=for-the-badge&logo=Discord&logoColor=C689C6&color=FFABE1
 [discord-url]:https://discord.gg/US38bG9n8c
 
+
+<!-- About The Project --> 
 
 
 
