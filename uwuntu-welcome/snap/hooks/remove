@@ -1,4 +1,0 @@
-#!/bin/sh
-
-#rm -f /etc/skel/.config/autostart/budgie-welcome.desktop
-rm -f /usr/share/polkit-1/actions/org.budgie.welcome.policy

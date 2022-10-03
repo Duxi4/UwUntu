@@ -1,5 +1,0 @@
-#!/bin/sh
-
-sleep 2
-nohup budgie-panel --replace &
-
