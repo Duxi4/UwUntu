@@ -15,8 +15,6 @@
   <h3 align="center">UwUntu OS official Github</h3>
 
   <p align="center">
-    <br />
-    <br />
     <a href="https://uwuntuos.site">Download UwUntu</a>
     ·
     <a href="https://bugs.launchpad.net/uwuntu">Report Bug</a>
