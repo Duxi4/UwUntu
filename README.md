@@ -114,8 +114,8 @@ If you’d like to contribute to this project, knowledge about Linux is always w
 <br />
 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src=".readmeimgs/kofi-logo.png" alt="Ko-Fi Logo" height="95px">
+  <a href="https://ko-fi.com/uwuntu">
+    <img src=".readmeimgs/kofi-logo.png" alt="Ko-Fi Logo" height="75px">
   </a>
 </div>
 
