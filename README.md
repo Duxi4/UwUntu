@@ -90,7 +90,7 @@ If you’d like to contribute to this project, knowledge about Linux is always w
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src=".readmeimgs/logo.png" alt="UwUntu Logo" width="480">
+    <img src=".readmeimgs/kofi-logo.png" alt="Ko-Fi Logo" width="480">
   </a>
 </div>
 
