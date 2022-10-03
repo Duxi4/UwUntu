@@ -231,12 +231,12 @@ Use this space to list resources you find helpful and would like to give credit 
 [kofi-url]: https://ko-fi.com/uwuntu
 
 <!-- Tweet about us-->
-[tweet-shield]: https://img.shields.io/badge/Join%20our%20discord-hi?style=for-the-badge&logo=Discord&logoColor=C689C6&color=FFABE1
+[tweet-shield]: https://img.shields.io/badge/Tweet%20about%20us-hi?style=for-the-badge&logo=Twitter&logoColor=C689C6&color=FFABE1
 [tweet-url]: https://bit.ly/380p4nL
 
 <!--Discord server -->
-[discord-shield]:
-[discord-url]: https://discord.gg/US38bG9n8c
+[discord-shield]:https://img.shields.io/badge/Join%20our%20discord-hi?style=for-the-badge&logo=Discord&logoColor=C689C6&color=FFABE1
+[discord-url]:https://discord.gg/US38bG9n8c
 
 
 
