@@ -1,10 +1,11 @@
 <!-- Shields -->
+<div align="center">
 [![Stargazers][stars-shield]][stars-url]
 [![gotoweb][gotoweb-shield]][gotoweb-url]
 [![KoFi][kofi-shield]][kofi-url]
 [![Tweet][tweet-shield]][tweet-url]
 [![Discord][discord-shield]][discord-url]
-
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
