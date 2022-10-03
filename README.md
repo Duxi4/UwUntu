@@ -1,11 +1,7 @@
-# UwUntu
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
+<!-- Shields -->
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![gotoweb][gotoweb-shield]][gotoweb-url]
+[[kofi-shield][kofi-url]]
 
 
 
@@ -219,20 +215,29 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+<!-- SHIELDS LINKS -->
+
+<!--GITHUB STARS-->
 [stars-shield]: https://img.shields.io/github/stars/Duxi4/UwUntu?style=for-the-badge&logo=Linux&logoColor=C689C6&color=FFABE1
+
 [stars-url]: https://github.com/Duxi4/UwUntu/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge&logoColor=FFABE1&color=
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+<!--UWUNTUOS.SITE-->
+[gotoweb-shield]: https://img.shields.io/badge/Website-uwuntuos.site?style=for-the-badge&logo=Internet%20Explorer&logoColor=C689C6&color=FFABE1
+
+[gotoweb-url]: https://uwuntuos.site
+
+
+<!--KO-FI-->
+[kofi-shield]: https://img.shields.io/badge/Buy%20us%20a%20cofee-KoFi?style=for-the-badge&logo=KoFi&logoColor=C689C6&color=FFABE1
+
+[kofi-url]: https://ko-fi.com/uwuntu
+
+
+
+
+
+
+
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
