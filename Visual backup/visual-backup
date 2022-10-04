@@ -174,7 +174,7 @@ zoom-enabled=true
 zoom-percent=150
 
 [org/buddiesofbudgie/control-center]
-last-panel='background'
+last-panel='keyboard'
 
 [org/gnome/2048]
 window-height=604
@@ -202,12 +202,13 @@ translate=true
 [org/gnome/desktop/background]
 color-shading-type='solid'
 picture-options='zoom'
-picture-uri='file:///usr/share/backgrounds/Wall15.jpg'
+picture-uri='file:///home/strix/Documents/Wall16.jpg'
 primary-color='#000000'
 secondary-color='#000000'
 
 [org/gnome/desktop/input-sources]
 current=uint32 0
+per-window=false
 sources=[('xkb', 'es')]
 
 [org/gnome/desktop/interface]
@@ -222,7 +223,7 @@ numlock-state=true
 [org/gnome/desktop/screensaver]
 color-shading-type='solid'
 picture-options='zoom'
-picture-uri='file:///usr/share/backgrounds/Wall15.jpg'
+picture-uri='file:///home/strix/Documents/Wall16.jpg'
 primary-color='#000000'
 secondary-color='#000000'
 
@@ -269,8 +270,8 @@ sidebar-sections=['GthFileProperties:expanded', 'GthFileComment:expanded', 'GthF
 sidebar-visible=true
 sort-inverse=false
 sort-type='file::mtime'
-startup-current-file='file:///usr/share/backgrounds/Xplo_by_Hugo_Cliff.png'
-startup-location='file:///usr/share/backgrounds'
+startup-current-file='file:///home/strix/Wall16.jpg'
+startup-location='file:///home/strix'
 statusbar-visible=true
 thumbnail-list-visible=true
 viewer-sidebar='hidden'
@@ -327,15 +328,17 @@ window-size=(1203, 836)
 desktop-layout='true::false'
 home-icon-visible=true
 trash-icon-visible=true
+use-desktop-grid=false
 volumes-visible=false
 
 [org/nemo/preferences]
 disable-menu-warning=false
-show-hidden-files=true
+show-hidden-files=false
+show-location-entry=true
 
 [org/nemo/window-state]
-geometry='799x445+50+50'
-maximized=true
+geometry='843x535+88+88'
+maximized=false
 sidebar-bookmark-breakpoint=5
 start-with-menu-bar=false
 start-with-sidebar=true
