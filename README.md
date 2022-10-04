@@ -36,14 +36,6 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li>
-      <a href="#aisleriot-cards">Aisleriot Cards</a>
-      <ul>
-        <li><a href="#set-1">Set 1</a></li>
-        <li><a href="#set-2">Set 2</a></li>
-        <li><a href="#create-your-own-set">Create Your Own Set</a></li>
-      </ul>
-    </li>
     <li><a href="#background-files">Background Files</a></li>
     <li><a href="#neofetch-configuration">Neofetch Configuration</a></li>
     <li><a href="#uwuntu-related-repositories">UwUntu Related Repositories</a></li>
@@ -64,12 +56,6 @@
 
 <br />
 <br />
-
-<!-- Aisleriot Cards -->
-## Aisleriot Cards
-### Set 1
-### Set 2
-### Create Your Own Set
 
 <!-- Background Files -->
 ## Background Files
