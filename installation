@@ -1,6 +1,7 @@
 sudo snap install discord
 sudo snap install chromium
 sudo snap install spotify
+sudo snap install steam
 sudo apt remove plank
 sudo apt install calibre
 sudo apt install dconf-editor
@@ -34,5 +35,4 @@ mv config.fish a su sitio
 
 sudo load / < visual-backup
 ### HASTA AQUI ###
-
 
