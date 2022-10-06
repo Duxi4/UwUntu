@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=UwUntu Welcome Remover
+GenericName=budgie-welcome
+Comment=Stupidly simple.
+Categories=Utility;
+Type=Application
+Exec=bash /usr/bin/uwuntu-welcome/removewelcome.sh
+Icon=/usr/share/icons/rounded-logo.png
+Terminal=false
+NoDisplay=false
+Name[en_US]=removewelcome.desktop
