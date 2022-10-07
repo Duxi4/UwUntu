@@ -2,9 +2,10 @@ sudo snap install discord
 sudo snap install chromium
 sudo snap install spotify
 sudo snap install steam
+sudo snap remove ubuntu-budgie-welcome
 sudo apt remove plank
 sudo apt install calibre
-sudo apt install dconf-editor
+*sudo apt install dconf-editor
 sudo apt install vlc
 sudo apt install qbittorrent
 sudo apt install neofetch
