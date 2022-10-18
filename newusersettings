@@ -1,6 +1,0 @@
-/etc/adduser.conf
-    DSHELL=/bin/fish
-
-
-/etc/default/useradd
-SHELL=/bin/fish

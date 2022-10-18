@@ -1,0 +1,1 @@
+meson cmake pkg-config guile-2.2-dev guile-3.0-dev libcairo-dev libgtk-3-dev libcanberra-gtk3-dev librsvg2-dev qt5*-dev libqt5*-dev libxml2-utils itstool gettext libxml2-dev

@@ -22,3 +22,6 @@ Check the svgz file in aisleriot-master/builddir/cards/yourfile.svgz
 
 To add the cards set to the game, copy the file into /usr/share/aisleriot/cards
 If there is not that directory, install the package gnome-cards-data
+
+known dependences
+sudo apt install cmake pkg-config
