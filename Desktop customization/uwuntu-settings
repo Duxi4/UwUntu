@@ -293,3 +293,6 @@ popup-corner=4
 desktopweather=false
 dynamicicon=true
 forecast=true
+
+[x.dm.slick-greeter]
+background='/usr/share/backgrounds/Wall15.jpg'

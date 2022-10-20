@@ -1,12 +1,33 @@
+FILES TO EDIT
+/etc/adduser.conf
+    DSHELL=/usr/bin/fish
+
+#/etc/default/useradd
+#    SHELL=/bin/fish
+
+/etc/os-release
+    version: 22.10
+    volumeid: UwUntu 22.10 LTS
+    release: Leo Dango
+    url: https://uwuntuos.site
+
+/etc/lsb_release
+    DISTRIB_DESCRIPTION
+
+/etc/apt/sources.list
+    replace with sources file
+
+
 SNAP
 remove-->
 budgie-welcome snap
 firefox
 
+
 SNAP .DESKTOP FILES (/var/lib/snapd/desktop/applications/)
 remove-->
 Budgie welcome
-firefox
+
 
 DESKTOP FILES(/usr/share/applications)
 add-->
@@ -18,7 +39,16 @@ remove-->
 plank
 
 install -->
-calibre vlc qbittorrent neofetch fish git gnome-nibbles flatpak gnome-software-plugin-flatpak chromium-browser firefox
+kitty calibre vlc 
+qbittorrent neofetch fish
+git gnome-nibbles flatpak
+gnome-software-plugin-flatpak chromium-browser
+sassc uglifyjs
+
+spotify-->
+curl -sS https://download.spotify.com/debian/pubkey_5E3C45D7B312C643.gpg | sudo apt-key add - 
+echo "deb http://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
+sudo apt-get update && sudo apt-get install spotify-client
 
 
 
@@ -27,8 +57,9 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 
 install--> (flatpak install flathub )
 com.valvesoftware.Steam
-com.spotify.Client
+#com.spotify.Client ERROR 256
 com.discordapp.Discord
+org.mozilla.firefox
 
 
 FISH
@@ -37,19 +68,3 @@ omf install lambda
 omf theme lambda
 
 
-FILES TO EDIT
-/etc/adduser.conf
-    DSHELL=/bin/fish
-
-/etc/default/useradd
-    SHELL=/bin/fish
-
-/etc/os-release
-    version: 22.10
-    volumeid: UwUntu 22.10 LTS
-    release: Leo Dango
-    url: https://uwuntuos.site
-
-
-/etc/apt/sources.list
-    replace with sources file
