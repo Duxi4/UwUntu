@@ -33,12 +33,14 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#ThingsToDo-file">ThingsToDo file</a></li>
     <li><a href="#background-files">Background Files</a></li>
-    <li><a href="#neofetch-configuration">Neofetch Configuration</a></li>
-    <li><a href="#uwuntu-related-repositories">UwUntu Related Repositories</a></li>
+    <li><a href="#Dconf-configuration-and-Desktop-layout">Dconf configuration and Desktop layout</a></li>
+    <li><a href="#Plymouth">Plymouth</a></li>
+    <li><a href="#Skel-files">Skel files</a></li>
+     <li><a href="#Ubiquity">Ubiquity</a></li>
+    <li><a href="#uwuntu-repositories">UwUntu Repositories</a></li>
     <li><a href="#community">Community</a></li>
     <li><a href="#help-the-project">Help The Project</a></li>
   </ol>
@@ -52,51 +54,60 @@
 
 <p>UwUntu is a distro of Ubuntu, meaning its easy enough for new users to go into it, but we gave it the customization we thought it needed to become an OS that we, at the UwUntu team, would use on our daily life.</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <br />
 <br />
 
 <!-- ThingsToDo file -->
 ## ThingsToDo file
 
+The `ThingsToDo` file contains small tasks to do. It contains the apt packages added to UwUntu, Flatpak configuration and some files to edit.
 <br />
 <br />
 
 
 <!-- Background Files -->
 ## Background Files
+`budgie-jammy-wallpapers.xml` & `budgie-wallpapers.xml`contains the name and location for each background available in UwUntu.
 
+You can get the backgrounds from the UwUntu-ART GitHub.
 <br />
 <br />
 
 <!-- Dconf Configuration & Desktop layout -->
-## Dconf configuration & Desktop layout
-
+## Dconf configuration and Desktop layout
+Contains all the dconf configuration dumped into `uwuntu-settings`, all the themes and icons required and a readme file with the guidelines to apply the dconf settings.
 <br />
 <br />
 
 <!-- Plymouth -->
 ## Plymouth
+Just two images to replace in /usr/share/plymouth
 
 <br />
 <br />
 
 <!-- Skel -->
 ## Skel files
-
+All the files required for new users (neofetch, shell, uwuntu-welcome...).
 <br />
 <br />
 
 <!-- Ubiquity -->
 ## Ubiquity
-
+Just a image to replace in /usr/share/ubiquity/pixmaps/ubuntu
 <br />
 <br />
 
 <!-- UwUntu Repositories -->
 ## UwUntu Repositories
 
+[![UwUntu-Art][github-art]][UwUntu-Art-url]
+[![KoFi][github-artpsd]][UwUntu-Art-PSD-url]
+[![Aisleriot-Cards][github-aisleriot]][Aisleriot-Cards-url]
+[![UwUntu-info-updater][github-infoupdater]][UwUntu-info-updater-url]
+[![UwUntu-plymouth-theme][github-plymouth]][UwUntu-plymouth-theme-url]
+[![UwUntu-ubiquity-slideshow][github-slideshow]][UwUntu-ubiquity-slideshow-url]
+[![UwUntu-welcome][github-welcome]][UwUntu-welcome-url]
 <br />
 <br />
 
@@ -105,6 +116,8 @@
 <p>
 To get support for UwUntu specific issues, the UwUntu Discord is the best place to go. You can raise issues and help other members of our growing community.
 </p>
+
+<br />
 
 <div align="center">
   <a href="https://discord.gg/US38bG9n8c">
@@ -136,40 +149,7 @@ If you’d like to contribute to this project, knowledge about Linux is always w
   </a>
 </div>
 
-
-
-## cosas
-
-* Ejemplo 1
-* Ejemplo 2
-
-Use the `BLANK_README.md` to get started.s
-
-  ```sh
-  npm install npm@latest -g
-  ```
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- SHORTCUTS -->
 
@@ -195,24 +175,24 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [discord-url]:https://discord.gg/US38bG9n8c
 
 
-<!-- About The Project --> 
+<!-- Other Repos -->
+[github-art]:https://img.shields.io/badge/REPO:-UwUntu%20Art-hi?style=for-the-badge&logo=GitHub&logoColor=C689C6&color=FFABE1
+[UwUntu-Art-url]:https://github.com/Duxi4/UwUntu-Art
 
+[github-artpsd]:https://img.shields.io/badge/REPO:-UwUntu%20Art%20PSD-hi?style=for-the-badge&logo=GitHub&logoColor=C689C6&color=FFABE1
+[UwUntu-Art-PSD-url]:https://github.com/Duxi4/UwUntu-Art-PSD
 
+[github-aisleriot]:https://img.shields.io/badge/REPO:-UwUntu%20Aisleriot%20Cards-hi?style=for-the-badge&logo=GitHub&logoColor=C689C6&color=FFABE1
+[Aisleriot-Cards-url]:https://github.com/Duxi4/UwUntu-Aisleriot-Cards
 
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[github-infoupdater]:https://img.shields.io/badge/REPO:-UwUntu%20info%20updater-hi?style=for-the-badge&logo=GitHub&logoColor=C689C6&color=FFABE1
+[UwUntu-info-updater-url]:https://github.com/Duxi4/UwUntu-info-updater
+
+[github-plymouth]:https://img.shields.io/badge/REPO:-UwUntu%20plymouth%20theme-hi?style=for-the-badge&logo=GitHub&logoColor=C689C6&color=FFABE1
+[UwUntu-plymouth-theme-url]:https://github.com/Duxi4/UwUntu-plymouth-theme
+
+[github-slideshow]:https://img.shields.io/badge/REPO:-UwUntu%20ubiquity%20slideshow-hi?style=for-the-badge&logo=GitHub&logoColor=C689C6&color=FFABE1
+[UwUntu-ubiquity-slideshow-url]:https://github.com/Duxi4/UwUntu-ubiquity-slideshow
+
+[github-welcome]:https://img.shields.io/badge/REPO:-UwUntu%20welcome-hi?style=for-the-badge&logo=GitHub&logoColor=C689C6&color=FFABE1
+[UwUntu-welcome-url]:https://github.com/Duxi4/uwuntu-welcome

@@ -1,1 +1,0 @@
-The location of the faces is /usr/share/pixmaps/faces
