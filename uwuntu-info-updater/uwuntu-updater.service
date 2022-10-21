@@ -1,9 +1,0 @@
-[Unit]
-Description=This service solves the lost of the OS name
-
-[Service]
-User=root
-ExecStart=sudo bash /usr/bin/uwuntu-info-updater/uwuntu-info-updater.sh
-
-[Install]
-WantedBy=multi-user.target

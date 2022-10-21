@@ -1,8 +1,0 @@
-[Plymouth Theme]
-Name=uwuntu-plymouth
-Description=A theme that features the UwUntu logo.
-ModuleName=script
-
-[script]
-ImageDir=/usr/share/plymouth/themes/uwuntu-plymouth
-ScriptFile=/usr/share/plymouth/themes/uwuntu-plymouth/uwuntu-plymouth.script
