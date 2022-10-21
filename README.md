@@ -57,20 +57,45 @@
 <br />
 <br />
 
+<!-- ThingsToDo file -->
+## ThingsToDo file
+
+<br />
+<br />
+
+
 <!-- Background Files -->
 ## Background Files
 
 <br />
 <br />
 
-<!-- Neofetch Configuration -->
-## Neofetch Configuration
+<!-- Dconf Configuration & Desktop layout -->
+## Dconf configuration & Desktop layout
 
 <br />
 <br />
 
-<!-- UwUntu Related Repositories -->
-## UwUntu Related Repositories
+<!-- Plymouth -->
+## Plymouth
+
+<br />
+<br />
+
+<!-- Skel -->
+## Skel files
+
+<br />
+<br />
+
+<!-- Ubiquity -->
+## Ubiquity
+
+<br />
+<br />
+
+<!-- UwUntu Repositories -->
+## UwUntu Repositories
 
 <br />
 <br />
@@ -80,6 +105,12 @@
 <p>
 To get support for UwUntu specific issues, the UwUntu Discord is the best place to go. You can raise issues and help other members of our growing community.
 </p>
+
+<div align="center">
+  <a href="https://discord.gg/US38bG9n8c">
+    <img src=".readmeimgs/join-discord.png" alt="Join Discord" height="100px">
+  </a>
+</div>
 
 <br />
 <br />
