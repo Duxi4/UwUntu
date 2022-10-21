@@ -1,3 +1,0 @@
-fish_prompt.fish=/home/$USER/.local/share/omf/themes/lambda/functions
-
-fish_greeting.fish=/home/$USER/.config/fish/functions
