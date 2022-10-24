@@ -37,6 +37,7 @@ UwUntu welcome
 APT
 remove-->
 plank
+snapd
 
 install -->
 kitty calibre vlc 
